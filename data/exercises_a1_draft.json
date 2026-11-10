@@ -1,0 +1,8882 @@
+{
+  "metadata": {
+    "title": "A1 draft exercises (cleaned from COCTAILL seed corpus)",
+    "count": 160,
+    "source": "COCTAILL corpus, Språkbanken Text, University of Gothenburg",
+    "source_license": "CC BY 4.0",
+    "attribution": "COCTAILL corpus; Språkbanken Text, University of Gothenburg.",
+    "notes": "Все упражнения в статусе draft. Переводы и объяснения требуют проверки перед публикацией. Исключены 40 предложений из A1: реплики с именами, пометки, звёздочки, предложения длиннее 12 плашек."
+  },
+  "exercises": [
+    {
+      "id": "A1-001",
+      "source_id": "SV-A1-001",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "På eftermiddagen arbetar hon.",
+      "punctuation": ".",
+      "translation": "Днём она работает.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "På"
+        },
+        {
+          "id": "w2",
+          "text": "teater"
+        },
+        {
+          "id": "w3",
+          "text": "hon"
+        },
+        {
+          "id": "w4",
+          "text": "eftermiddagen"
+        },
+        {
+          "id": "w5",
+          "text": "arbetar"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w1",
+              "w4",
+              "w5",
+              "w3"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-002",
+      "source_id": "SV-A1-002",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Mitt kaffe är ju så gott.",
+      "punctuation": ".",
+      "translation": "Мой кофе ведь такой вкусный.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "är"
+        },
+        {
+          "id": "w2",
+          "text": "Mitt"
+        },
+        {
+          "id": "w3",
+          "text": "kaffe"
+        },
+        {
+          "id": "w4",
+          "text": "gott"
+        },
+        {
+          "id": "w5",
+          "text": "ju"
+        },
+        {
+          "id": "w6",
+          "text": "så"
+        },
+        {
+          "id": "w7",
+          "text": "fem"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w2",
+              "w3",
+              "w1",
+              "w5",
+              "w6",
+              "w4"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-003",
+      "source_id": "SV-A1-003",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Sveriges huvudstad heter Stockholm.",
+      "punctuation": ".",
+      "translation": "Столица Швеции называется Стокгольм.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Sveriges"
+        },
+        {
+          "id": "w2",
+          "text": "förlovad"
+        },
+        {
+          "id": "w3",
+          "text": "Stockholm"
+        },
+        {
+          "id": "w4",
+          "text": "heter"
+        },
+        {
+          "id": "w5",
+          "text": "huvudstad"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w1",
+              "w5",
+              "w4",
+              "w3"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-004",
+      "source_id": "SV-A1-004",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Klockan är två på natten och Lasse och Mona sover.",
+      "punctuation": ".",
+      "translation": "Сейчас два часа ночи, и Lasse и Mona спят.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Mona"
+        },
+        {
+          "id": "w2",
+          "text": "och"
+        },
+        {
+          "id": "w3",
+          "text": "stora"
+        },
+        {
+          "id": "w4",
+          "text": "Lasse"
+        },
+        {
+          "id": "w5",
+          "text": "och"
+        },
+        {
+          "id": "w6",
+          "text": "är"
+        },
+        {
+          "id": "w7",
+          "text": "Klockan"
+        },
+        {
+          "id": "w8",
+          "text": "två"
+        },
+        {
+          "id": "w9",
+          "text": "natten"
+        },
+        {
+          "id": "w10",
+          "text": "sover"
+        },
+        {
+          "id": "w11",
+          "text": "på"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w7",
+              "w6",
+              "w8",
+              "w11",
+              "w9",
+              "w2",
+              "w4",
+              "w5",
+              "w1",
+              "w10"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-005",
+      "source_id": "SV-A1-005",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Han har skrivit en lång lista på ska ha i ryggsäcken.",
+      "punctuation": ".",
+      "translation": "Он написал длинный список вещей, которые нужны в рюкзаке.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Han"
+        },
+        {
+          "id": "w2",
+          "text": "i"
+        },
+        {
+          "id": "w3",
+          "text": "lång"
+        },
+        {
+          "id": "w4",
+          "text": "på"
+        },
+        {
+          "id": "w5",
+          "text": "lista"
+        },
+        {
+          "id": "w6",
+          "text": "ha"
+        },
+        {
+          "id": "w7",
+          "text": "en"
+        },
+        {
+          "id": "w8",
+          "text": "skrivit"
+        },
+        {
+          "id": "w9",
+          "text": "ryggsäcken"
+        },
+        {
+          "id": "w10",
+          "text": "har"
+        },
+        {
+          "id": "w11",
+          "text": "skriver"
+        },
+        {
+          "id": "w12",
+          "text": "ska"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w1",
+              "w10",
+              "w8",
+              "w7",
+              "w3",
+              "w5",
+              "w4",
+              "w12",
+              "w6",
+              "w2",
+              "w9"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-006",
+      "source_id": "SV-A1-006",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Klockan åtta går hon hemifrån.",
+      "punctuation": ".",
+      "translation": "В восемь часов она уходит из дома.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "hon"
+        },
+        {
+          "id": "w2",
+          "text": "går"
+        },
+        {
+          "id": "w3",
+          "text": "åtta"
+        },
+        {
+          "id": "w4",
+          "text": "biljetter"
+        },
+        {
+          "id": "w5",
+          "text": "hemifrån"
+        },
+        {
+          "id": "w6",
+          "text": "Klockan"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w6",
+              "w3",
+              "w2",
+              "w1",
+              "w5"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-007",
+      "source_id": "SV-A1-007",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Fredag gör jag vad jag vill.",
+      "punctuation": ".",
+      "translation": "В пятницу я делаю что хочу.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "intresserad"
+        },
+        {
+          "id": "w2",
+          "text": "Fredag"
+        },
+        {
+          "id": "w3",
+          "text": "vill"
+        },
+        {
+          "id": "w4",
+          "text": "vad"
+        },
+        {
+          "id": "w5",
+          "text": "gör"
+        },
+        {
+          "id": "w6",
+          "text": "jag"
+        },
+        {
+          "id": "w7",
+          "text": "jag"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w2",
+              "w5",
+              "w6",
+              "w4",
+              "w7",
+              "w3"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-008",
+      "source_id": "SV-A1-008",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "I bokhyllan har han massor av böcker och saker.",
+      "punctuation": ".",
+      "translation": "На книжной полке у него куча книг и вещей.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "bokhyllan"
+        },
+        {
+          "id": "w2",
+          "text": "han"
+        },
+        {
+          "id": "w3",
+          "text": "saker"
+        },
+        {
+          "id": "w4",
+          "text": "massor"
+        },
+        {
+          "id": "w5",
+          "text": "promenerar"
+        },
+        {
+          "id": "w6",
+          "text": "och"
+        },
+        {
+          "id": "w7",
+          "text": "av"
+        },
+        {
+          "id": "w8",
+          "text": "I"
+        },
+        {
+          "id": "w9",
+          "text": "har"
+        },
+        {
+          "id": "w10",
+          "text": "böcker"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w8",
+              "w1",
+              "w9",
+              "w2",
+              "w4",
+              "w7",
+              "w10",
+              "w6",
+              "w3"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-009",
+      "source_id": "SV-A1-009",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Renate, vad arbetar du med?",
+      "punctuation": "?",
+      "translation": "Renate, чем ты занимаешься на работе?",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "med"
+        },
+        {
+          "id": "w2",
+          "text": "arbetar"
+        },
+        {
+          "id": "w3",
+          "text": "du"
+        },
+        {
+          "id": "w4",
+          "text": "vad"
+        },
+        {
+          "id": "w5",
+          "text": "tankar"
+        },
+        {
+          "id": "w6",
+          "text": "Renate"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w6",
+              "w4",
+              "w2",
+              "w3",
+              "w1"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-011",
+      "source_id": "SV-A1-011",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "I Sverige läser alla barn engelska.",
+      "punctuation": ".",
+      "translation": "В Швеции все дети учат английский.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Behöver"
+        },
+        {
+          "id": "w2",
+          "text": "läser"
+        },
+        {
+          "id": "w3",
+          "text": "barn"
+        },
+        {
+          "id": "w4",
+          "text": "Sverige"
+        },
+        {
+          "id": "w5",
+          "text": "alla"
+        },
+        {
+          "id": "w6",
+          "text": "engelska"
+        },
+        {
+          "id": "w7",
+          "text": "I"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w7",
+              "w4",
+              "w2",
+              "w5",
+              "w3",
+              "w6"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-012",
+      "source_id": "SV-A1-012",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Ska vi ta en öl i kväll när vi har handlat?",
+      "punctuation": "?",
+      "translation": "Может, выпьем пива сегодня вечером, когда сделаем покупки?",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "vi"
+        },
+        {
+          "id": "w2",
+          "text": "vi"
+        },
+        {
+          "id": "w3",
+          "text": "i"
+        },
+        {
+          "id": "w4",
+          "text": "handlat"
+        },
+        {
+          "id": "w5",
+          "text": "ta"
+        },
+        {
+          "id": "w6",
+          "text": "kväll"
+        },
+        {
+          "id": "w7",
+          "text": "en"
+        },
+        {
+          "id": "w8",
+          "text": "öl"
+        },
+        {
+          "id": "w9",
+          "text": "när"
+        },
+        {
+          "id": "w10",
+          "text": "Ska"
+        },
+        {
+          "id": "w11",
+          "text": "har"
+        },
+        {
+          "id": "w12",
+          "text": "efterrätt"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w10",
+              "w1",
+              "w5",
+              "w7",
+              "w8",
+              "w3",
+              "w6",
+              "w9",
+              "w2",
+              "w11",
+              "w4"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-013",
+      "source_id": "SV-A1-013",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Hon börjar med ett grupparbete där klockan två.",
+      "punctuation": ".",
+      "translation": "Она начинает групповую работу в два часа.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "grupparbete"
+        },
+        {
+          "id": "w2",
+          "text": "ett"
+        },
+        {
+          "id": "w3",
+          "text": "börjar"
+        },
+        {
+          "id": "w4",
+          "text": "hund"
+        },
+        {
+          "id": "w5",
+          "text": "med"
+        },
+        {
+          "id": "w6",
+          "text": "två"
+        },
+        {
+          "id": "w7",
+          "text": "Hon"
+        },
+        {
+          "id": "w8",
+          "text": "där"
+        },
+        {
+          "id": "w9",
+          "text": "klockan"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w7",
+              "w3",
+              "w5",
+              "w2",
+              "w1",
+              "w8",
+              "w9",
+              "w6"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-014",
+      "source_id": "SV-A1-014",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Ellen köper ett paraply.",
+      "punctuation": ".",
+      "translation": "Эллен покупает зонт.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "ett"
+        },
+        {
+          "id": "w2",
+          "text": "paraply"
+        },
+        {
+          "id": "w3",
+          "text": "Ellen"
+        },
+        {
+          "id": "w4",
+          "text": "klarar"
+        },
+        {
+          "id": "w5",
+          "text": "köper"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w3",
+              "w5",
+              "w1",
+              "w2"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-015",
+      "source_id": "SV-A1-015",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Jag talar svenska.",
+      "punctuation": ".",
+      "translation": "Я говорю по-шведски.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Jag"
+        },
+        {
+          "id": "w2",
+          "text": "svenska"
+        },
+        {
+          "id": "w3",
+          "text": "till"
+        },
+        {
+          "id": "w4",
+          "text": "talar"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w1",
+              "w4",
+              "w2"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-016",
+      "source_id": "SV-A1-016",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Jag är intresserad.",
+      "punctuation": ".",
+      "translation": "Мне интересно.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "är"
+        },
+        {
+          "id": "w2",
+          "text": "intresserad"
+        },
+        {
+          "id": "w3",
+          "text": "ska"
+        },
+        {
+          "id": "w4",
+          "text": "Jag"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w4",
+              "w1",
+              "w2"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-017",
+      "source_id": "SV-A1-017",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Emil har ett skåp.",
+      "punctuation": ".",
+      "translation": "У Эмиля есть шкаф.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "går"
+        },
+        {
+          "id": "w2",
+          "text": "ett"
+        },
+        {
+          "id": "w3",
+          "text": "Emil"
+        },
+        {
+          "id": "w4",
+          "text": "skåp"
+        },
+        {
+          "id": "w5",
+          "text": "har"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w3",
+              "w5",
+              "w2",
+              "w4"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-018",
+      "source_id": "SV-A1-018",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Det är kvällen innan Daniel åker på semester.",
+      "punctuation": ".",
+      "translation": "Это вечер перед тем, как Даниэль уезжает в отпуск.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "på"
+        },
+        {
+          "id": "w2",
+          "text": "Det"
+        },
+        {
+          "id": "w3",
+          "text": "Daniel"
+        },
+        {
+          "id": "w4",
+          "text": "universitetet"
+        },
+        {
+          "id": "w5",
+          "text": "är"
+        },
+        {
+          "id": "w6",
+          "text": "semester"
+        },
+        {
+          "id": "w7",
+          "text": "innan"
+        },
+        {
+          "id": "w8",
+          "text": "kvällen"
+        },
+        {
+          "id": "w9",
+          "text": "åker"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w2",
+              "w5",
+              "w8",
+              "w7",
+              "w3",
+              "w9",
+              "w1",
+              "w6"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-019",
+      "source_id": "SV-A1-019",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Men det är ju jag!",
+      "punctuation": "!",
+      "translation": "Да ведь это же я!",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "är"
+        },
+        {
+          "id": "w2",
+          "text": "det"
+        },
+        {
+          "id": "w3",
+          "text": "jag"
+        },
+        {
+          "id": "w4",
+          "text": "hemifrån"
+        },
+        {
+          "id": "w5",
+          "text": "ju"
+        },
+        {
+          "id": "w6",
+          "text": "Men"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w6",
+              "w2",
+              "w1",
+              "w5",
+              "w3"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-020",
+      "source_id": "SV-A1-020",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Kommer du från USA?",
+      "punctuation": "?",
+      "translation": "Ты из США?",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "du"
+        },
+        {
+          "id": "w2",
+          "text": "USA"
+        },
+        {
+          "id": "w3",
+          "text": "Kommer"
+        },
+        {
+          "id": "w4",
+          "text": "saker"
+        },
+        {
+          "id": "w5",
+          "text": "från"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w3",
+              "w1",
+              "w5",
+              "w2"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-021",
+      "source_id": "SV-A1-021",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Nej, men jag har en flickvän.",
+      "punctuation": ".",
+      "translation": "Нет, но у меня есть девушка.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "har"
+        },
+        {
+          "id": "w2",
+          "text": "kontoret"
+        },
+        {
+          "id": "w3",
+          "text": "jag"
+        },
+        {
+          "id": "w4",
+          "text": "en"
+        },
+        {
+          "id": "w5",
+          "text": "men"
+        },
+        {
+          "id": "w6",
+          "text": "flickvän"
+        },
+        {
+          "id": "w7",
+          "text": "Nej"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w7",
+              "w5",
+              "w3",
+              "w1",
+              "w4",
+              "w6"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-022",
+      "source_id": "SV-A1-022",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Klockan är ett på dagen.",
+      "punctuation": ".",
+      "translation": "Сейчас час дня.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Klockan"
+        },
+        {
+          "id": "w2",
+          "text": "dagen"
+        },
+        {
+          "id": "w3",
+          "text": "på"
+        },
+        {
+          "id": "w4",
+          "text": "ett"
+        },
+        {
+          "id": "w5",
+          "text": "är"
+        },
+        {
+          "id": "w6",
+          "text": "Stockholm"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w1",
+              "w5",
+              "w4",
+              "w3",
+              "w2"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-023",
+      "source_id": "SV-A1-023",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Jag talar japanska, engelska och svenska.",
+      "punctuation": ".",
+      "translation": "Я говорю по-японски, по-английски и по-шведски.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "talar"
+        },
+        {
+          "id": "w2",
+          "text": "svenska"
+        },
+        {
+          "id": "w3",
+          "text": "engelska"
+        },
+        {
+          "id": "w4",
+          "text": "Emil"
+        },
+        {
+          "id": "w5",
+          "text": "Jag"
+        },
+        {
+          "id": "w6",
+          "text": "och"
+        },
+        {
+          "id": "w7",
+          "text": "japanska"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w5",
+              "w1",
+              "w7",
+              "w3",
+              "w6",
+              "w2"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-024",
+      "source_id": "SV-A1-024",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Det är toppen!",
+      "punctuation": "!",
+      "translation": "Это здорово!",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Det"
+        },
+        {
+          "id": "w2",
+          "text": "är"
+        },
+        {
+          "id": "w3",
+          "text": "toppen"
+        },
+        {
+          "id": "w4",
+          "text": "lite"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w1",
+              "w2",
+              "w3"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-025",
+      "source_id": "SV-A1-025",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Jag arbetar på ett kontor, på en fabrik, på en bank osv.",
+      "punctuation": ".",
+      "translation": "Я работаю в офисе, на фабрике, в банке и т. д.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "en"
+        },
+        {
+          "id": "w2",
+          "text": "arbetar"
+        },
+        {
+          "id": "w3",
+          "text": "kontor"
+        },
+        {
+          "id": "w4",
+          "text": "på"
+        },
+        {
+          "id": "w5",
+          "text": "Hur"
+        },
+        {
+          "id": "w6",
+          "text": "på"
+        },
+        {
+          "id": "w7",
+          "text": "en"
+        },
+        {
+          "id": "w8",
+          "text": "fabrik"
+        },
+        {
+          "id": "w9",
+          "text": "bank"
+        },
+        {
+          "id": "w10",
+          "text": "Jag"
+        },
+        {
+          "id": "w11",
+          "text": "ett"
+        },
+        {
+          "id": "w12",
+          "text": "osv"
+        },
+        {
+          "id": "w13",
+          "text": "på"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w10",
+              "w2",
+              "w4",
+              "w11",
+              "w3",
+              "w6",
+              "w1",
+              "w8",
+              "w13",
+              "w7",
+              "w9",
+              "w12"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-027",
+      "source_id": "SV-A1-027",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Varsågod, här är telefonen.",
+      "punctuation": ".",
+      "translation": "Пожалуйста, вот телефон.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Varsågod"
+        },
+        {
+          "id": "w2",
+          "text": "här"
+        },
+        {
+          "id": "w3",
+          "text": "dina"
+        },
+        {
+          "id": "w4",
+          "text": "telefonen"
+        },
+        {
+          "id": "w5",
+          "text": "är"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w1",
+              "w2",
+              "w5",
+              "w4"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-028",
+      "source_id": "SV-A1-028",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Nej, vi har inte barn.",
+      "punctuation": ".",
+      "translation": "Нет, у нас нет детей.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "vi"
+        },
+        {
+          "id": "w2",
+          "text": "har"
+        },
+        {
+          "id": "w3",
+          "text": "Nej"
+        },
+        {
+          "id": "w4",
+          "text": "inte"
+        },
+        {
+          "id": "w5",
+          "text": "timmar"
+        },
+        {
+          "id": "w6",
+          "text": "barn"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w3",
+              "w1",
+              "w2",
+              "w4",
+              "w6"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-029",
+      "source_id": "SV-A1-029",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Daniel ska åka på semester på fredag.",
+      "punctuation": ".",
+      "translation": "Даниэль едет в отпуск в пятницу.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "semester"
+        },
+        {
+          "id": "w2",
+          "text": "fredag"
+        },
+        {
+          "id": "w3",
+          "text": "åka"
+        },
+        {
+          "id": "w4",
+          "text": "Daniel"
+        },
+        {
+          "id": "w5",
+          "text": "på"
+        },
+        {
+          "id": "w6",
+          "text": "på"
+        },
+        {
+          "id": "w7",
+          "text": "ska"
+        },
+        {
+          "id": "w8",
+          "text": "det"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w4",
+              "w7",
+              "w3",
+              "w5",
+              "w1",
+              "w6",
+              "w2"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-030",
+      "source_id": "SV-A1-030",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Det är ett svenskt glas.",
+      "punctuation": ".",
+      "translation": "Это шведский стакан.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "svenskt"
+        },
+        {
+          "id": "w2",
+          "text": "glas"
+        },
+        {
+          "id": "w3",
+          "text": "ett"
+        },
+        {
+          "id": "w4",
+          "text": "hemifrån"
+        },
+        {
+          "id": "w5",
+          "text": "är"
+        },
+        {
+          "id": "w6",
+          "text": "Det"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w6",
+              "w5",
+              "w3",
+              "w1",
+              "w2"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-032",
+      "source_id": "SV-A1-032",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "De förstår inte honom.",
+      "punctuation": ".",
+      "translation": "Они его не понимают.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "honom"
+        },
+        {
+          "id": "w2",
+          "text": "förstår"
+        },
+        {
+          "id": "w3",
+          "text": "inte"
+        },
+        {
+          "id": "w4",
+          "text": "film"
+        },
+        {
+          "id": "w5",
+          "text": "De"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w5",
+              "w2",
+              "w3",
+              "w1"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-033",
+      "source_id": "SV-A1-033",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Det gör också Daniel och hans kompisar.",
+      "punctuation": ".",
+      "translation": "Это делают также Даниэль и его друзья.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "klarar"
+        },
+        {
+          "id": "w2",
+          "text": "hans"
+        },
+        {
+          "id": "w3",
+          "text": "kompisar"
+        },
+        {
+          "id": "w4",
+          "text": "gör"
+        },
+        {
+          "id": "w5",
+          "text": "Det"
+        },
+        {
+          "id": "w6",
+          "text": "också"
+        },
+        {
+          "id": "w7",
+          "text": "och"
+        },
+        {
+          "id": "w8",
+          "text": "Daniel"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w5",
+              "w4",
+              "w6",
+              "w8",
+              "w7",
+              "w2",
+              "w3"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-034",
+      "source_id": "SV-A1-034",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Tjena, hur är läget?",
+      "punctuation": "?",
+      "translation": "Привет, как дела?",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "sover"
+        },
+        {
+          "id": "w2",
+          "text": "läget"
+        },
+        {
+          "id": "w3",
+          "text": "hur"
+        },
+        {
+          "id": "w4",
+          "text": "är"
+        },
+        {
+          "id": "w5",
+          "text": "Tjena"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w5",
+              "w3",
+              "w4",
+              "w2"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-035",
+      "source_id": "SV-A1-035",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Vem går upp först?",
+      "punctuation": "?",
+      "translation": "Кто идёт первым?",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "först"
+        },
+        {
+          "id": "w2",
+          "text": "upp"
+        },
+        {
+          "id": "w3",
+          "text": "går"
+        },
+        {
+          "id": "w4",
+          "text": "att"
+        },
+        {
+          "id": "w5",
+          "text": "Vem"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w5",
+              "w3",
+              "w2",
+              "w1"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-036",
+      "source_id": "SV-A1-036",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Sängen är skön, men stolarna är obekväma.",
+      "punctuation": ".",
+      "translation": "Кровать удобная, но стулья неудобные.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "är"
+        },
+        {
+          "id": "w2",
+          "text": "pensionär"
+        },
+        {
+          "id": "w3",
+          "text": "är"
+        },
+        {
+          "id": "w4",
+          "text": "men"
+        },
+        {
+          "id": "w5",
+          "text": "skön"
+        },
+        {
+          "id": "w6",
+          "text": "Sängen"
+        },
+        {
+          "id": "w7",
+          "text": "stolarna"
+        },
+        {
+          "id": "w8",
+          "text": "obekväma"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w6",
+              "w1",
+              "w5",
+              "w4",
+              "w7",
+              "w3",
+              "w8"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-037",
+      "source_id": "SV-A1-037",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Jag träffar dem då.",
+      "punctuation": ".",
+      "translation": "Тогда я с ними встречусь.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "bank"
+        },
+        {
+          "id": "w2",
+          "text": "Jag"
+        },
+        {
+          "id": "w3",
+          "text": "träffar"
+        },
+        {
+          "id": "w4",
+          "text": "dem"
+        },
+        {
+          "id": "w5",
+          "text": "då"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w2",
+              "w3",
+              "w4",
+              "w5"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-039",
+      "source_id": "SV-A1-039",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Hon tittar inte på honom.",
+      "punctuation": ".",
+      "translation": "Она на него не смотрит.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Hon"
+        },
+        {
+          "id": "w2",
+          "text": "inte"
+        },
+        {
+          "id": "w3",
+          "text": "bara"
+        },
+        {
+          "id": "w4",
+          "text": "på"
+        },
+        {
+          "id": "w5",
+          "text": "honom"
+        },
+        {
+          "id": "w6",
+          "text": "tittar"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w1",
+              "w6",
+              "w2",
+              "w4",
+              "w5"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-040",
+      "source_id": "SV-A1-040",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Löser ni in rese-checkar?",
+      "punctuation": "?",
+      "translation": "Вы обмениваете дорожные чеки?",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "ni"
+        },
+        {
+          "id": "w2",
+          "text": "rese-checkar"
+        },
+        {
+          "id": "w3",
+          "text": "öl"
+        },
+        {
+          "id": "w4",
+          "text": "Löser"
+        },
+        {
+          "id": "w5",
+          "text": "in"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w4",
+              "w1",
+              "w5",
+              "w2"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-041",
+      "source_id": "SV-A1-041",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Emil tittar inte på henne.",
+      "punctuation": ".",
+      "translation": "Эмиль на неё не смотрит.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Emil"
+        },
+        {
+          "id": "w2",
+          "text": "inte"
+        },
+        {
+          "id": "w3",
+          "text": "på"
+        },
+        {
+          "id": "w4",
+          "text": "Sveriges"
+        },
+        {
+          "id": "w5",
+          "text": "henne"
+        },
+        {
+          "id": "w6",
+          "text": "tittar"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w1",
+              "w6",
+              "w2",
+              "w3",
+              "w5"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-043",
+      "source_id": "SV-A1-043",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Pelle väntar utanför Ullevi.",
+      "punctuation": ".",
+      "translation": "Пелле ждёт у стадиона Уллеви.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "utanför"
+        },
+        {
+          "id": "w2",
+          "text": "Pelle"
+        },
+        {
+          "id": "w3",
+          "text": "Ullevi"
+        },
+        {
+          "id": "w4",
+          "text": "litet"
+        },
+        {
+          "id": "w5",
+          "text": "väntar"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w2",
+              "w5",
+              "w1",
+              "w3"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-045",
+      "source_id": "SV-A1-045",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Är det du?",
+      "punctuation": "?",
+      "translation": "Это ты?",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Är"
+        },
+        {
+          "id": "w2",
+          "text": "du"
+        },
+        {
+          "id": "w3",
+          "text": "vägen"
+        },
+        {
+          "id": "w4",
+          "text": "det"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w1",
+              "w4",
+              "w2"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-046",
+      "source_id": "SV-A1-046",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Hemma talar vi svenska.",
+      "punctuation": ".",
+      "translation": "Дома мы говорим по-шведски.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "huvudstad"
+        },
+        {
+          "id": "w2",
+          "text": "svenska"
+        },
+        {
+          "id": "w3",
+          "text": "talar"
+        },
+        {
+          "id": "w4",
+          "text": "vi"
+        },
+        {
+          "id": "w5",
+          "text": "Hemma"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w5",
+              "w3",
+              "w4",
+              "w2"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-048",
+      "source_id": "SV-A1-048",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Har ni något enkelrum ledigt?",
+      "punctuation": "?",
+      "translation": "У вас есть свободный одноместный номер?",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "enkelrum"
+        },
+        {
+          "id": "w2",
+          "text": "Har"
+        },
+        {
+          "id": "w3",
+          "text": "ni"
+        },
+        {
+          "id": "w4",
+          "text": "Nej"
+        },
+        {
+          "id": "w5",
+          "text": "ledigt"
+        },
+        {
+          "id": "w6",
+          "text": "något"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w2",
+              "w3",
+              "w6",
+              "w1",
+              "w5"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-049",
+      "source_id": "SV-A1-049",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Där finns berg, stora skogar och smala sjöar.",
+      "punctuation": ".",
+      "translation": "Там есть горы, большие леса и узкие озёра.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "skogar"
+        },
+        {
+          "id": "w2",
+          "text": "Där"
+        },
+        {
+          "id": "w3",
+          "text": "och"
+        },
+        {
+          "id": "w4",
+          "text": "Varsågod"
+        },
+        {
+          "id": "w5",
+          "text": "smala"
+        },
+        {
+          "id": "w6",
+          "text": "finns"
+        },
+        {
+          "id": "w7",
+          "text": "stora"
+        },
+        {
+          "id": "w8",
+          "text": "berg"
+        },
+        {
+          "id": "w9",
+          "text": "sjöar"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w2",
+              "w6",
+              "w8",
+              "w7",
+              "w1",
+              "w3",
+              "w5",
+              "w9"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-050",
+      "source_id": "SV-A1-050",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Lasse går in till chefen.",
+      "punctuation": ".",
+      "translation": "Lasse заходит к начальнику.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "till"
+        },
+        {
+          "id": "w2",
+          "text": "Lasse"
+        },
+        {
+          "id": "w3",
+          "text": "går"
+        },
+        {
+          "id": "w4",
+          "text": "in"
+        },
+        {
+          "id": "w5",
+          "text": "chefen"
+        },
+        {
+          "id": "w6",
+          "text": "Polen"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w2",
+              "w3",
+              "w4",
+              "w1",
+              "w5"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-052",
+      "source_id": "SV-A1-052",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Jag är född i Sverige, men mamma och pappa kommer från Ungern.",
+      "punctuation": ".",
+      "translation": "Я родился в Швеции, но мама и папа из Венгрии.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Ungern"
+        },
+        {
+          "id": "w2",
+          "text": "pappa"
+        },
+        {
+          "id": "w3",
+          "text": "och"
+        },
+        {
+          "id": "w4",
+          "text": "Sverige"
+        },
+        {
+          "id": "w5",
+          "text": "mamma"
+        },
+        {
+          "id": "w6",
+          "text": "från"
+        },
+        {
+          "id": "w7",
+          "text": "golvet"
+        },
+        {
+          "id": "w8",
+          "text": "kommer"
+        },
+        {
+          "id": "w9",
+          "text": "men"
+        },
+        {
+          "id": "w10",
+          "text": "Jag"
+        },
+        {
+          "id": "w11",
+          "text": "är"
+        },
+        {
+          "id": "w12",
+          "text": "i"
+        },
+        {
+          "id": "w13",
+          "text": "född"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w10",
+              "w11",
+              "w13",
+              "w12",
+              "w4",
+              "w9",
+              "w5",
+              "w3",
+              "w2",
+              "w8",
+              "w6",
+              "w1"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-053",
+      "source_id": "SV-A1-053",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Han går i skolan.",
+      "punctuation": ".",
+      "translation": "Он ходит в школу.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "går"
+        },
+        {
+          "id": "w2",
+          "text": "ofta"
+        },
+        {
+          "id": "w3",
+          "text": "i"
+        },
+        {
+          "id": "w4",
+          "text": "skolan"
+        },
+        {
+          "id": "w5",
+          "text": "Han"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w5",
+              "w1",
+              "w3",
+              "w4"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-054",
+      "source_id": "SV-A1-054",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Spelar du fortfarande fotboll?",
+      "punctuation": "?",
+      "translation": "Ты всё ещё играешь в футбол?",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "du"
+        },
+        {
+          "id": "w2",
+          "text": "fortfarande"
+        },
+        {
+          "id": "w3",
+          "text": "Spelar"
+        },
+        {
+          "id": "w4",
+          "text": "fotboll"
+        },
+        {
+          "id": "w5",
+          "text": "om"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w3",
+              "w1",
+              "w2",
+              "w4"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-055",
+      "source_id": "SV-A1-055",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Ja, jag reser imorgon!",
+      "punctuation": "!",
+      "translation": "Да, я уезжаю завтра!",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "reser"
+        },
+        {
+          "id": "w2",
+          "text": "jag"
+        },
+        {
+          "id": "w3",
+          "text": "kapitel"
+        },
+        {
+          "id": "w4",
+          "text": "Ja"
+        },
+        {
+          "id": "w5",
+          "text": "imorgon"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w4",
+              "w2",
+              "w1",
+              "w5"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-056",
+      "source_id": "SV-A1-056",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Varje förmiddag sitter jag på kontoret och jobbar.",
+      "punctuation": ".",
+      "translation": "Каждое утро я сижу в офисе и работаю.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Varje"
+        },
+        {
+          "id": "w2",
+          "text": "och"
+        },
+        {
+          "id": "w3",
+          "text": "förmiddag"
+        },
+        {
+          "id": "w4",
+          "text": "sitter"
+        },
+        {
+          "id": "w5",
+          "text": "jobbar"
+        },
+        {
+          "id": "w6",
+          "text": "Klockan"
+        },
+        {
+          "id": "w7",
+          "text": "kontoret"
+        },
+        {
+          "id": "w8",
+          "text": "jag"
+        },
+        {
+          "id": "w9",
+          "text": "på"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w1",
+              "w3",
+              "w4",
+              "w8",
+              "w9",
+              "w7",
+              "w2",
+              "w5"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-057",
+      "source_id": "SV-A1-057",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Var det bra så?",
+      "punctuation": "?",
+      "translation": "Было хорошо?",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "sambo"
+        },
+        {
+          "id": "w2",
+          "text": "så"
+        },
+        {
+          "id": "w3",
+          "text": "Var"
+        },
+        {
+          "id": "w4",
+          "text": "bra"
+        },
+        {
+          "id": "w5",
+          "text": "det"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w3",
+              "w5",
+              "w4",
+              "w2"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-058",
+      "source_id": "SV-A1-058",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Det heter Familjen.",
+      "punctuation": ".",
+      "translation": "Это называется «Семья».",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "heter"
+        },
+        {
+          "id": "w2",
+          "text": "Spelar"
+        },
+        {
+          "id": "w3",
+          "text": "Det"
+        },
+        {
+          "id": "w4",
+          "text": "Familjen"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w3",
+              "w1",
+              "w4"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-059",
+      "source_id": "SV-A1-059",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Ibland har han inte inspiration.",
+      "punctuation": ".",
+      "translation": "Иногда у него нет вдохновения.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "han"
+        },
+        {
+          "id": "w2",
+          "text": "inte"
+        },
+        {
+          "id": "w3",
+          "text": "inspiration"
+        },
+        {
+          "id": "w4",
+          "text": "Ibland"
+        },
+        {
+          "id": "w5",
+          "text": "har"
+        },
+        {
+          "id": "w6",
+          "text": "spelar"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w4",
+              "w5",
+              "w1",
+              "w2",
+              "w3"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-061",
+      "source_id": "SV-A1-061",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Hon skriver dagbok i köket klockan ett på natten.",
+      "punctuation": ".",
+      "translation": "Она пишет дневник на кухне в час ночи.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "klockan"
+        },
+        {
+          "id": "w2",
+          "text": "i"
+        },
+        {
+          "id": "w3",
+          "text": "ett"
+        },
+        {
+          "id": "w4",
+          "text": "natten"
+        },
+        {
+          "id": "w5",
+          "text": "skriver"
+        },
+        {
+          "id": "w6",
+          "text": "på"
+        },
+        {
+          "id": "w7",
+          "text": "Hon"
+        },
+        {
+          "id": "w8",
+          "text": "ska"
+        },
+        {
+          "id": "w9",
+          "text": "dagbok"
+        },
+        {
+          "id": "w10",
+          "text": "köket"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w7",
+              "w5",
+              "w9",
+              "w2",
+              "w10",
+              "w1",
+              "w3",
+              "w6",
+              "w4"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-062",
+      "source_id": "SV-A1-062",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Sedan diskar han, och klockan nio sitter han vid datorn.",
+      "punctuation": ".",
+      "translation": "Потом он моет посуду, а в девять садится за компьютер.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Sedan"
+        },
+        {
+          "id": "w2",
+          "text": "nio"
+        },
+        {
+          "id": "w3",
+          "text": "datorn"
+        },
+        {
+          "id": "w4",
+          "text": "han"
+        },
+        {
+          "id": "w5",
+          "text": "sitter"
+        },
+        {
+          "id": "w6",
+          "text": "diskar"
+        },
+        {
+          "id": "w7",
+          "text": "klockan"
+        },
+        {
+          "id": "w8",
+          "text": "inklusive"
+        },
+        {
+          "id": "w9",
+          "text": "och"
+        },
+        {
+          "id": "w10",
+          "text": "vid"
+        },
+        {
+          "id": "w11",
+          "text": "han"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w1",
+              "w6",
+              "w4",
+              "w9",
+              "w7",
+              "w2",
+              "w5",
+              "w11",
+              "w10",
+              "w3"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-063",
+      "source_id": "SV-A1-063",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Resan tar nästan 24 timmar.",
+      "punctuation": ".",
+      "translation": "Поездка занимает почти 24 часа.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Resan"
+        },
+        {
+          "id": "w2",
+          "text": "timmar"
+        },
+        {
+          "id": "w3",
+          "text": "tar"
+        },
+        {
+          "id": "w4",
+          "text": "nästan"
+        },
+        {
+          "id": "w5",
+          "text": "24"
+        },
+        {
+          "id": "w6",
+          "text": "Är"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w1",
+              "w3",
+              "w4",
+              "w5",
+              "w2"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-064",
+      "source_id": "SV-A1-064",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Det är Anna.",
+      "punctuation": ".",
+      "translation": "Это Анна.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Anna"
+        },
+        {
+          "id": "w2",
+          "text": "är"
+        },
+        {
+          "id": "w3",
+          "text": "tandläkare"
+        },
+        {
+          "id": "w4",
+          "text": "Det"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w4",
+              "w2",
+              "w1"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-065",
+      "source_id": "SV-A1-065",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Ibland går jag till biblioteket och läser tidningar.",
+      "punctuation": ".",
+      "translation": "Иногда я хожу в библиотеку и читаю газеты.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "till"
+        },
+        {
+          "id": "w2",
+          "text": "och"
+        },
+        {
+          "id": "w3",
+          "text": "tidningar"
+        },
+        {
+          "id": "w4",
+          "text": "Ibland"
+        },
+        {
+          "id": "w5",
+          "text": "går"
+        },
+        {
+          "id": "w6",
+          "text": "jag"
+        },
+        {
+          "id": "w7",
+          "text": "biblioteket"
+        },
+        {
+          "id": "w8",
+          "text": "läser"
+        },
+        {
+          "id": "w9",
+          "text": "Japan"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w4",
+              "w5",
+              "w6",
+              "w1",
+              "w7",
+              "w2",
+              "w8",
+              "w3"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-066",
+      "source_id": "SV-A1-066",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Vem talar i telefon hela tiden?",
+      "punctuation": "?",
+      "translation": "Кто всё время говорит по телефону?",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "telefon"
+        },
+        {
+          "id": "w2",
+          "text": "livet"
+        },
+        {
+          "id": "w3",
+          "text": "talar"
+        },
+        {
+          "id": "w4",
+          "text": "hela"
+        },
+        {
+          "id": "w5",
+          "text": "tiden"
+        },
+        {
+          "id": "w6",
+          "text": "i"
+        },
+        {
+          "id": "w7",
+          "text": "Vem"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w7",
+              "w3",
+              "w6",
+              "w1",
+              "w4",
+              "w5"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-067",
+      "source_id": "SV-A1-067",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "De heter Sara och Mattias.",
+      "punctuation": ".",
+      "translation": "Их зовут Сара и Маттиас.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "heter"
+        },
+        {
+          "id": "w2",
+          "text": "och"
+        },
+        {
+          "id": "w3",
+          "text": "Sara"
+        },
+        {
+          "id": "w4",
+          "text": "De"
+        },
+        {
+          "id": "w5",
+          "text": "Mattias"
+        },
+        {
+          "id": "w6",
+          "text": "där"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w4",
+              "w1",
+              "w3",
+              "w2",
+              "w5"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-068",
+      "source_id": "SV-A1-068",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Men min pappa kommer från Polen.",
+      "punctuation": ".",
+      "translation": "Но мой папа из Польши.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Men"
+        },
+        {
+          "id": "w2",
+          "text": "kommer"
+        },
+        {
+          "id": "w3",
+          "text": "från"
+        },
+        {
+          "id": "w4",
+          "text": "min"
+        },
+        {
+          "id": "w5",
+          "text": "Vem"
+        },
+        {
+          "id": "w6",
+          "text": "pappa"
+        },
+        {
+          "id": "w7",
+          "text": "Polen"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w1",
+              "w4",
+              "w6",
+              "w2",
+              "w3",
+              "w7"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-069",
+      "source_id": "SV-A1-069",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Hälsa pappa från mig bara.",
+      "punctuation": ".",
+      "translation": "Просто передай привет папе от меня.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "äter"
+        },
+        {
+          "id": "w2",
+          "text": "mig"
+        },
+        {
+          "id": "w3",
+          "text": "från"
+        },
+        {
+          "id": "w4",
+          "text": "Hälsa"
+        },
+        {
+          "id": "w5",
+          "text": "pappa"
+        },
+        {
+          "id": "w6",
+          "text": "bara"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w4",
+              "w5",
+              "w3",
+              "w2",
+              "w6"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-070",
+      "source_id": "SV-A1-070",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Nej, jag arbetar inte här, jag pluggar.",
+      "punctuation": ".",
+      "translation": "Нет, я здесь не работаю, я учусь.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Nej"
+        },
+        {
+          "id": "w2",
+          "text": "här"
+        },
+        {
+          "id": "w3",
+          "text": "inte"
+        },
+        {
+          "id": "w4",
+          "text": "Är"
+        },
+        {
+          "id": "w5",
+          "text": "jag"
+        },
+        {
+          "id": "w6",
+          "text": "pluggar"
+        },
+        {
+          "id": "w7",
+          "text": "arbetar"
+        },
+        {
+          "id": "w8",
+          "text": "jag"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w1",
+              "w5",
+              "w7",
+              "w3",
+              "w2",
+              "w8",
+              "w6"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-071",
+      "source_id": "SV-A1-071",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "De gillar sin svärson.",
+      "punctuation": ".",
+      "translation": "Им нравится их зять.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "gillar"
+        },
+        {
+          "id": "w2",
+          "text": "alltid"
+        },
+        {
+          "id": "w3",
+          "text": "svärson"
+        },
+        {
+          "id": "w4",
+          "text": "sin"
+        },
+        {
+          "id": "w5",
+          "text": "De"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w5",
+              "w1",
+              "w4",
+              "w3"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-073",
+      "source_id": "SV-A1-073",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Mellan sängen och skrivbordet har han ett litet sängbord.",
+      "punctuation": ".",
+      "translation": "Между кроватью и письменным столом у него маленький прикроватный столик.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "har"
+        },
+        {
+          "id": "w2",
+          "text": "sängen"
+        },
+        {
+          "id": "w3",
+          "text": "litet"
+        },
+        {
+          "id": "w4",
+          "text": "Mellan"
+        },
+        {
+          "id": "w5",
+          "text": "och"
+        },
+        {
+          "id": "w6",
+          "text": "arbetar"
+        },
+        {
+          "id": "w7",
+          "text": "sängbord"
+        },
+        {
+          "id": "w8",
+          "text": "han"
+        },
+        {
+          "id": "w9",
+          "text": "skrivbordet"
+        },
+        {
+          "id": "w10",
+          "text": "ett"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w4",
+              "w2",
+              "w5",
+              "w9",
+              "w1",
+              "w8",
+              "w10",
+              "w3",
+              "w7"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-074",
+      "source_id": "SV-A1-074",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Kommer du ihåg att han hade många saker på golvet?",
+      "punctuation": "?",
+      "translation": "Ты помнишь, что у него на полу было много вещей?",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "golvet"
+        },
+        {
+          "id": "w2",
+          "text": "Kommer"
+        },
+        {
+          "id": "w3",
+          "text": "du"
+        },
+        {
+          "id": "w4",
+          "text": "ihåg"
+        },
+        {
+          "id": "w5",
+          "text": "på"
+        },
+        {
+          "id": "w6",
+          "text": "att"
+        },
+        {
+          "id": "w7",
+          "text": "saker"
+        },
+        {
+          "id": "w8",
+          "text": "han"
+        },
+        {
+          "id": "w9",
+          "text": "hade"
+        },
+        {
+          "id": "w10",
+          "text": "många"
+        },
+        {
+          "id": "w11",
+          "text": "lite"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w2",
+              "w3",
+              "w4",
+              "w6",
+              "w8",
+              "w9",
+              "w10",
+              "w7",
+              "w5",
+              "w1"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-075",
+      "source_id": "SV-A1-075",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Jag tycker om att lyssna på musik.",
+      "punctuation": ".",
+      "translation": "Мне нравится слушать музыку.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "lyssna"
+        },
+        {
+          "id": "w2",
+          "text": "på"
+        },
+        {
+          "id": "w3",
+          "text": "vi"
+        },
+        {
+          "id": "w4",
+          "text": "musik"
+        },
+        {
+          "id": "w5",
+          "text": "tycker"
+        },
+        {
+          "id": "w6",
+          "text": "att"
+        },
+        {
+          "id": "w7",
+          "text": "Jag"
+        },
+        {
+          "id": "w8",
+          "text": "om"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w7",
+              "w5",
+              "w8",
+              "w6",
+              "w1",
+              "w2",
+              "w4"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-076",
+      "source_id": "SV-A1-076",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "De äter på restaurang.",
+      "punctuation": ".",
+      "translation": "Они едят в ресторане.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "svenskt"
+        },
+        {
+          "id": "w2",
+          "text": "äter"
+        },
+        {
+          "id": "w3",
+          "text": "De"
+        },
+        {
+          "id": "w4",
+          "text": "på"
+        },
+        {
+          "id": "w5",
+          "text": "restaurang"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w3",
+              "w2",
+              "w4",
+              "w5"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-078",
+      "source_id": "SV-A1-078",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Torsdag sitter jag i tankar.",
+      "punctuation": ".",
+      "translation": "В четверг я сижу и думаю.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Torsdag"
+        },
+        {
+          "id": "w2",
+          "text": "i"
+        },
+        {
+          "id": "w3",
+          "text": "jag"
+        },
+        {
+          "id": "w4",
+          "text": "sitter"
+        },
+        {
+          "id": "w5",
+          "text": "något"
+        },
+        {
+          "id": "w6",
+          "text": "tankar"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w1",
+              "w4",
+              "w3",
+              "w2",
+              "w6"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-079",
+      "source_id": "SV-A1-079",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Hanna har en väckarklocka.",
+      "punctuation": ".",
+      "translation": "У Ханны есть будильник.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Internet"
+        },
+        {
+          "id": "w2",
+          "text": "Hanna"
+        },
+        {
+          "id": "w3",
+          "text": "väckarklocka"
+        },
+        {
+          "id": "w4",
+          "text": "har"
+        },
+        {
+          "id": "w5",
+          "text": "en"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w2",
+              "w4",
+              "w5",
+              "w3"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-080",
+      "source_id": "SV-A1-080",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Vad ska Daniel säga?",
+      "punctuation": "?",
+      "translation": "Что Даниэль должен сказать?",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "ska"
+        },
+        {
+          "id": "w2",
+          "text": "Vad"
+        },
+        {
+          "id": "w3",
+          "text": "Kommer"
+        },
+        {
+          "id": "w4",
+          "text": "Daniel"
+        },
+        {
+          "id": "w5",
+          "text": "säga"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w2",
+              "w1",
+              "w4",
+              "w5"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-081",
+      "source_id": "SV-A1-081",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Några läser ryska eller kinesiska.",
+      "punctuation": ".",
+      "translation": "Некоторые учат русский или китайский.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "kinesiska"
+        },
+        {
+          "id": "w2",
+          "text": "läser"
+        },
+        {
+          "id": "w3",
+          "text": "Två"
+        },
+        {
+          "id": "w4",
+          "text": "eller"
+        },
+        {
+          "id": "w5",
+          "text": "Några"
+        },
+        {
+          "id": "w6",
+          "text": "ryska"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w5",
+              "w2",
+              "w6",
+              "w4",
+              "w1"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-083",
+      "source_id": "SV-A1-083",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Jag studerar till tandläkare.",
+      "punctuation": ".",
+      "translation": "Я учусь на стоматолога.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "till"
+        },
+        {
+          "id": "w2",
+          "text": "Jag"
+        },
+        {
+          "id": "w3",
+          "text": "studerar"
+        },
+        {
+          "id": "w4",
+          "text": "så"
+        },
+        {
+          "id": "w5",
+          "text": "tandläkare"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w2",
+              "w3",
+              "w1",
+              "w5"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-084",
+      "source_id": "SV-A1-084",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Hon kommer från Japan.",
+      "punctuation": ".",
+      "translation": "Она из Японии.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "kommer"
+        },
+        {
+          "id": "w2",
+          "text": "Japan"
+        },
+        {
+          "id": "w3",
+          "text": "lektion"
+        },
+        {
+          "id": "w4",
+          "text": "Hon"
+        },
+        {
+          "id": "w5",
+          "text": "från"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w4",
+              "w1",
+              "w5",
+              "w2"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-086",
+      "source_id": "SV-A1-086",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Men jag är inte Emils pappa.",
+      "punctuation": ".",
+      "translation": "Но я не папа Эмиля.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Emils"
+        },
+        {
+          "id": "w2",
+          "text": "litet"
+        },
+        {
+          "id": "w3",
+          "text": "inte"
+        },
+        {
+          "id": "w4",
+          "text": "Men"
+        },
+        {
+          "id": "w5",
+          "text": "pappa"
+        },
+        {
+          "id": "w6",
+          "text": "jag"
+        },
+        {
+          "id": "w7",
+          "text": "är"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w4",
+              "w6",
+              "w7",
+              "w3",
+              "w1",
+              "w5"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-087",
+      "source_id": "SV-A1-087",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Har Jonas barn?",
+      "punctuation": "?",
+      "translation": "У Йонаса есть дети?",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "vi"
+        },
+        {
+          "id": "w2",
+          "text": "Har"
+        },
+        {
+          "id": "w3",
+          "text": "barn"
+        },
+        {
+          "id": "w4",
+          "text": "Jonas"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w2",
+              "w4",
+              "w3"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-088",
+      "source_id": "SV-A1-088",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Linda Nilsson studerar internationell ekonomi på universitetet.",
+      "punctuation": ".",
+      "translation": "Linda Nilsson изучает международную экономику в университете.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Linda"
+        },
+        {
+          "id": "w2",
+          "text": "på"
+        },
+        {
+          "id": "w3",
+          "text": "studerar"
+        },
+        {
+          "id": "w4",
+          "text": "ekonomi"
+        },
+        {
+          "id": "w5",
+          "text": "Nilsson"
+        },
+        {
+          "id": "w6",
+          "text": "universitetet"
+        },
+        {
+          "id": "w7",
+          "text": "av"
+        },
+        {
+          "id": "w8",
+          "text": "internationell"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w1",
+              "w5",
+              "w3",
+              "w8",
+              "w4",
+              "w2",
+              "w6"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-091",
+      "source_id": "SV-A1-091",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Renate promenerar hem efter lunchen.",
+      "punctuation": ".",
+      "translation": "Renate идёт домой пешком после обеда.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Renate"
+        },
+        {
+          "id": "w2",
+          "text": "efter"
+        },
+        {
+          "id": "w3",
+          "text": "pratar"
+        },
+        {
+          "id": "w4",
+          "text": "hem"
+        },
+        {
+          "id": "w5",
+          "text": "promenerar"
+        },
+        {
+          "id": "w6",
+          "text": "lunchen"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w1",
+              "w5",
+              "w4",
+              "w2",
+              "w6"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-092",
+      "source_id": "SV-A1-092",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Vad är det för dag i dag?",
+      "punctuation": "?",
+      "translation": "Какой сегодня день?",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "dag"
+        },
+        {
+          "id": "w2",
+          "text": "för"
+        },
+        {
+          "id": "w3",
+          "text": "dag"
+        },
+        {
+          "id": "w4",
+          "text": "det"
+        },
+        {
+          "id": "w5",
+          "text": "Vad"
+        },
+        {
+          "id": "w6",
+          "text": "är"
+        },
+        {
+          "id": "w7",
+          "text": "tjej"
+        },
+        {
+          "id": "w8",
+          "text": "i"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w5",
+              "w6",
+              "w4",
+              "w2",
+              "w1",
+              "w8",
+              "w3"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-093",
+      "source_id": "SV-A1-093",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Jag har en bror.",
+      "punctuation": ".",
+      "translation": "У меня есть брат.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Mattias"
+        },
+        {
+          "id": "w2",
+          "text": "Jag"
+        },
+        {
+          "id": "w3",
+          "text": "har"
+        },
+        {
+          "id": "w4",
+          "text": "bror"
+        },
+        {
+          "id": "w5",
+          "text": "en"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w2",
+              "w3",
+              "w5",
+              "w4"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-094",
+      "source_id": "SV-A1-094",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Han heter Christer.",
+      "punctuation": ".",
+      "translation": "Его зовут Кристер.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "tar"
+        },
+        {
+          "id": "w2",
+          "text": "Christer"
+        },
+        {
+          "id": "w3",
+          "text": "heter"
+        },
+        {
+          "id": "w4",
+          "text": "Han"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w4",
+              "w3",
+              "w2"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-095",
+      "source_id": "SV-A1-095",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Vad gör de?",
+      "punctuation": "?",
+      "translation": "Чем они занимаются?",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "de"
+        },
+        {
+          "id": "w2",
+          "text": "Vad"
+        },
+        {
+          "id": "w3",
+          "text": "skrivbordet"
+        },
+        {
+          "id": "w4",
+          "text": "gör"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w2",
+              "w4",
+              "w1"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-096",
+      "source_id": "SV-A1-096",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Bor de i Sverige också?",
+      "punctuation": "?",
+      "translation": "Они тоже живут в Швеции?",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "i"
+        },
+        {
+          "id": "w2",
+          "text": "Sverige"
+        },
+        {
+          "id": "w3",
+          "text": "Har"
+        },
+        {
+          "id": "w4",
+          "text": "de"
+        },
+        {
+          "id": "w5",
+          "text": "Bor"
+        },
+        {
+          "id": "w6",
+          "text": "också"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w5",
+              "w4",
+              "w1",
+              "w2",
+              "w6"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-097",
+      "source_id": "SV-A1-097",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Vad kostar det?",
+      "punctuation": "?",
+      "translation": "Сколько это стоит?",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "pratar"
+        },
+        {
+          "id": "w2",
+          "text": "det"
+        },
+        {
+          "id": "w3",
+          "text": "kostar"
+        },
+        {
+          "id": "w4",
+          "text": "Vad"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w4",
+              "w3",
+              "w2"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-098",
+      "source_id": "SV-A1-098",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Han dricker te.",
+      "punctuation": ".",
+      "translation": "Он пьёт чай.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "te"
+        },
+        {
+          "id": "w2",
+          "text": "Han"
+        },
+        {
+          "id": "w3",
+          "text": "dricker"
+        },
+        {
+          "id": "w4",
+          "text": "glas"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w2",
+              "w3",
+              "w1"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-099",
+      "source_id": "SV-A1-099",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Mia köper biljetter på Internet.",
+      "punctuation": ".",
+      "translation": "Миа покупает билеты через интернет.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Internet"
+        },
+        {
+          "id": "w2",
+          "text": "köper"
+        },
+        {
+          "id": "w3",
+          "text": "på"
+        },
+        {
+          "id": "w4",
+          "text": "Mia"
+        },
+        {
+          "id": "w5",
+          "text": "tycker"
+        },
+        {
+          "id": "w6",
+          "text": "biljetter"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w4",
+              "w2",
+              "w6",
+              "w3",
+              "w1"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-101",
+      "source_id": "SV-A1-101",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "De dricker kaffe.",
+      "punctuation": ".",
+      "translation": "Они пьют кофе.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "USA"
+        },
+        {
+          "id": "w2",
+          "text": "kaffe"
+        },
+        {
+          "id": "w3",
+          "text": "dricker"
+        },
+        {
+          "id": "w4",
+          "text": "De"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w4",
+              "w3",
+              "w2"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-102",
+      "source_id": "SV-A1-102",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Jag heter Anneli.",
+      "punctuation": ".",
+      "translation": "Меня зовут Аннели.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Linda"
+        },
+        {
+          "id": "w2",
+          "text": "Anneli"
+        },
+        {
+          "id": "w3",
+          "text": "heter"
+        },
+        {
+          "id": "w4",
+          "text": "Jag"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w4",
+              "w3",
+              "w2"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-103",
+      "source_id": "SV-A1-103",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Han skriver ungefär ett kapitel.",
+      "punctuation": ".",
+      "translation": "Он пишет примерно одну главу.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Han"
+        },
+        {
+          "id": "w2",
+          "text": "ta"
+        },
+        {
+          "id": "w3",
+          "text": "skriver"
+        },
+        {
+          "id": "w4",
+          "text": "ungefär"
+        },
+        {
+          "id": "w5",
+          "text": "kapitel"
+        },
+        {
+          "id": "w6",
+          "text": "ett"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w1",
+              "w3",
+              "w4",
+              "w6",
+              "w5"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-104",
+      "source_id": "SV-A1-104",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Bilen är svensk.",
+      "punctuation": ".",
+      "translation": "Машина шведская.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Fredag"
+        },
+        {
+          "id": "w2",
+          "text": "svensk"
+        },
+        {
+          "id": "w3",
+          "text": "Bilen"
+        },
+        {
+          "id": "w4",
+          "text": "är"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w3",
+              "w4",
+              "w2"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-106",
+      "source_id": "SV-A1-106",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Bosse kommer hem från arbetet kvart över sex på morgonen.",
+      "punctuation": ".",
+      "translation": "Bosse приходит с работы в шесть пятнадцать утра.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "från"
+        },
+        {
+          "id": "w2",
+          "text": "arbetet"
+        },
+        {
+          "id": "w3",
+          "text": "på"
+        },
+        {
+          "id": "w4",
+          "text": "morgonen"
+        },
+        {
+          "id": "w5",
+          "text": "hem"
+        },
+        {
+          "id": "w6",
+          "text": "Bosse"
+        },
+        {
+          "id": "w7",
+          "text": "sex"
+        },
+        {
+          "id": "w8",
+          "text": "kommer"
+        },
+        {
+          "id": "w9",
+          "text": "kvart"
+        },
+        {
+          "id": "w10",
+          "text": "över"
+        },
+        {
+          "id": "w11",
+          "text": "gott"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w6",
+              "w8",
+              "w5",
+              "w1",
+              "w2",
+              "w9",
+              "w10",
+              "w7",
+              "w3",
+              "w4"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-107",
+      "source_id": "SV-A1-107",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Båten heter Tora.",
+      "punctuation": ".",
+      "translation": "Лодку зовут Тора.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Alfreds"
+        },
+        {
+          "id": "w2",
+          "text": "Tora"
+        },
+        {
+          "id": "w3",
+          "text": "Båten"
+        },
+        {
+          "id": "w4",
+          "text": "heter"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w3",
+              "w4",
+              "w2"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-108",
+      "source_id": "SV-A1-108",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Jag älskar dig.",
+      "punctuation": ".",
+      "translation": "Я тебя люблю.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "cancer"
+        },
+        {
+          "id": "w2",
+          "text": "Jag"
+        },
+        {
+          "id": "w3",
+          "text": "dig"
+        },
+        {
+          "id": "w4",
+          "text": "älskar"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w2",
+              "w4",
+              "w3"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-109",
+      "source_id": "SV-A1-109",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Det är inte varmt ute.",
+      "punctuation": ".",
+      "translation": "На улице не жарко.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "varmt"
+        },
+        {
+          "id": "w2",
+          "text": "är"
+        },
+        {
+          "id": "w3",
+          "text": "inte"
+        },
+        {
+          "id": "w4",
+          "text": "Det"
+        },
+        {
+          "id": "w5",
+          "text": "ute"
+        },
+        {
+          "id": "w6",
+          "text": "klarar"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w4",
+              "w2",
+              "w3",
+              "w1",
+              "w5"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-110",
+      "source_id": "SV-A1-110",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Jag heter Anna.",
+      "punctuation": ".",
+      "translation": "Меня зовут Анна.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Jag"
+        },
+        {
+          "id": "w2",
+          "text": "heter"
+        },
+        {
+          "id": "w3",
+          "text": "Anna"
+        },
+        {
+          "id": "w4",
+          "text": "pluggar"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w1",
+              "w2",
+              "w3"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-112",
+      "source_id": "SV-A1-112",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Det här är livet!",
+      "punctuation": "!",
+      "translation": "Вот она, жизнь!",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Det"
+        },
+        {
+          "id": "w2",
+          "text": "här"
+        },
+        {
+          "id": "w3",
+          "text": "är"
+        },
+        {
+          "id": "w4",
+          "text": "dance"
+        },
+        {
+          "id": "w5",
+          "text": "livet"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w1",
+              "w2",
+              "w3",
+              "w5"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-113",
+      "source_id": "SV-A1-113",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Katten heter Simba.",
+      "punctuation": ".",
+      "translation": "Кошку зовут Симба.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Alfreds"
+        },
+        {
+          "id": "w2",
+          "text": "Katten"
+        },
+        {
+          "id": "w3",
+          "text": "heter"
+        },
+        {
+          "id": "w4",
+          "text": "Simba"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w2",
+              "w3",
+              "w4"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-114",
+      "source_id": "SV-A1-114",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Jag ringer dig sedan.",
+      "punctuation": ".",
+      "translation": "Я тебе потом позвоню.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "dig"
+        },
+        {
+          "id": "w2",
+          "text": "sedan"
+        },
+        {
+          "id": "w3",
+          "text": "ringer"
+        },
+        {
+          "id": "w4",
+          "text": "kvällen"
+        },
+        {
+          "id": "w5",
+          "text": "Jag"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w5",
+              "w3",
+              "w1",
+              "w2"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-115",
+      "source_id": "SV-A1-115",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Vad kostar den där mobiltelefonen?",
+      "punctuation": "?",
+      "translation": "Сколько стоит тот мобильный телефон?",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Vad"
+        },
+        {
+          "id": "w2",
+          "text": "kostar"
+        },
+        {
+          "id": "w3",
+          "text": "där"
+        },
+        {
+          "id": "w4",
+          "text": "den"
+        },
+        {
+          "id": "w5",
+          "text": "skrivbordet"
+        },
+        {
+          "id": "w6",
+          "text": "mobiltelefonen"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w1",
+              "w2",
+              "w4",
+              "w3",
+              "w6"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-116",
+      "source_id": "SV-A1-116",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "De packar in allt i båten, inklusive Jonas gitarr och Pelles grill.",
+      "punctuation": ".",
+      "translation": "Они грузят всё в лодку, включая гитару Йонаса и гриль Пелле.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "inklusive"
+        },
+        {
+          "id": "w2",
+          "text": "in"
+        },
+        {
+          "id": "w3",
+          "text": "Pelles"
+        },
+        {
+          "id": "w4",
+          "text": "i"
+        },
+        {
+          "id": "w5",
+          "text": "gitarr"
+        },
+        {
+          "id": "w6",
+          "text": "och"
+        },
+        {
+          "id": "w7",
+          "text": "våt"
+        },
+        {
+          "id": "w8",
+          "text": "De"
+        },
+        {
+          "id": "w9",
+          "text": "grill"
+        },
+        {
+          "id": "w10",
+          "text": "allt"
+        },
+        {
+          "id": "w11",
+          "text": "båten"
+        },
+        {
+          "id": "w12",
+          "text": "packar"
+        },
+        {
+          "id": "w13",
+          "text": "Jonas"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w8",
+              "w12",
+              "w2",
+              "w10",
+              "w4",
+              "w11",
+              "w1",
+              "w13",
+              "w5",
+              "w6",
+              "w3",
+              "w9"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-117",
+      "source_id": "SV-A1-117",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Ta med dina vänner!",
+      "punctuation": "!",
+      "translation": "Возьми с собой друзей!",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "vänner"
+        },
+        {
+          "id": "w2",
+          "text": "sex"
+        },
+        {
+          "id": "w3",
+          "text": "dina"
+        },
+        {
+          "id": "w4",
+          "text": "Ta"
+        },
+        {
+          "id": "w5",
+          "text": "med"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w4",
+              "w5",
+              "w3",
+              "w1"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-118",
+      "source_id": "SV-A1-118",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Jag är typograf.",
+      "punctuation": ".",
+      "translation": "Я типограф.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "typograf"
+        },
+        {
+          "id": "w2",
+          "text": "är"
+        },
+        {
+          "id": "w3",
+          "text": "fortfarande"
+        },
+        {
+          "id": "w4",
+          "text": "Jag"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w4",
+              "w2",
+              "w1"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-119",
+      "source_id": "SV-A1-119",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Jag spelar ofta dataspel.",
+      "punctuation": ".",
+      "translation": "Я часто играю в компьютерные игры.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "spelar"
+        },
+        {
+          "id": "w2",
+          "text": "ofta"
+        },
+        {
+          "id": "w3",
+          "text": "Jag"
+        },
+        {
+          "id": "w4",
+          "text": "Bosse"
+        },
+        {
+          "id": "w5",
+          "text": "dataspel"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w3",
+              "w1",
+              "w2",
+              "w5"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-120",
+      "source_id": "SV-A1-120",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Har du barn?",
+      "punctuation": "?",
+      "translation": "У тебя есть дети?",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Har"
+        },
+        {
+          "id": "w2",
+          "text": "barn"
+        },
+        {
+          "id": "w3",
+          "text": "du"
+        },
+        {
+          "id": "w4",
+          "text": "klarar"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w1",
+              "w3",
+              "w2"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-122",
+      "source_id": "SV-A1-122",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Nej, jag är inte gift.",
+      "punctuation": ".",
+      "translation": "Нет, я не женат.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "är"
+        },
+        {
+          "id": "w2",
+          "text": "jag"
+        },
+        {
+          "id": "w3",
+          "text": "dog"
+        },
+        {
+          "id": "w4",
+          "text": "gift"
+        },
+        {
+          "id": "w5",
+          "text": "Nej"
+        },
+        {
+          "id": "w6",
+          "text": "inte"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w5",
+              "w2",
+              "w1",
+              "w6",
+              "w4"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-123",
+      "source_id": "SV-A1-123",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Klara har en bror, som går i skolan.",
+      "punctuation": ".",
+      "translation": "У Клары есть брат, который ходит в школу.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "bror"
+        },
+        {
+          "id": "w2",
+          "text": "en"
+        },
+        {
+          "id": "w3",
+          "text": "skolan"
+        },
+        {
+          "id": "w4",
+          "text": "Klara"
+        },
+        {
+          "id": "w5",
+          "text": "har"
+        },
+        {
+          "id": "w6",
+          "text": "går"
+        },
+        {
+          "id": "w7",
+          "text": "i"
+        },
+        {
+          "id": "w8",
+          "text": "som"
+        },
+        {
+          "id": "w9",
+          "text": "intresserad"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w4",
+              "w5",
+              "w2",
+              "w1",
+              "w8",
+              "w6",
+              "w7",
+              "w3"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-124",
+      "source_id": "SV-A1-124",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Brevet kommer från USA och det är på engelska.",
+      "punctuation": ".",
+      "translation": "Письмо из США, и оно на английском.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "och"
+        },
+        {
+          "id": "w2",
+          "text": "engelska"
+        },
+        {
+          "id": "w3",
+          "text": "är"
+        },
+        {
+          "id": "w4",
+          "text": "från"
+        },
+        {
+          "id": "w5",
+          "text": "kommer"
+        },
+        {
+          "id": "w6",
+          "text": "på"
+        },
+        {
+          "id": "w7",
+          "text": "det"
+        },
+        {
+          "id": "w8",
+          "text": "Brevet"
+        },
+        {
+          "id": "w9",
+          "text": "Jonas"
+        },
+        {
+          "id": "w10",
+          "text": "USA"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w8",
+              "w5",
+              "w4",
+              "w10",
+              "w1",
+              "w7",
+              "w3",
+              "w6",
+              "w2"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-125",
+      "source_id": "SV-A1-125",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Hassan är inte hemma.",
+      "punctuation": ".",
+      "translation": "Хассана нет дома.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Hassan"
+        },
+        {
+          "id": "w2",
+          "text": "inte"
+        },
+        {
+          "id": "w3",
+          "text": "är"
+        },
+        {
+          "id": "w4",
+          "text": "henne"
+        },
+        {
+          "id": "w5",
+          "text": "hemma"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w1",
+              "w3",
+              "w2",
+              "w5"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-126",
+      "source_id": "SV-A1-126",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Vi ska träffa Brians mamma.",
+      "punctuation": ".",
+      "translation": "Мы встретимся с мамой Брайана.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "ska"
+        },
+        {
+          "id": "w2",
+          "text": "träffa"
+        },
+        {
+          "id": "w3",
+          "text": "Mia"
+        },
+        {
+          "id": "w4",
+          "text": "Vi"
+        },
+        {
+          "id": "w5",
+          "text": "Brians"
+        },
+        {
+          "id": "w6",
+          "text": "mamma"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w4",
+              "w1",
+              "w2",
+              "w5",
+              "w6"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-128",
+      "source_id": "SV-A1-128",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Hon dricker kaffe och läser tidningen i sängen.",
+      "punctuation": ".",
+      "translation": "Она пьёт кофе и читает газету в постели.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Hon"
+        },
+        {
+          "id": "w2",
+          "text": "tidningen"
+        },
+        {
+          "id": "w3",
+          "text": "läser"
+        },
+        {
+          "id": "w4",
+          "text": "engelska"
+        },
+        {
+          "id": "w5",
+          "text": "och"
+        },
+        {
+          "id": "w6",
+          "text": "i"
+        },
+        {
+          "id": "w7",
+          "text": "kaffe"
+        },
+        {
+          "id": "w8",
+          "text": "sängen"
+        },
+        {
+          "id": "w9",
+          "text": "dricker"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w1",
+              "w9",
+              "w7",
+              "w5",
+              "w3",
+              "w2",
+              "w6",
+              "w8"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-129",
+      "source_id": "SV-A1-129",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Det är en trevlig tjej.",
+      "punctuation": ".",
+      "translation": "Она приятная девушка.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "trevlig"
+        },
+        {
+          "id": "w2",
+          "text": "en"
+        },
+        {
+          "id": "w3",
+          "text": "tjej"
+        },
+        {
+          "id": "w4",
+          "text": "Det"
+        },
+        {
+          "id": "w5",
+          "text": "fryser"
+        },
+        {
+          "id": "w6",
+          "text": "är"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w4",
+              "w6",
+              "w2",
+              "w1",
+              "w3"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-131",
+      "source_id": "SV-A1-131",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Vi kommer sedan.",
+      "punctuation": ".",
+      "translation": "Мы придём потом.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Vi"
+        },
+        {
+          "id": "w2",
+          "text": "tack"
+        },
+        {
+          "id": "w3",
+          "text": "sedan"
+        },
+        {
+          "id": "w4",
+          "text": "kommer"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w1",
+              "w4",
+              "w3"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-132",
+      "source_id": "SV-A1-132",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Nej tack, jag klarar mig själv.",
+      "punctuation": ".",
+      "translation": "Нет, спасибо, я справлюсь сам.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "klarar"
+        },
+        {
+          "id": "w2",
+          "text": "mig"
+        },
+        {
+          "id": "w3",
+          "text": "tack"
+        },
+        {
+          "id": "w4",
+          "text": "Simba"
+        },
+        {
+          "id": "w5",
+          "text": "jag"
+        },
+        {
+          "id": "w6",
+          "text": "själv"
+        },
+        {
+          "id": "w7",
+          "text": "Nej"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w7",
+              "w3",
+              "w5",
+              "w1",
+              "w2",
+              "w6"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-134",
+      "source_id": "SV-A1-134",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Nej, det ska jag inte.",
+      "punctuation": ".",
+      "translation": "Нет, я не буду.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Nej"
+        },
+        {
+          "id": "w2",
+          "text": "jag"
+        },
+        {
+          "id": "w3",
+          "text": "saker"
+        },
+        {
+          "id": "w4",
+          "text": "ska"
+        },
+        {
+          "id": "w5",
+          "text": "inte"
+        },
+        {
+          "id": "w6",
+          "text": "det"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w1",
+              "w6",
+              "w4",
+              "w2",
+              "w5"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-136",
+      "source_id": "SV-A1-136",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Efter middagen diskar hon och spelar lite piano.",
+      "punctuation": ".",
+      "translation": "После ужина она моет посуду и немного играет на пианино.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "diskar"
+        },
+        {
+          "id": "w2",
+          "text": "hon"
+        },
+        {
+          "id": "w3",
+          "text": "middagen"
+        },
+        {
+          "id": "w4",
+          "text": "piano"
+        },
+        {
+          "id": "w5",
+          "text": "spelar"
+        },
+        {
+          "id": "w6",
+          "text": "och"
+        },
+        {
+          "id": "w7",
+          "text": "Efter"
+        },
+        {
+          "id": "w8",
+          "text": "dog"
+        },
+        {
+          "id": "w9",
+          "text": "lite"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w7",
+              "w3",
+              "w1",
+              "w2",
+              "w6",
+              "w5",
+              "w9",
+              "w4"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-137",
+      "source_id": "SV-A1-137",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Jag studerar svenska på universitetet.",
+      "punctuation": ".",
+      "translation": "Я изучаю шведский в университете.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Jag"
+        },
+        {
+          "id": "w2",
+          "text": "på"
+        },
+        {
+          "id": "w3",
+          "text": "universitetet"
+        },
+        {
+          "id": "w4",
+          "text": "Varsågod"
+        },
+        {
+          "id": "w5",
+          "text": "svenska"
+        },
+        {
+          "id": "w6",
+          "text": "studerar"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w1",
+              "w6",
+              "w5",
+              "w2",
+              "w3"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-139",
+      "source_id": "SV-A1-139",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Alfreds bror Emil dog också.",
+      "punctuation": ".",
+      "translation": "Брат Альфреда Эмиль тоже умер.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "också"
+        },
+        {
+          "id": "w2",
+          "text": "dog"
+        },
+        {
+          "id": "w3",
+          "text": "skön"
+        },
+        {
+          "id": "w4",
+          "text": "Alfreds"
+        },
+        {
+          "id": "w5",
+          "text": "bror"
+        },
+        {
+          "id": "w6",
+          "text": "Emil"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w4",
+              "w5",
+              "w6",
+              "w2",
+              "w1"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-140",
+      "source_id": "SV-A1-140",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Daniel ska åka till Göteborg på semester snart.",
+      "punctuation": ".",
+      "translation": "Даниэль скоро поедет в Гётеборг в отпуск.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "ska"
+        },
+        {
+          "id": "w2",
+          "text": "semester"
+        },
+        {
+          "id": "w3",
+          "text": "till"
+        },
+        {
+          "id": "w4",
+          "text": "Daniel"
+        },
+        {
+          "id": "w5",
+          "text": "snart"
+        },
+        {
+          "id": "w6",
+          "text": "något"
+        },
+        {
+          "id": "w7",
+          "text": "på"
+        },
+        {
+          "id": "w8",
+          "text": "Göteborg"
+        },
+        {
+          "id": "w9",
+          "text": "åka"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w4",
+              "w1",
+              "w9",
+              "w3",
+              "w8",
+              "w7",
+              "w2",
+              "w5"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-141",
+      "source_id": "SV-A1-141",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Klockan är tolv.",
+      "punctuation": ".",
+      "translation": "Сейчас двенадцать часов.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "tolv"
+        },
+        {
+          "id": "w2",
+          "text": "Klockan"
+        },
+        {
+          "id": "w3",
+          "text": "gott"
+        },
+        {
+          "id": "w4",
+          "text": "är"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w2",
+              "w4",
+              "w1"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-142",
+      "source_id": "SV-A1-142",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "På torsdag har vi lektion från två till tre.",
+      "punctuation": ".",
+      "translation": "В четверг у нас урок с двух до трёх.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Akinori"
+        },
+        {
+          "id": "w2",
+          "text": "tre"
+        },
+        {
+          "id": "w3",
+          "text": "två"
+        },
+        {
+          "id": "w4",
+          "text": "På"
+        },
+        {
+          "id": "w5",
+          "text": "har"
+        },
+        {
+          "id": "w6",
+          "text": "från"
+        },
+        {
+          "id": "w7",
+          "text": "torsdag"
+        },
+        {
+          "id": "w8",
+          "text": "lektion"
+        },
+        {
+          "id": "w9",
+          "text": "vi"
+        },
+        {
+          "id": "w10",
+          "text": "till"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w4",
+              "w7",
+              "w5",
+              "w9",
+              "w8",
+              "w6",
+              "w3",
+              "w10",
+              "w2"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-144",
+      "source_id": "SV-A1-144",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Ja, hon är kvart i sju.",
+      "punctuation": ".",
+      "translation": "Да, сейчас без четверти семь.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "är"
+        },
+        {
+          "id": "w2",
+          "text": "imorgon"
+        },
+        {
+          "id": "w3",
+          "text": "kvart"
+        },
+        {
+          "id": "w4",
+          "text": "Ja"
+        },
+        {
+          "id": "w5",
+          "text": "sju"
+        },
+        {
+          "id": "w6",
+          "text": "i"
+        },
+        {
+          "id": "w7",
+          "text": "hon"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w4",
+              "w7",
+              "w1",
+              "w3",
+              "w6",
+              "w5"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-145",
+      "source_id": "SV-A1-145",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Vi måste gå nu.",
+      "punctuation": ".",
+      "translation": "Нам нужно идти сейчас.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "måste"
+        },
+        {
+          "id": "w2",
+          "text": "Vi"
+        },
+        {
+          "id": "w3",
+          "text": "nu"
+        },
+        {
+          "id": "w4",
+          "text": "om"
+        },
+        {
+          "id": "w5",
+          "text": "gå"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w2",
+              "w1",
+              "w5",
+              "w3"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-146",
+      "source_id": "SV-A1-146",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Jag blev alldeles våt på vägen hit.",
+      "punctuation": ".",
+      "translation": "Я совсем промок по дороге сюда.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "blev"
+        },
+        {
+          "id": "w2",
+          "text": "alldeles"
+        },
+        {
+          "id": "w3",
+          "text": "våt"
+        },
+        {
+          "id": "w4",
+          "text": "på"
+        },
+        {
+          "id": "w5",
+          "text": "Jag"
+        },
+        {
+          "id": "w6",
+          "text": "hit"
+        },
+        {
+          "id": "w7",
+          "text": "vägen"
+        },
+        {
+          "id": "w8",
+          "text": "höger"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w5",
+              "w1",
+              "w2",
+              "w3",
+              "w4",
+              "w7",
+              "w6"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-147",
+      "source_id": "SV-A1-147",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Är du hemma i kväll?",
+      "punctuation": "?",
+      "translation": "Ты вечером будешь дома?",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "du"
+        },
+        {
+          "id": "w2",
+          "text": "hemma"
+        },
+        {
+          "id": "w3",
+          "text": "från"
+        },
+        {
+          "id": "w4",
+          "text": "i"
+        },
+        {
+          "id": "w5",
+          "text": "Är"
+        },
+        {
+          "id": "w6",
+          "text": "kväll"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w5",
+              "w1",
+              "w2",
+              "w4",
+              "w6"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-148",
+      "source_id": "SV-A1-148",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Renate dansar line dance.",
+      "punctuation": ".",
+      "translation": "Renate танцует line dance.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "dance"
+        },
+        {
+          "id": "w2",
+          "text": "line"
+        },
+        {
+          "id": "w3",
+          "text": "Renate"
+        },
+        {
+          "id": "w4",
+          "text": "dansar"
+        },
+        {
+          "id": "w5",
+          "text": "ligger"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w3",
+              "w4",
+              "w2",
+              "w1"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-149",
+      "source_id": "SV-A1-149",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Skulle du vilja gå på ishockey?",
+      "punctuation": "?",
+      "translation": "Хотел бы ты сходить на хоккей?",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Skulle"
+        },
+        {
+          "id": "w2",
+          "text": "gå"
+        },
+        {
+          "id": "w3",
+          "text": "tar"
+        },
+        {
+          "id": "w4",
+          "text": "du"
+        },
+        {
+          "id": "w5",
+          "text": "på"
+        },
+        {
+          "id": "w6",
+          "text": "vilja"
+        },
+        {
+          "id": "w7",
+          "text": "ishockey"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w1",
+              "w4",
+              "w6",
+              "w2",
+              "w5",
+              "w7"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-150",
+      "source_id": "SV-A1-150",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Jag heter Akinori.",
+      "punctuation": ".",
+      "translation": "Меня зовут Акинори.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Akinori"
+        },
+        {
+          "id": "w2",
+          "text": "Jag"
+        },
+        {
+          "id": "w3",
+          "text": "heter"
+        },
+        {
+          "id": "w4",
+          "text": "se"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w2",
+              "w3",
+              "w1"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-151",
+      "source_id": "SV-A1-151",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Det svenska glaset är från Orrefors.",
+      "punctuation": ".",
+      "translation": "Шведский стакан из Оррефорса.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "gör"
+        },
+        {
+          "id": "w2",
+          "text": "Orrefors"
+        },
+        {
+          "id": "w3",
+          "text": "Det"
+        },
+        {
+          "id": "w4",
+          "text": "från"
+        },
+        {
+          "id": "w5",
+          "text": "glaset"
+        },
+        {
+          "id": "w6",
+          "text": "är"
+        },
+        {
+          "id": "w7",
+          "text": "svenska"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w3",
+              "w7",
+              "w5",
+              "w6",
+              "w4",
+              "w2"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-152",
+      "source_id": "SV-A1-152",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Två plus tre är lika med fem.",
+      "punctuation": ".",
+      "translation": "Два плюс три равно пяти.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Två"
+        },
+        {
+          "id": "w2",
+          "text": "ha"
+        },
+        {
+          "id": "w3",
+          "text": "fem"
+        },
+        {
+          "id": "w4",
+          "text": "tre"
+        },
+        {
+          "id": "w5",
+          "text": "är"
+        },
+        {
+          "id": "w6",
+          "text": "med"
+        },
+        {
+          "id": "w7",
+          "text": "plus"
+        },
+        {
+          "id": "w8",
+          "text": "lika"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w1",
+              "w7",
+              "w4",
+              "w5",
+              "w8",
+              "w6",
+              "w3"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-154",
+      "source_id": "SV-A1-154",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Jag har aldrig sett dem spela på Ullevi.",
+      "punctuation": ".",
+      "translation": "Я никогда не видел, как они играют на Уллеви.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Jag"
+        },
+        {
+          "id": "w2",
+          "text": "dem"
+        },
+        {
+          "id": "w3",
+          "text": "har"
+        },
+        {
+          "id": "w4",
+          "text": "aldrig"
+        },
+        {
+          "id": "w5",
+          "text": "spela"
+        },
+        {
+          "id": "w6",
+          "text": "träffa"
+        },
+        {
+          "id": "w7",
+          "text": "Ullevi"
+        },
+        {
+          "id": "w8",
+          "text": "på"
+        },
+        {
+          "id": "w9",
+          "text": "sett"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w1",
+              "w3",
+              "w4",
+              "w9",
+              "w2",
+              "w5",
+              "w8",
+              "w7"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-155",
+      "source_id": "SV-A1-155",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Han tar sedan taxi hem.",
+      "punctuation": ".",
+      "translation": "Потом он едет домой на такси.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "bror"
+        },
+        {
+          "id": "w2",
+          "text": "tar"
+        },
+        {
+          "id": "w3",
+          "text": "Han"
+        },
+        {
+          "id": "w4",
+          "text": "sedan"
+        },
+        {
+          "id": "w5",
+          "text": "hem"
+        },
+        {
+          "id": "w6",
+          "text": "taxi"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w3",
+              "w2",
+              "w4",
+              "w6",
+              "w5"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-156",
+      "source_id": "SV-A1-156",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Vad studerar du?",
+      "punctuation": "?",
+      "translation": "Что ты изучаешь?",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "grupparbete"
+        },
+        {
+          "id": "w2",
+          "text": "du"
+        },
+        {
+          "id": "w3",
+          "text": "studerar"
+        },
+        {
+          "id": "w4",
+          "text": "Vad"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w4",
+              "w3",
+              "w2"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-158",
+      "source_id": "SV-A1-158",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Den är tolv.",
+      "punctuation": ".",
+      "translation": "Сейчас двенадцать.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "är"
+        },
+        {
+          "id": "w2",
+          "text": "Den"
+        },
+        {
+          "id": "w3",
+          "text": "tolv"
+        },
+        {
+          "id": "w4",
+          "text": "efterrätt"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w2",
+              "w1",
+              "w3"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-159",
+      "source_id": "SV-A1-159",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Han arbetar nästa vecka.",
+      "punctuation": ".",
+      "translation": "Он работает на следующей неделе.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "tolv"
+        },
+        {
+          "id": "w2",
+          "text": "Han"
+        },
+        {
+          "id": "w3",
+          "text": "arbetar"
+        },
+        {
+          "id": "w4",
+          "text": "nästa"
+        },
+        {
+          "id": "w5",
+          "text": "vecka"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w2",
+              "w3",
+              "w4",
+              "w5"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-160",
+      "source_id": "SV-A1-160",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Renate är en mycket aktiv pensionär.",
+      "punctuation": ".",
+      "translation": "Renate очень активная пенсионерка.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Hur"
+        },
+        {
+          "id": "w2",
+          "text": "mycket"
+        },
+        {
+          "id": "w3",
+          "text": "aktiv"
+        },
+        {
+          "id": "w4",
+          "text": "pensionär"
+        },
+        {
+          "id": "w5",
+          "text": "Renate"
+        },
+        {
+          "id": "w6",
+          "text": "är"
+        },
+        {
+          "id": "w7",
+          "text": "en"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w5",
+              "w6",
+              "w7",
+              "w2",
+              "w3",
+              "w4"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-161",
+      "source_id": "SV-A1-161",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Ja, det kan de.",
+      "punctuation": ".",
+      "translation": "Да, они могут.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "det"
+        },
+        {
+          "id": "w2",
+          "text": "kan"
+        },
+        {
+          "id": "w3",
+          "text": "Ja"
+        },
+        {
+          "id": "w4",
+          "text": "Peter"
+        },
+        {
+          "id": "w5",
+          "text": "de"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w3",
+              "w1",
+              "w2",
+              "w5"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-162",
+      "source_id": "SV-A1-162",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "De pratar och skrattar.",
+      "punctuation": ".",
+      "translation": "Они разговаривают и смеются.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "och"
+        },
+        {
+          "id": "w2",
+          "text": "skrattar"
+        },
+        {
+          "id": "w3",
+          "text": "pratar"
+        },
+        {
+          "id": "w4",
+          "text": "De"
+        },
+        {
+          "id": "w5",
+          "text": "också"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w4",
+              "w3",
+              "w1",
+              "w2"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-163",
+      "source_id": "SV-A1-163",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Vid väggen till höger står en gul soffa.",
+      "punctuation": ".",
+      "translation": "У стены справа стоит жёлтый диван.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "väggen"
+        },
+        {
+          "id": "w2",
+          "text": "soffa"
+        },
+        {
+          "id": "w3",
+          "text": "höger"
+        },
+        {
+          "id": "w4",
+          "text": "till"
+        },
+        {
+          "id": "w5",
+          "text": "står"
+        },
+        {
+          "id": "w6",
+          "text": "gul"
+        },
+        {
+          "id": "w7",
+          "text": "Vid"
+        },
+        {
+          "id": "w8",
+          "text": "bokhyllan"
+        },
+        {
+          "id": "w9",
+          "text": "en"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w7",
+              "w1",
+              "w4",
+              "w3",
+              "w5",
+              "w9",
+              "w6",
+              "w2"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-164",
+      "source_id": "SV-A1-164",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Vi går ofta på teater eller konsert.",
+      "punctuation": ".",
+      "translation": "Мы часто ходим в театр или на концерт.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "går"
+        },
+        {
+          "id": "w2",
+          "text": "på"
+        },
+        {
+          "id": "w3",
+          "text": "Varsågod"
+        },
+        {
+          "id": "w4",
+          "text": "eller"
+        },
+        {
+          "id": "w5",
+          "text": "ofta"
+        },
+        {
+          "id": "w6",
+          "text": "Vi"
+        },
+        {
+          "id": "w7",
+          "text": "konsert"
+        },
+        {
+          "id": "w8",
+          "text": "teater"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w6",
+              "w1",
+              "w5",
+              "w2",
+              "w8",
+              "w4",
+              "w7"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-165",
+      "source_id": "SV-A1-165",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Jag spelar också basket ibland.",
+      "punctuation": ".",
+      "translation": "Иногда я тоже играю в баскетбол.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "ibland"
+        },
+        {
+          "id": "w2",
+          "text": "Jag"
+        },
+        {
+          "id": "w3",
+          "text": "eller"
+        },
+        {
+          "id": "w4",
+          "text": "också"
+        },
+        {
+          "id": "w5",
+          "text": "spelar"
+        },
+        {
+          "id": "w6",
+          "text": "basket"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w2",
+              "w5",
+              "w4",
+              "w6",
+              "w1"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-168",
+      "source_id": "SV-A1-168",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Peter vill se en kinesisk film.",
+      "punctuation": ".",
+      "translation": "Питер хочет посмотреть китайский фильм.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Jag"
+        },
+        {
+          "id": "w2",
+          "text": "kinesisk"
+        },
+        {
+          "id": "w3",
+          "text": "vill"
+        },
+        {
+          "id": "w4",
+          "text": "en"
+        },
+        {
+          "id": "w5",
+          "text": "se"
+        },
+        {
+          "id": "w6",
+          "text": "Peter"
+        },
+        {
+          "id": "w7",
+          "text": "film"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w6",
+              "w3",
+              "w5",
+              "w4",
+              "w2",
+              "w7"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-169",
+      "source_id": "SV-A1-169",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Nej, men jag är förlovad och sambo.",
+      "punctuation": ".",
+      "translation": "Нет, но я помолвлен и живу с партнёром.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "men"
+        },
+        {
+          "id": "w2",
+          "text": "förlovad"
+        },
+        {
+          "id": "w3",
+          "text": "är"
+        },
+        {
+          "id": "w4",
+          "text": "jag"
+        },
+        {
+          "id": "w5",
+          "text": "Nej"
+        },
+        {
+          "id": "w6",
+          "text": "sambo"
+        },
+        {
+          "id": "w7",
+          "text": "och"
+        },
+        {
+          "id": "w8",
+          "text": "mycket"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w5",
+              "w1",
+              "w4",
+              "w3",
+              "w2",
+              "w7",
+              "w6"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-171",
+      "source_id": "SV-A1-171",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Då går vi ut tillsammans och dansar!",
+      "punctuation": "!",
+      "translation": "Тогда пойдём вместе гулять и танцевать!",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "sju"
+        },
+        {
+          "id": "w2",
+          "text": "vi"
+        },
+        {
+          "id": "w3",
+          "text": "ut"
+        },
+        {
+          "id": "w4",
+          "text": "tillsammans"
+        },
+        {
+          "id": "w5",
+          "text": "och"
+        },
+        {
+          "id": "w6",
+          "text": "dansar"
+        },
+        {
+          "id": "w7",
+          "text": "går"
+        },
+        {
+          "id": "w8",
+          "text": "Då"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w8",
+              "w7",
+              "w2",
+              "w3",
+              "w4",
+              "w5",
+              "w6"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-172",
+      "source_id": "SV-A1-172",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Han ligger och sover i soffan.",
+      "punctuation": ".",
+      "translation": "Он лежит и спит на диване.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "och"
+        },
+        {
+          "id": "w2",
+          "text": "sover"
+        },
+        {
+          "id": "w3",
+          "text": "Han"
+        },
+        {
+          "id": "w4",
+          "text": "många"
+        },
+        {
+          "id": "w5",
+          "text": "soffan"
+        },
+        {
+          "id": "w6",
+          "text": "i"
+        },
+        {
+          "id": "w7",
+          "text": "ligger"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w3",
+              "w7",
+              "w1",
+              "w2",
+              "w6",
+              "w5"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-173",
+      "source_id": "SV-A1-173",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Klockan är fem och Lasse går hem.",
+      "punctuation": ".",
+      "translation": "Сейчас пять, и Lasse идёт домой.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "fem"
+        },
+        {
+          "id": "w2",
+          "text": "hem"
+        },
+        {
+          "id": "w3",
+          "text": "Lasse"
+        },
+        {
+          "id": "w4",
+          "text": "Mellan"
+        },
+        {
+          "id": "w5",
+          "text": "är"
+        },
+        {
+          "id": "w6",
+          "text": "Klockan"
+        },
+        {
+          "id": "w7",
+          "text": "går"
+        },
+        {
+          "id": "w8",
+          "text": "och"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w6",
+              "w5",
+              "w1",
+              "w8",
+              "w3",
+              "w7",
+              "w2"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-174",
+      "source_id": "SV-A1-174",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Jadå, det är bra.",
+      "punctuation": ".",
+      "translation": "Ну конечно, всё хорошо.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Jadå"
+        },
+        {
+          "id": "w2",
+          "text": "det"
+        },
+        {
+          "id": "w3",
+          "text": "bra"
+        },
+        {
+          "id": "w4",
+          "text": "är"
+        },
+        {
+          "id": "w5",
+          "text": "Mitt"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w1",
+              "w2",
+              "w4",
+              "w3"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-176",
+      "source_id": "SV-A1-176",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Är din mamma hemma?",
+      "punctuation": "?",
+      "translation": "Твоя мама дома?",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "hemma"
+        },
+        {
+          "id": "w2",
+          "text": "Är"
+        },
+        {
+          "id": "w3",
+          "text": "din"
+        },
+        {
+          "id": "w4",
+          "text": "varmt"
+        },
+        {
+          "id": "w5",
+          "text": "mamma"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w2",
+              "w3",
+              "w5",
+              "w1"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-177",
+      "source_id": "SV-A1-177",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Jag brukar alltid köpa mina sommarkläder på rea.",
+      "punctuation": ".",
+      "translation": "Я обычно всегда покупаю летнюю одежду на распродаже.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "alltid"
+        },
+        {
+          "id": "w2",
+          "text": "köpa"
+        },
+        {
+          "id": "w3",
+          "text": "sommarkläder"
+        },
+        {
+          "id": "w4",
+          "text": "vänner"
+        },
+        {
+          "id": "w5",
+          "text": "Jag"
+        },
+        {
+          "id": "w6",
+          "text": "mina"
+        },
+        {
+          "id": "w7",
+          "text": "brukar"
+        },
+        {
+          "id": "w8",
+          "text": "rea"
+        },
+        {
+          "id": "w9",
+          "text": "på"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w5",
+              "w7",
+              "w1",
+              "w2",
+              "w6",
+              "w3",
+              "w9",
+              "w8"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-178",
+      "source_id": "SV-A1-178",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Hej, Anders heter jag.",
+      "punctuation": ".",
+      "translation": "Привет, меня зовут Андерс.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Anders"
+        },
+        {
+          "id": "w2",
+          "text": "heter"
+        },
+        {
+          "id": "w3",
+          "text": "jag"
+        },
+        {
+          "id": "w4",
+          "text": "Hej"
+        },
+        {
+          "id": "w5",
+          "text": "Mattias"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w4",
+              "w1",
+              "w2",
+              "w3"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-180",
+      "source_id": "SV-A1-180",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Jag vill ha en bussbiljett också, tack.",
+      "punctuation": ".",
+      "translation": "Я хочу ещё билет на автобус, пожалуйста.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "bussbiljett"
+        },
+        {
+          "id": "w2",
+          "text": "en"
+        },
+        {
+          "id": "w3",
+          "text": "Jag"
+        },
+        {
+          "id": "w4",
+          "text": "ha"
+        },
+        {
+          "id": "w5",
+          "text": "tack"
+        },
+        {
+          "id": "w6",
+          "text": "vill"
+        },
+        {
+          "id": "w7",
+          "text": "Behöver"
+        },
+        {
+          "id": "w8",
+          "text": "också"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w3",
+              "w6",
+              "w4",
+              "w2",
+              "w1",
+              "w8",
+              "w5"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-181",
+      "source_id": "SV-A1-181",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Han är 26 år och bor ihop med Linda.",
+      "punctuation": ".",
+      "translation": "Ему 26 лет, и он живёт вместе с Линдой.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "26"
+        },
+        {
+          "id": "w2",
+          "text": "Linda"
+        },
+        {
+          "id": "w3",
+          "text": "ihop"
+        },
+        {
+          "id": "w4",
+          "text": "är"
+        },
+        {
+          "id": "w5",
+          "text": "och"
+        },
+        {
+          "id": "w6",
+          "text": "år"
+        },
+        {
+          "id": "w7",
+          "text": "Han"
+        },
+        {
+          "id": "w8",
+          "text": "bor"
+        },
+        {
+          "id": "w9",
+          "text": "med"
+        },
+        {
+          "id": "w10",
+          "text": "de"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w7",
+              "w4",
+              "w1",
+              "w6",
+              "w5",
+              "w8",
+              "w3",
+              "w9",
+              "w2"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-185",
+      "source_id": "SV-A1-185",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Linda är 22 år.",
+      "punctuation": ".",
+      "translation": "Линде 22 года.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "mina"
+        },
+        {
+          "id": "w2",
+          "text": "Linda"
+        },
+        {
+          "id": "w3",
+          "text": "är"
+        },
+        {
+          "id": "w4",
+          "text": "år"
+        },
+        {
+          "id": "w5",
+          "text": "22"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w2",
+              "w3",
+              "w5",
+              "w4"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-186",
+      "source_id": "SV-A1-186",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Emil skriver vykort.",
+      "punctuation": ".",
+      "translation": "Эмиль пишет открытки.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "vykort"
+        },
+        {
+          "id": "w2",
+          "text": "Emil"
+        },
+        {
+          "id": "w3",
+          "text": "skriver"
+        },
+        {
+          "id": "w4",
+          "text": "stolarna"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w2",
+              "w3",
+              "w1"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-187",
+      "source_id": "SV-A1-187",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Behöver jag platsbiljett?",
+      "punctuation": "?",
+      "translation": "Мне нужен билет с местом?",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Behöver"
+        },
+        {
+          "id": "w2",
+          "text": "jag"
+        },
+        {
+          "id": "w3",
+          "text": "platsbiljett"
+        },
+        {
+          "id": "w4",
+          "text": "smala"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w1",
+              "w2",
+              "w3"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-188",
+      "source_id": "SV-A1-188",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Vill du ha kaffe nu eller vill du ha efterrätt först?",
+      "punctuation": "?",
+      "translation": "Ты хочешь кофе сейчас или сначала десерт?",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "nu"
+        },
+        {
+          "id": "w2",
+          "text": "du"
+        },
+        {
+          "id": "w3",
+          "text": "eller"
+        },
+        {
+          "id": "w4",
+          "text": "Mia"
+        },
+        {
+          "id": "w5",
+          "text": "du"
+        },
+        {
+          "id": "w6",
+          "text": "vill"
+        },
+        {
+          "id": "w7",
+          "text": "ha"
+        },
+        {
+          "id": "w8",
+          "text": "ha"
+        },
+        {
+          "id": "w9",
+          "text": "kaffe"
+        },
+        {
+          "id": "w10",
+          "text": "efterrätt"
+        },
+        {
+          "id": "w11",
+          "text": "först"
+        },
+        {
+          "id": "w12",
+          "text": "Vill"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w12",
+              "w2",
+              "w7",
+              "w9",
+              "w1",
+              "w3",
+              "w6",
+              "w5",
+              "w8",
+              "w10",
+              "w11"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-189",
+      "source_id": "SV-A1-189",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Då hälsade jag på farfar som var sjuk.",
+      "punctuation": ".",
+      "translation": "Тогда я навестил дедушку, который болел.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "som"
+        },
+        {
+          "id": "w2",
+          "text": "på"
+        },
+        {
+          "id": "w3",
+          "text": "Då"
+        },
+        {
+          "id": "w4",
+          "text": "Spelar"
+        },
+        {
+          "id": "w5",
+          "text": "hälsade"
+        },
+        {
+          "id": "w6",
+          "text": "farfar"
+        },
+        {
+          "id": "w7",
+          "text": "jag"
+        },
+        {
+          "id": "w8",
+          "text": "var"
+        },
+        {
+          "id": "w9",
+          "text": "sjuk"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w3",
+              "w5",
+              "w7",
+              "w2",
+              "w6",
+              "w1",
+              "w8",
+              "w9"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-190",
+      "source_id": "SV-A1-190",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Jag talar svenska, engelska, japanska och koreanska.",
+      "punctuation": ".",
+      "translation": "Я говорю по-шведски, по-английски, по-японски и по-корейски.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "och"
+        },
+        {
+          "id": "w2",
+          "text": "japanska"
+        },
+        {
+          "id": "w3",
+          "text": "år"
+        },
+        {
+          "id": "w4",
+          "text": "svenska"
+        },
+        {
+          "id": "w5",
+          "text": "Jag"
+        },
+        {
+          "id": "w6",
+          "text": "koreanska"
+        },
+        {
+          "id": "w7",
+          "text": "engelska"
+        },
+        {
+          "id": "w8",
+          "text": "talar"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w5",
+              "w8",
+              "w4",
+              "w7",
+              "w2",
+              "w1",
+              "w6"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-191",
+      "source_id": "SV-A1-191",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Jag fryser som en hund.",
+      "punctuation": ".",
+      "translation": "Я замерзаю как собака.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "som"
+        },
+        {
+          "id": "w2",
+          "text": "Jag"
+        },
+        {
+          "id": "w3",
+          "text": "fryser"
+        },
+        {
+          "id": "w4",
+          "text": "en"
+        },
+        {
+          "id": "w5",
+          "text": "Skulle"
+        },
+        {
+          "id": "w6",
+          "text": "hund"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w2",
+              "w3",
+              "w1",
+              "w4",
+              "w6"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-194",
+      "source_id": "SV-A1-194",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Hur mycket är klockan?",
+      "punctuation": "?",
+      "translation": "Который час?",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "klockan"
+        },
+        {
+          "id": "w2",
+          "text": "är"
+        },
+        {
+          "id": "w3",
+          "text": "mycket"
+        },
+        {
+          "id": "w4",
+          "text": "tiden"
+        },
+        {
+          "id": "w5",
+          "text": "Hur"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w5",
+              "w3",
+              "w2",
+              "w1"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-197",
+      "source_id": "SV-A1-197",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Den heter Simba Åberg.",
+      "punctuation": ".",
+      "translation": "Его зовут Симба Оберг.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "Den"
+        },
+        {
+          "id": "w2",
+          "text": "heter"
+        },
+        {
+          "id": "w3",
+          "text": "din"
+        },
+        {
+          "id": "w4",
+          "text": "Simba"
+        },
+        {
+          "id": "w5",
+          "text": "Åberg"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w1",
+              "w2",
+              "w4",
+              "w5"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-198",
+      "source_id": "SV-A1-198",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Jag forskar om cancer.",
+      "punctuation": ".",
+      "translation": "Я исследую рак.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "cancer"
+        },
+        {
+          "id": "w2",
+          "text": "Stockholm"
+        },
+        {
+          "id": "w3",
+          "text": "om"
+        },
+        {
+          "id": "w4",
+          "text": "Jag"
+        },
+        {
+          "id": "w5",
+          "text": "forskar"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w4",
+              "w5",
+              "w3",
+              "w1"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    },
+    {
+      "id": "A1-200",
+      "source_id": "SV-A1-200",
+      "level": "A1",
+      "topic": "Ordföljd",
+      "sentence_sv": "Men jag brukar läsa tidningen och skriva e-post till mina kompisar.",
+      "punctuation": ".",
+      "translation": "Но я обычно читаю газету и пишу письма по электронной почте друзьям.",
+      "tiles": [
+        {
+          "id": "w1",
+          "text": "läsa"
+        },
+        {
+          "id": "w2",
+          "text": "till"
+        },
+        {
+          "id": "w3",
+          "text": "e-post"
+        },
+        {
+          "id": "w4",
+          "text": "teater"
+        },
+        {
+          "id": "w5",
+          "text": "brukar"
+        },
+        {
+          "id": "w6",
+          "text": "och"
+        },
+        {
+          "id": "w7",
+          "text": "skriva"
+        },
+        {
+          "id": "w8",
+          "text": "mina"
+        },
+        {
+          "id": "w9",
+          "text": "Men"
+        },
+        {
+          "id": "w10",
+          "text": "tidningen"
+        },
+        {
+          "id": "w11",
+          "text": "kompisar"
+        },
+        {
+          "id": "w12",
+          "text": "jag"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1",
+          "instruction": "Соберите предложение",
+          "correctAnswers": [
+            [
+              "w9",
+              "w12",
+              "w5",
+              "w1",
+              "w10",
+              "w6",
+              "w7",
+              "w3",
+              "w2",
+              "w8",
+              "w11"
+            ]
+          ]
+        }
+      ],
+      "explanation": "Объяснение ещё не написано: нужна проверка.",
+      "review_status": "draft: translation and explanation need review",
+      "status": "draft"
+    }
+  ]
+}
