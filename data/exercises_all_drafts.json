@@ -5,7 +5,7 @@
     "source_license": "CC BY 4.0",
     "attribution": "COCTAILL corpus; Språkbanken Text, University of Gothenburg.",
     "notes": "Все упражнения в статусе draft. Переводы и объяснения требуют проверки перед публикацией. B2 — 48, C1 — 49 упражнений (остальные кандидаты отсеяны по качеству).",
-    "count": 557
+    "count": 539
   },
   "exercises": [
     {
@@ -237,89 +237,6 @@
         }
       ],
       "explanation": "Два предложения, связанные «och»; «Klockan är två» — время.",
-      "review_status": "draft: translation and explanation need review",
-      "status": "draft"
-    },
-    {
-      "id": "A1-005",
-      "source_id": "SV-A1-005",
-      "level": "A1",
-      "topic": "Ordföljd",
-      "sentence_sv": "Han har skrivit en lång lista på ska ha i ryggsäcken.",
-      "punctuation": ".",
-      "translation": "Он написал длинный список вещей, которые нужны в рюкзаке.",
-      "tiles": [
-        {
-          "id": "w1",
-          "text": "Han"
-        },
-        {
-          "id": "w2",
-          "text": "i"
-        },
-        {
-          "id": "w3",
-          "text": "lång"
-        },
-        {
-          "id": "w4",
-          "text": "på"
-        },
-        {
-          "id": "w5",
-          "text": "lista"
-        },
-        {
-          "id": "w6",
-          "text": "ha"
-        },
-        {
-          "id": "w7",
-          "text": "en"
-        },
-        {
-          "id": "w8",
-          "text": "skrivit"
-        },
-        {
-          "id": "w9",
-          "text": "ryggsäcken"
-        },
-        {
-          "id": "w10",
-          "text": "har"
-        },
-        {
-          "id": "w11",
-          "text": "skriver"
-        },
-        {
-          "id": "w12",
-          "text": "ska"
-        }
-      ],
-      "variants": [
-        {
-          "id": "v1",
-          "instruction": "Соберите предложение",
-          "correctAnswers": [
-            [
-              "w1",
-              "w10",
-              "w8",
-              "w7",
-              "w3",
-              "w5",
-              "w4",
-              "w12",
-              "w6",
-              "w2",
-              "w9"
-            ]
-          ]
-        }
-      ],
-      "explanation": "«Ska ha» + инфинитив — «нужно иметь», «нужно взять».",
       "review_status": "draft: translation and explanation need review",
       "status": "draft"
     },
@@ -698,74 +615,6 @@
         }
       ],
       "explanation": "«Ska vi» — предложение «давай»; «när» вводит придаточное: когда.",
-      "review_status": "draft: translation and explanation need review",
-      "status": "draft"
-    },
-    {
-      "id": "A1-013",
-      "source_id": "SV-A1-013",
-      "level": "A1",
-      "topic": "Ordföljd",
-      "sentence_sv": "Hon börjar med ett grupparbete där klockan två.",
-      "punctuation": ".",
-      "translation": "Она начинает групповую работу в два часа.",
-      "tiles": [
-        {
-          "id": "w1",
-          "text": "grupparbete"
-        },
-        {
-          "id": "w2",
-          "text": "ett"
-        },
-        {
-          "id": "w3",
-          "text": "börjar"
-        },
-        {
-          "id": "w4",
-          "text": "hund"
-        },
-        {
-          "id": "w5",
-          "text": "med"
-        },
-        {
-          "id": "w6",
-          "text": "två"
-        },
-        {
-          "id": "w7",
-          "text": "Hon"
-        },
-        {
-          "id": "w8",
-          "text": "där"
-        },
-        {
-          "id": "w9",
-          "text": "klockan"
-        }
-      ],
-      "variants": [
-        {
-          "id": "v1",
-          "instruction": "Соберите предложение",
-          "correctAnswers": [
-            [
-              "w7",
-              "w3",
-              "w5",
-              "w2",
-              "w1",
-              "w8",
-              "w9",
-              "w6"
-            ]
-          ]
-        }
-      ],
-      "explanation": "Придаточное «där» (где), время «klockan två» стоит в конце.",
       "review_status": "draft: translation and explanation need review",
       "status": "draft"
     },
@@ -1175,59 +1024,6 @@
         }
       ],
       "explanation": "«Nej, men» — отрицание с уточнением; «en flickvän» — общий род, «en».",
-      "review_status": "draft: translation and explanation need review",
-      "status": "draft"
-    },
-    {
-      "id": "A1-022",
-      "source_id": "SV-A1-022",
-      "level": "A1",
-      "topic": "Ordföljd",
-      "sentence_sv": "Klockan är ett på dagen.",
-      "punctuation": ".",
-      "translation": "Сейчас час дня.",
-      "tiles": [
-        {
-          "id": "w1",
-          "text": "Klockan"
-        },
-        {
-          "id": "w2",
-          "text": "dagen"
-        },
-        {
-          "id": "w3",
-          "text": "på"
-        },
-        {
-          "id": "w4",
-          "text": "ett"
-        },
-        {
-          "id": "w5",
-          "text": "är"
-        },
-        {
-          "id": "w6",
-          "text": "Stockholm"
-        }
-      ],
-      "variants": [
-        {
-          "id": "v1",
-          "instruction": "Соберите предложение",
-          "correctAnswers": [
-            [
-              "w1",
-              "w5",
-              "w4",
-              "w3",
-              "w2"
-            ]
-          ]
-        }
-      ],
-      "explanation": "«Klockan är ett» — «ett» (час) стоит без рода; «på dagen» — днём.",
       "review_status": "draft: translation and explanation need review",
       "status": "draft"
     },
@@ -2771,49 +2567,6 @@
       "status": "draft"
     },
     {
-      "id": "A1-058",
-      "source_id": "SV-A1-058",
-      "level": "A1",
-      "topic": "Ordföljd",
-      "sentence_sv": "Det heter Familjen.",
-      "punctuation": ".",
-      "translation": "Это называется «Семья».",
-      "tiles": [
-        {
-          "id": "w1",
-          "text": "heter"
-        },
-        {
-          "id": "w2",
-          "text": "Spelar"
-        },
-        {
-          "id": "w3",
-          "text": "Det"
-        },
-        {
-          "id": "w4",
-          "text": "Familjen"
-        }
-      ],
-      "variants": [
-        {
-          "id": "v1",
-          "instruction": "Соберите предложение",
-          "correctAnswers": [
-            [
-              "w3",
-              "w1",
-              "w4"
-            ]
-          ]
-        }
-      ],
-      "explanation": "«Det heter» — так называется; имя без артикля.",
-      "review_status": "draft: translation and explanation need review",
-      "status": "draft"
-    },
-    {
       "id": "A1-059",
       "source_id": "SV-A1-059",
       "level": "A1",
@@ -3773,59 +3526,6 @@
         }
       ],
       "explanation": "«På restaurang» — в ресторане, без артикля.",
-      "review_status": "draft: translation and explanation need review",
-      "status": "draft"
-    },
-    {
-      "id": "A1-078",
-      "source_id": "SV-A1-078",
-      "level": "A1",
-      "topic": "Ordföljd",
-      "sentence_sv": "Torsdag sitter jag i tankar.",
-      "punctuation": ".",
-      "translation": "В четверг я сижу и думаю.",
-      "tiles": [
-        {
-          "id": "w1",
-          "text": "Torsdag"
-        },
-        {
-          "id": "w2",
-          "text": "i"
-        },
-        {
-          "id": "w3",
-          "text": "jag"
-        },
-        {
-          "id": "w4",
-          "text": "sitter"
-        },
-        {
-          "id": "w5",
-          "text": "något"
-        },
-        {
-          "id": "w6",
-          "text": "tankar"
-        }
-      ],
-      "variants": [
-        {
-          "id": "v1",
-          "instruction": "Соберите предложение",
-          "correctAnswers": [
-            [
-              "w1",
-              "w4",
-              "w3",
-              "w2",
-              "w6"
-            ]
-          ]
-        }
-      ],
-      "explanation": "Инверсия после «torsdag»: глагол «sitter» на втором месте.",
       "review_status": "draft: translation and explanation need review",
       "status": "draft"
     },
@@ -4859,84 +4559,6 @@
         }
       ],
       "explanation": "«Är svensk» — прилагательное «svensk» для общего рода.",
-      "review_status": "draft: translation and explanation need review",
-      "status": "draft"
-    },
-    {
-      "id": "A1-106",
-      "source_id": "SV-A1-106",
-      "level": "A1",
-      "topic": "Ordföljd",
-      "sentence_sv": "Bosse kommer hem från arbetet kvart över sex på morgonen.",
-      "punctuation": ".",
-      "translation": "Bosse приходит с работы в шесть пятнадцать утра.",
-      "tiles": [
-        {
-          "id": "w1",
-          "text": "från"
-        },
-        {
-          "id": "w2",
-          "text": "arbetet"
-        },
-        {
-          "id": "w3",
-          "text": "på"
-        },
-        {
-          "id": "w4",
-          "text": "morgonen"
-        },
-        {
-          "id": "w5",
-          "text": "hem"
-        },
-        {
-          "id": "w6",
-          "text": "Bosse"
-        },
-        {
-          "id": "w7",
-          "text": "sex"
-        },
-        {
-          "id": "w8",
-          "text": "kommer"
-        },
-        {
-          "id": "w9",
-          "text": "kvart"
-        },
-        {
-          "id": "w10",
-          "text": "över"
-        },
-        {
-          "id": "w11",
-          "text": "gott"
-        }
-      ],
-      "variants": [
-        {
-          "id": "v1",
-          "instruction": "Соберите предложение",
-          "correctAnswers": [
-            [
-              "w6",
-              "w8",
-              "w5",
-              "w1",
-              "w2",
-              "w9",
-              "w10",
-              "w7",
-              "w3",
-              "w4"
-            ]
-          ]
-        }
-      ],
-      "explanation": "Инверсия после подлежащего «Bosse» — глагол «kommer» на втором месте.",
       "review_status": "draft: translation and explanation need review",
       "status": "draft"
     },
@@ -6513,64 +6135,6 @@
       "status": "draft"
     },
     {
-      "id": "A1-144",
-      "source_id": "SV-A1-144",
-      "level": "A1",
-      "topic": "Ordföljd",
-      "sentence_sv": "Ja, hon är kvart i sju.",
-      "punctuation": ".",
-      "translation": "Да, сейчас без четверти семь.",
-      "tiles": [
-        {
-          "id": "w1",
-          "text": "är"
-        },
-        {
-          "id": "w2",
-          "text": "imorgon"
-        },
-        {
-          "id": "w3",
-          "text": "kvart"
-        },
-        {
-          "id": "w4",
-          "text": "Ja"
-        },
-        {
-          "id": "w5",
-          "text": "sju"
-        },
-        {
-          "id": "w6",
-          "text": "i"
-        },
-        {
-          "id": "w7",
-          "text": "hon"
-        }
-      ],
-      "variants": [
-        {
-          "id": "v1",
-          "instruction": "Соберите предложение",
-          "correctAnswers": [
-            [
-              "w4",
-              "w7",
-              "w1",
-              "w3",
-              "w6",
-              "w5"
-            ]
-          ]
-        }
-      ],
-      "explanation": "«Kvart i sju» — без четверти семь, разговорная форма времени.",
-      "review_status": "draft: translation and explanation need review",
-      "status": "draft"
-    },
-    {
       "id": "A1-145",
       "source_id": "SV-A1-145",
       "level": "A1",
@@ -7165,49 +6729,6 @@
         }
       ],
       "explanation": "Вопрос «Vad studerar du?» — инверсия.",
-      "review_status": "draft: translation and explanation need review",
-      "status": "draft"
-    },
-    {
-      "id": "A1-158",
-      "source_id": "SV-A1-158",
-      "level": "A1",
-      "topic": "Ordföljd",
-      "sentence_sv": "Den är tolv.",
-      "punctuation": ".",
-      "translation": "Сейчас двенадцать.",
-      "tiles": [
-        {
-          "id": "w1",
-          "text": "är"
-        },
-        {
-          "id": "w2",
-          "text": "Den"
-        },
-        {
-          "id": "w3",
-          "text": "tolv"
-        },
-        {
-          "id": "w4",
-          "text": "efterrätt"
-        }
-      ],
-      "variants": [
-        {
-          "id": "v1",
-          "instruction": "Соберите предложение",
-          "correctAnswers": [
-            [
-              "w2",
-              "w1",
-              "w3"
-            ]
-          ]
-        }
-      ],
-      "explanation": "«Den är tolv» — «den» указывает на время.",
       "review_status": "draft: translation and explanation need review",
       "status": "draft"
     },
@@ -8700,54 +8221,6 @@
       "status": "draft"
     },
     {
-      "id": "A1-197",
-      "source_id": "SV-A1-197",
-      "level": "A1",
-      "topic": "Ordföljd",
-      "sentence_sv": "Den heter Simba Åberg.",
-      "punctuation": ".",
-      "translation": "Его зовут Симба Оберг.",
-      "tiles": [
-        {
-          "id": "w1",
-          "text": "Den"
-        },
-        {
-          "id": "w2",
-          "text": "heter"
-        },
-        {
-          "id": "w3",
-          "text": "din"
-        },
-        {
-          "id": "w4",
-          "text": "Simba"
-        },
-        {
-          "id": "w5",
-          "text": "Åberg"
-        }
-      ],
-      "variants": [
-        {
-          "id": "v1",
-          "instruction": "Соберите предложение",
-          "correctAnswers": [
-            [
-              "w1",
-              "w2",
-              "w4",
-              "w5"
-            ]
-          ]
-        }
-      ],
-      "explanation": "«Den heter» — «den» для неодушевлённого или животного.",
-      "review_status": "draft: translation and explanation need review",
-      "status": "draft"
-    },
-    {
       "id": "A1-198",
       "source_id": "SV-A1-198",
       "level": "A1",
@@ -9102,49 +8575,6 @@
         }
       ],
       "explanation": "После «Efter lunchen» (вводное слово) подлежащее «du» стоит после модального «kan» — инверсия.",
-      "review_status": "draft: translation and explanation need review",
-      "status": "draft"
-    },
-    {
-      "id": "A2-011",
-      "source_id": "SV-A2-011",
-      "level": "A2",
-      "topic": "Ordföljd",
-      "sentence_sv": "Den var god!",
-      "punctuation": "!",
-      "translation": "Было вкусно!",
-      "tiles": [
-        {
-          "id": "w1",
-          "text": "god"
-        },
-        {
-          "id": "w2",
-          "text": "Den"
-        },
-        {
-          "id": "w3",
-          "text": "var"
-        },
-        {
-          "id": "w4",
-          "text": "riktig"
-        }
-      ],
-      "variants": [
-        {
-          "id": "v1",
-          "instruction": "Соберите предложение",
-          "correctAnswers": [
-            [
-              "w2",
-              "w3",
-              "w1"
-            ]
-          ]
-        }
-      ],
-      "explanation": "«Den var god!» — было вкусно; «var» — прошедшее от «är», «god» — вкусный.",
       "review_status": "draft: translation and explanation need review",
       "status": "draft"
     },
@@ -10319,64 +9749,6 @@
       "status": "draft"
     },
     {
-      "id": "A2-051",
-      "source_id": "SV-A2-051",
-      "level": "A2",
-      "topic": "Ordföljd",
-      "sentence_sv": "Det är en världsdel långt borta.",
-      "punctuation": ".",
-      "translation": "Это часть света, очень далеко.",
-      "tiles": [
-        {
-          "id": "w1",
-          "text": "Det"
-        },
-        {
-          "id": "w2",
-          "text": "borta"
-        },
-        {
-          "id": "w3",
-          "text": "är"
-        },
-        {
-          "id": "w4",
-          "text": "världsdel"
-        },
-        {
-          "id": "w5",
-          "text": "kaffe"
-        },
-        {
-          "id": "w6",
-          "text": "långt"
-        },
-        {
-          "id": "w7",
-          "text": "en"
-        }
-      ],
-      "variants": [
-        {
-          "id": "v1",
-          "instruction": "Соберите предложение",
-          "correctAnswers": [
-            [
-              "w1",
-              "w3",
-              "w7",
-              "w4",
-              "w6",
-              "w2"
-            ]
-          ]
-        }
-      ],
-      "explanation": "Простое предложение; «långt borta» — далеко.",
-      "review_status": "draft: translation and explanation need review",
-      "status": "draft"
-    },
-    {
       "id": "A2-052",
       "source_id": "SV-A2-052",
       "level": "A2",
@@ -10585,64 +9957,6 @@
         }
       ],
       "explanation": "Определённая форма существительного «Jämställdhetsfrågorna».",
-      "review_status": "draft: translation and explanation need review",
-      "status": "draft"
-    },
-    {
-      "id": "A2-057",
-      "source_id": "SV-A2-057",
-      "level": "A2",
-      "topic": "Ordföljd",
-      "sentence_sv": "Den kan göra riktig kaffe latte.",
-      "punctuation": ".",
-      "translation": "Она умеет делать настоящий кофе латте.",
-      "tiles": [
-        {
-          "id": "w1",
-          "text": "riktig"
-        },
-        {
-          "id": "w2",
-          "text": "latte"
-        },
-        {
-          "id": "w3",
-          "text": "häller"
-        },
-        {
-          "id": "w4",
-          "text": "göra"
-        },
-        {
-          "id": "w5",
-          "text": "kan"
-        },
-        {
-          "id": "w6",
-          "text": "Den"
-        },
-        {
-          "id": "w7",
-          "text": "kaffe"
-        }
-      ],
-      "variants": [
-        {
-          "id": "v1",
-          "instruction": "Соберите предложение",
-          "correctAnswers": [
-            [
-              "w6",
-              "w5",
-              "w4",
-              "w1",
-              "w7",
-              "w2"
-            ]
-          ]
-        }
-      ],
-      "explanation": "«Kan göra» — умеет делать; «riktig» — настоящий.",
       "review_status": "draft: translation and explanation need review",
       "status": "draft"
     },
@@ -11638,69 +10952,6 @@
         }
       ],
       "explanation": "Обобщённое «man»: «man tänder» — зажигают.",
-      "review_status": "draft: translation and explanation need review",
-      "status": "draft"
-    },
-    {
-      "id": "A2-046",
-      "source_id": "SV-A2-046",
-      "level": "A2",
-      "topic": "Ordföljd",
-      "sentence_sv": "Växeln: Hon är upptagen med en kund.",
-      "punctuation": ".",
-      "translation": "Телефонистка: Она занята с клиентом.",
-      "tiles": [
-        {
-          "id": "w1",
-          "text": "en"
-        },
-        {
-          "id": "w2",
-          "text": "är"
-        },
-        {
-          "id": "w3",
-          "text": "upptagen"
-        },
-        {
-          "id": "w4",
-          "text": "kund"
-        },
-        {
-          "id": "w5",
-          "text": "Man"
-        },
-        {
-          "id": "w6",
-          "text": "Hon"
-        },
-        {
-          "id": "w7",
-          "text": "med"
-        },
-        {
-          "id": "w8",
-          "text": "Växeln"
-        }
-      ],
-      "variants": [
-        {
-          "id": "v1",
-          "instruction": "Соберите предложение",
-          "correctAnswers": [
-            [
-              "w8",
-              "w6",
-              "w2",
-              "w3",
-              "w7",
-              "w1",
-              "w4"
-            ]
-          ]
-        }
-      ],
-      "explanation": "«Hon är upptagen med en kund» — она занята с клиентом; «upptagen» — занятый.",
       "review_status": "draft: translation and explanation need review",
       "status": "draft"
     },
@@ -12795,74 +12046,6 @@
       "status": "draft"
     },
     {
-      "id": "B1-026",
-      "source_id": "SV-B1-026",
-      "level": "B1",
-      "topic": "Ordföljd",
-      "sentence_sv": "Den ödelade stora delar av bebyggelsen vid kusten.",
-      "punctuation": ".",
-      "translation": "Он разрушил большую часть построек на побережье.",
-      "tiles": [
-        {
-          "id": "w1",
-          "text": "Han"
-        },
-        {
-          "id": "w2",
-          "text": "vid"
-        },
-        {
-          "id": "w3",
-          "text": "kusten"
-        },
-        {
-          "id": "w4",
-          "text": "Den"
-        },
-        {
-          "id": "w5",
-          "text": "bebyggelsen"
-        },
-        {
-          "id": "w6",
-          "text": "delar"
-        },
-        {
-          "id": "w7",
-          "text": "av"
-        },
-        {
-          "id": "w8",
-          "text": "ödelade"
-        },
-        {
-          "id": "w9",
-          "text": "stora"
-        }
-      ],
-      "variants": [
-        {
-          "id": "v1",
-          "instruction": "Соберите предложение",
-          "correctAnswers": [
-            [
-              "w4",
-              "w8",
-              "w9",
-              "w6",
-              "w7",
-              "w5",
-              "w2",
-              "w3"
-            ]
-          ]
-        }
-      ],
-      "explanation": "Прошедшее «ödelade» (разрушил); «delar av» — часть чего-то.",
-      "review_status": "draft: translation and explanation need review",
-      "status": "draft"
-    },
-    {
       "id": "B1-028",
       "source_id": "SV-B1-028",
       "level": "B1",
@@ -13722,74 +12905,6 @@
       "status": "draft"
     },
     {
-      "id": "B1-053",
-      "source_id": "SV-B1-053",
-      "level": "B1",
-      "topic": "Ordföljd",
-      "sentence_sv": "Sedan böljar alla prata i munnen på varandra.",
-      "punctuation": ".",
-      "translation": "Потом все начинают говорить одновременно.",
-      "tiles": [
-        {
-          "id": "w1",
-          "text": "på"
-        },
-        {
-          "id": "w2",
-          "text": "prata"
-        },
-        {
-          "id": "w3",
-          "text": "Sedan"
-        },
-        {
-          "id": "w4",
-          "text": "varandra"
-        },
-        {
-          "id": "w5",
-          "text": "böljar"
-        },
-        {
-          "id": "w6",
-          "text": "i"
-        },
-        {
-          "id": "w7",
-          "text": "munnen"
-        },
-        {
-          "id": "w8",
-          "text": "alla"
-        },
-        {
-          "id": "w9",
-          "text": "fredags"
-        }
-      ],
-      "variants": [
-        {
-          "id": "v1",
-          "instruction": "Соберите предложение",
-          "correctAnswers": [
-            [
-              "w3",
-              "w5",
-              "w8",
-              "w2",
-              "w6",
-              "w7",
-              "w1",
-              "w4"
-            ]
-          ]
-        }
-      ],
-      "explanation": "«Böljar» — разговорное «начинают»; «i munnen på varandra» — перебивая друг друга.",
-      "review_status": "draft: translation and explanation need review",
-      "status": "draft"
-    },
-    {
       "id": "B1-054",
       "source_id": "SV-B1-054",
       "level": "B1",
@@ -14018,59 +13133,6 @@
         }
       ],
       "explanation": "Страдательный залог «påverkas» (меняются); перечисление через запятую.",
-      "review_status": "draft: translation and explanation need review",
-      "status": "draft"
-    },
-    {
-      "id": "B1-060",
-      "source_id": "SV-B1-060",
-      "level": "B1",
-      "topic": "Ordföljd",
-      "sentence_sv": "På yoghurten: Förpackningen kan återvinnas.",
-      "punctuation": ".",
-      "translation": "На йогурте: упаковку можно переработать.",
-      "tiles": [
-        {
-          "id": "w1",
-          "text": "kan"
-        },
-        {
-          "id": "w2",
-          "text": "yoghurten"
-        },
-        {
-          "id": "w3",
-          "text": "På"
-        },
-        {
-          "id": "w4",
-          "text": "återvinnas"
-        },
-        {
-          "id": "w5",
-          "text": "Förpackningen"
-        },
-        {
-          "id": "w6",
-          "text": "odlade"
-        }
-      ],
-      "variants": [
-        {
-          "id": "v1",
-          "instruction": "Соберите предложение",
-          "correctAnswers": [
-            [
-              "w3",
-              "w2",
-              "w5",
-              "w1",
-              "w4"
-            ]
-          ]
-        }
-      ],
-      "explanation": "Страдательный залог «kan återvinnas» — можно переработать.",
       "review_status": "draft: translation and explanation need review",
       "status": "draft"
     },
@@ -14425,54 +13487,6 @@
       "status": "draft"
     },
     {
-      "id": "B1-070",
-      "source_id": "SV-B1-070",
-      "level": "B1",
-      "topic": "Ordföljd",
-      "sentence_sv": "Resten skulle jag spara.",
-      "punctuation": ".",
-      "translation": "Остальное я бы сохранил.",
-      "tiles": [
-        {
-          "id": "w1",
-          "text": "Resten"
-        },
-        {
-          "id": "w2",
-          "text": "spara"
-        },
-        {
-          "id": "w3",
-          "text": "solkrämen"
-        },
-        {
-          "id": "w4",
-          "text": "jag"
-        },
-        {
-          "id": "w5",
-          "text": "skulle"
-        }
-      ],
-      "variants": [
-        {
-          "id": "v1",
-          "instruction": "Соберите предложение",
-          "correctAnswers": [
-            [
-              "w1",
-              "w5",
-              "w4",
-              "w2"
-            ]
-          ]
-        }
-      ],
-      "explanation": "«Skulle jag spara» — оставил бы: условное значение.",
-      "review_status": "draft: translation and explanation need review",
-      "status": "draft"
-    },
-    {
       "id": "B1-072",
       "source_id": "SV-B1-072",
       "level": "B1",
@@ -14635,64 +13649,6 @@
         }
       ],
       "explanation": "«Varje gång» — каждый раз; «börjar» — начинается.",
-      "review_status": "draft: translation and explanation need review",
-      "status": "draft"
-    },
-    {
-      "id": "B1-074",
-      "source_id": "SV-B1-074",
-      "level": "B1",
-      "topic": "Ordföljd",
-      "sentence_sv": "Det är så man kan spy!",
-      "punctuation": "!",
-      "translation": "Вот от этого и тошнит!",
-      "tiles": [
-        {
-          "id": "w1",
-          "text": "Det"
-        },
-        {
-          "id": "w2",
-          "text": "spy"
-        },
-        {
-          "id": "w3",
-          "text": "så"
-        },
-        {
-          "id": "w4",
-          "text": "sker"
-        },
-        {
-          "id": "w5",
-          "text": "kan"
-        },
-        {
-          "id": "w6",
-          "text": "man"
-        },
-        {
-          "id": "w7",
-          "text": "är"
-        }
-      ],
-      "variants": [
-        {
-          "id": "v1",
-          "instruction": "Соберите предложение",
-          "correctAnswers": [
-            [
-              "w1",
-              "w7",
-              "w3",
-              "w6",
-              "w5",
-              "w2"
-            ]
-          ]
-        }
-      ],
-      "explanation": "«Man kan spy» — обобщённое «man»; восклицание.",
       "review_status": "draft: translation and explanation need review",
       "status": "draft"
     },
@@ -15566,84 +14522,6 @@
       "status": "draft"
     },
     {
-      "id": "B2-005",
-      "source_id": "SV-B2-005",
-      "level": "B2",
-      "topic": "Ordföljd",
-      "sentence_sv": "Men spelar det egentligen någon roll vad lilla jag väljer?",
-      "punctuation": "?",
-      "translation": "Но имеет ли вообще значение, что выберет маленький я?",
-      "tiles": [
-        {
-          "id": "w1",
-          "text": "spelar"
-        },
-        {
-          "id": "w2",
-          "text": "roll"
-        },
-        {
-          "id": "w3",
-          "text": "Men"
-        },
-        {
-          "id": "w4",
-          "text": "väljer"
-        },
-        {
-          "id": "w5",
-          "text": "någon"
-        },
-        {
-          "id": "w6",
-          "text": "lilla"
-        },
-        {
-          "id": "w7",
-          "text": "jag"
-        },
-        {
-          "id": "w8",
-          "text": "egentligen"
-        },
-        {
-          "id": "w9",
-          "text": "vad"
-        },
-        {
-          "id": "w10",
-          "text": "det"
-        },
-        {
-          "id": "w11",
-          "text": "offside"
-        }
-      ],
-      "variants": [
-        {
-          "id": "v1",
-          "instruction": "Соберите предложение",
-          "correctAnswers": [
-            [
-              "w3",
-              "w1",
-              "w10",
-              "w8",
-              "w5",
-              "w2",
-              "w9",
-              "w6",
-              "w7",
-              "w4"
-            ]
-          ]
-        }
-      ],
-      "explanation": "«Vad lilla jag väljer» — придаточное с «vad»; «någon roll» — значение.",
-      "review_status": "draft: translation and explanation need review",
-      "status": "draft"
-    },
-    {
       "id": "B2-006",
       "source_id": "SV-B2-006",
       "level": "B2",
@@ -16095,54 +14973,6 @@
       "status": "draft"
     },
     {
-      "id": "B2-015",
-      "source_id": "SV-B2-015",
-      "level": "B2",
-      "topic": "Ordföljd",
-      "sentence_sv": "Han stirrar på tiden.",
-      "punctuation": ".",
-      "translation": "Он смотрит на время.",
-      "tiles": [
-        {
-          "id": "w1",
-          "text": "på"
-        },
-        {
-          "id": "w2",
-          "text": "Han"
-        },
-        {
-          "id": "w3",
-          "text": "stirrar"
-        },
-        {
-          "id": "w4",
-          "text": "helt"
-        },
-        {
-          "id": "w5",
-          "text": "tiden"
-        }
-      ],
-      "variants": [
-        {
-          "id": "v1",
-          "instruction": "Соберите предложение",
-          "correctAnswers": [
-            [
-              "w2",
-              "w3",
-              "w1",
-              "w5"
-            ]
-          ]
-        }
-      ],
-      "explanation": "«Stirrar på» — пристально смотрит на.",
-      "review_status": "draft: translation and explanation need review",
-      "status": "draft"
-    },
-    {
       "id": "B2-016",
       "source_id": "SV-B2-016",
       "level": "B2",
@@ -16207,59 +15037,6 @@
         }
       ],
       "explanation": "Инверсия после «Utmed»: глагол «ligger» на втором месте.",
-      "review_status": "draft: translation and explanation need review",
-      "status": "draft"
-    },
-    {
-      "id": "B2-017",
-      "source_id": "SV-B2-017",
-      "level": "B2",
-      "topic": "Ordföljd",
-      "sentence_sv": "Månen lyser randig på köksskåpen.",
-      "punctuation": ".",
-      "translation": "Луна полосами освещает кухонные шкафы.",
-      "tiles": [
-        {
-          "id": "w1",
-          "text": "på"
-        },
-        {
-          "id": "w2",
-          "text": "Månen"
-        },
-        {
-          "id": "w3",
-          "text": "köksskåpen"
-        },
-        {
-          "id": "w4",
-          "text": "Dom"
-        },
-        {
-          "id": "w5",
-          "text": "lyser"
-        },
-        {
-          "id": "w6",
-          "text": "randig"
-        }
-      ],
-      "variants": [
-        {
-          "id": "v1",
-          "instruction": "Соберите предложение",
-          "correctAnswers": [
-            [
-              "w2",
-              "w5",
-              "w6",
-              "w1",
-              "w3"
-            ]
-          ]
-        }
-      ],
-      "explanation": "«Lyser randig» — светит полосами; прилагательное без изменений.",
       "review_status": "draft: translation and explanation need review",
       "status": "draft"
     },
@@ -18805,59 +17582,6 @@
       "status": "draft"
     },
     {
-      "id": "C1-008",
-      "source_id": "SV-C1-008",
-      "level": "C1",
-      "topic": "Ordföljd",
-      "sentence_sv": "Inte heller det känns obekvämt.",
-      "punctuation": ".",
-      "translation": "Это тоже не кажется неудобным.",
-      "tiles": [
-        {
-          "id": "w1",
-          "text": "Inte"
-        },
-        {
-          "id": "w2",
-          "text": "vit"
-        },
-        {
-          "id": "w3",
-          "text": "obekvämt"
-        },
-        {
-          "id": "w4",
-          "text": "känns"
-        },
-        {
-          "id": "w5",
-          "text": "heller"
-        },
-        {
-          "id": "w6",
-          "text": "det"
-        }
-      ],
-      "variants": [
-        {
-          "id": "v1",
-          "instruction": "Соберите предложение",
-          "correctAnswers": [
-            [
-              "w1",
-              "w5",
-              "w6",
-              "w4",
-              "w3"
-            ]
-          ]
-        }
-      ],
-      "explanation": "«Inte heller» — тоже не; «känns obekvämt» — кажется неудобным.",
-      "review_status": "draft: translation and explanation need review",
-      "status": "draft"
-    },
-    {
       "id": "C1-009",
       "source_id": "SV-C1-009",
       "level": "C1",
@@ -19005,69 +17729,6 @@
         }
       ],
       "explanation": "«En rik flora av» — богатый набор чего-то; «av» после существительного.",
-      "review_status": "draft: translation and explanation need review",
-      "status": "draft"
-    },
-    {
-      "id": "C1-012",
-      "source_id": "SV-C1-012",
-      "level": "C1",
-      "topic": "Ordföljd",
-      "sentence_sv": "Hur har du det i din tvättstuga?",
-      "punctuation": "?",
-      "translation": "Как у тебя устроена прачечная?",
-      "tiles": [
-        {
-          "id": "w1",
-          "text": "i"
-        },
-        {
-          "id": "w2",
-          "text": "då"
-        },
-        {
-          "id": "w3",
-          "text": "Hur"
-        },
-        {
-          "id": "w4",
-          "text": "har"
-        },
-        {
-          "id": "w5",
-          "text": "det"
-        },
-        {
-          "id": "w6",
-          "text": "din"
-        },
-        {
-          "id": "w7",
-          "text": "du"
-        },
-        {
-          "id": "w8",
-          "text": "tvättstuga"
-        }
-      ],
-      "variants": [
-        {
-          "id": "v1",
-          "instruction": "Соберите предложение",
-          "correctAnswers": [
-            [
-              "w3",
-              "w4",
-              "w7",
-              "w5",
-              "w1",
-              "w6",
-              "w8"
-            ]
-          ]
-        }
-      ],
-      "explanation": "«Hur har du det» — как у тебя устроено.",
       "review_status": "draft: translation and explanation need review",
       "status": "draft"
     },
@@ -19738,74 +18399,6 @@
         }
       ],
       "explanation": "«Båda två» — оба.",
-      "review_status": "draft: translation and explanation need review",
-      "status": "draft"
-    },
-    {
-      "id": "C1-033",
-      "source_id": "SV-C1-033",
-      "level": "C1",
-      "topic": "Ordföljd",
-      "sentence_sv": "Så önska dig att lång blir denna resa.",
-      "punctuation": ".",
-      "translation": "Так пожелаем тебе, чтобы эта поездка была долгой.",
-      "tiles": [
-        {
-          "id": "w1",
-          "text": "Så"
-        },
-        {
-          "id": "w2",
-          "text": "önska"
-        },
-        {
-          "id": "w3",
-          "text": "denna"
-        },
-        {
-          "id": "w4",
-          "text": "dig"
-        },
-        {
-          "id": "w5",
-          "text": "att"
-        },
-        {
-          "id": "w6",
-          "text": "resa"
-        },
-        {
-          "id": "w7",
-          "text": "blir"
-        },
-        {
-          "id": "w8",
-          "text": "bedömas"
-        },
-        {
-          "id": "w9",
-          "text": "lång"
-        }
-      ],
-      "variants": [
-        {
-          "id": "v1",
-          "instruction": "Соберите предложение",
-          "correctAnswers": [
-            [
-              "w1",
-              "w2",
-              "w4",
-              "w5",
-              "w9",
-              "w7",
-              "w3",
-              "w6"
-            ]
-          ]
-        }
-      ],
-      "explanation": "«Så önska dig att» — так пожелаем, чтобы; «blir» — будет.",
       "review_status": "draft: translation and explanation need review",
       "status": "draft"
     },
@@ -21142,59 +19735,6 @@
       "status": "draft"
     },
     {
-      "id": "C1-068",
-      "source_id": "SV-C1-068",
-      "level": "C1",
-      "topic": "Ordföljd",
-      "sentence_sv": "Men vad intresserar det Roeder?",
-      "punctuation": "?",
-      "translation": "Но какое дело до этого Ройдеру?",
-      "tiles": [
-        {
-          "id": "w1",
-          "text": "intresserar"
-        },
-        {
-          "id": "w2",
-          "text": "vad"
-        },
-        {
-          "id": "w3",
-          "text": "säkerheten"
-        },
-        {
-          "id": "w4",
-          "text": "Roeder"
-        },
-        {
-          "id": "w5",
-          "text": "Men"
-        },
-        {
-          "id": "w6",
-          "text": "det"
-        }
-      ],
-      "variants": [
-        {
-          "id": "v1",
-          "instruction": "Соберите предложение",
-          "correctAnswers": [
-            [
-              "w5",
-              "w2",
-              "w1",
-              "w6",
-              "w4"
-            ]
-          ]
-        }
-      ],
-      "explanation": "«Vad intresserar det» — какое дело до этого.",
-      "review_status": "draft: translation and explanation need review",
-      "status": "draft"
-    },
-    {
       "id": "C1-069",
       "source_id": "SV-C1-069",
       "level": "C1",
@@ -21458,49 +19998,6 @@
         }
       ],
       "explanation": "«Det var då hon blev» — тогда она и стала.",
-      "review_status": "draft: translation and explanation need review",
-      "status": "draft"
-    },
-    {
-      "id": "C1-076",
-      "source_id": "SV-C1-076",
-      "level": "C1",
-      "topic": "Ordföljd",
-      "sentence_sv": "Den dyrkade prinsessan.",
-      "punctuation": ".",
-      "translation": "Обожаемая принцесса.",
-      "tiles": [
-        {
-          "id": "w1",
-          "text": "prinsessan"
-        },
-        {
-          "id": "w2",
-          "text": "dyrkade"
-        },
-        {
-          "id": "w3",
-          "text": "Den"
-        },
-        {
-          "id": "w4",
-          "text": "lärde"
-        }
-      ],
-      "variants": [
-        {
-          "id": "v1",
-          "instruction": "Соберите предложение",
-          "correctAnswers": [
-            [
-              "w3",
-              "w2",
-              "w1"
-            ]
-          ]
-        }
-      ],
-      "explanation": "Причастие «dyrkade» — обожаемая: как прилагательное.",
       "review_status": "draft: translation and explanation need review",
       "status": "draft"
     },
