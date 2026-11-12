@@ -1,0 +1,2421 @@
+{
+ "title": "SFI C — 400 meningar",
+ "language": {
+  "sv": "Swedish",
+  "ru": "Russian"
+ },
+ "levels": [
+  {
+   "code": "C1",
+   "name": "SFI C, предложения 1–200",
+   "sentences": [
+    {
+     "id": "SFI-C-001",
+     "topic": "Повседневная жизнь",
+     "sv": "Jag stannade hemma eftersom jag var trött.",
+     "ru": "Я остался дома, потому что устал."
+    },
+    {
+     "id": "SFI-C-002",
+     "topic": "Повседневная жизнь",
+     "sv": "Igår gick jag till affären efter jobbet.",
+     "ru": "Вчера я пошёл в магазин после работы."
+    },
+    {
+     "id": "SFI-C-003",
+     "topic": "Повседневная жизнь",
+     "sv": "När jag kommer hem brukar jag först laga middag.",
+     "ru": "Когда я прихожу домой, я обычно сначала готовлю ужин."
+    },
+    {
+     "id": "SFI-C-004",
+     "topic": "Повседневная жизнь",
+     "sv": "Innan jobbet dricker jag alltid en kopp kaffe.",
+     "ru": "Перед работой я всегда пью чашку кофе."
+    },
+    {
+     "id": "SFI-C-005",
+     "topic": "Повседневная жизнь",
+     "sv": "Jag brukar lyssna på musik medan jag lagar mat.",
+     "ru": "Я обычно слушаю музыку, пока готовлю еду."
+    },
+    {
+     "id": "SFI-C-006",
+     "topic": "Повседневная жизнь",
+     "sv": "Eftersom jag hade mycket att göra hann jag inte städa lägenheten.",
+     "ru": "Поскольку у меня было много дел, я не успел убрать квартиру."
+    },
+    {
+     "id": "SFI-C-007",
+     "topic": "Повседневная жизнь",
+     "sv": "På kvällen läser jag en bok eller tittar på film.",
+     "ru": "Вечером я читаю книгу или смотрю фильм."
+    },
+    {
+     "id": "SFI-C-008",
+     "topic": "Повседневная жизнь",
+     "sv": "Om jag vaknar tidigt hinner jag äta frukost lugnt.",
+     "ru": "Если я просыпаюсь рано, я успеваю спокойно позавтракать."
+    },
+    {
+     "id": "SFI-C-009",
+     "topic": "Повседневная жизнь",
+     "sv": "Innan jag lägger mig planerar jag morgondagen.",
+     "ru": "Перед сном я планирую завтрашний день."
+    },
+    {
+     "id": "SFI-C-010",
+     "topic": "Повседневная жизнь",
+     "sv": "Jag försöker planera min dag så att jag inte behöver stressa.",
+     "ru": "Я стараюсь планировать свой день так, чтобы мне не приходилось нервничать."
+    },
+    {
+     "id": "SFI-C-011",
+     "topic": "Учёба и шведский язык",
+     "sv": "Jag lär mig ord genom att använda dem.",
+     "ru": "Я учу слова, используя их в предложениях."
+    },
+    {
+     "id": "SFI-C-012",
+     "topic": "Учёба и шведский язык",
+     "sv": "När läraren förklarar en ny regel brukar jag skriva ner exempel.",
+     "ru": "Когда преподаватель объясняет новое правило, я обычно записываю примеры."
+    },
+    {
+     "id": "SFI-C-013",
+     "topic": "Учёба и шведский язык",
+     "sv": "Jag tycker att svenska blir lättare när jag lyssnar.",
+     "ru": "Я считаю, что шведский становится легче, когда я слушаю."
+    },
+    {
+     "id": "SFI-C-014",
+     "topic": "Учёба и шведский язык",
+     "sv": "På lektionen ställde jag en fråga eftersom jag inte förstod uppgiften.",
+     "ru": "На уроке я задал вопрос, потому что не понял задание."
+    },
+    {
+     "id": "SFI-C-015",
+     "topic": "Учёба и шведский язык",
+     "sv": "Om jag inte kan ett ord försöker jag gissa utifrån sammanhanget.",
+     "ru": "Если я не знаю слово, я пытаюсь догадаться по контексту."
+    },
+    {
+     "id": "SFI-C-016",
+     "topic": "Учёба и шведский язык",
+     "sv": "Jag har börjat läsa korta texter för att förbättra mitt ordförråd.",
+     "ru": "Я начал читать короткие тексты, чтобы улучшить свой словарный запас."
+    },
+    {
+     "id": "SFI-C-017",
+     "topic": "Учёба и шведский язык",
+     "sv": "Eftersom uttalet är viktigt försöker jag upprepa nya ord högt.",
+     "ru": "Поскольку произношение важно, я стараюсь повторять новые слова вслух."
+    },
+    {
+     "id": "SFI-C-018",
+     "topic": "Учёба и шведский язык",
+     "sv": "Efter lektionen brukar jag repetera det som vi har gått igenom.",
+     "ru": "После урока я обычно повторяю то, что мы прошли."
+    },
+    {
+     "id": "SFI-C-019",
+     "topic": "Учёба и шведский язык",
+     "sv": "När jag tränar grammatik märker jag mina vanliga misstag.",
+     "ru": "Когда я тренирую грамматику, я замечаю свои типичные ошибки."
+    },
+    {
+     "id": "SFI-C-020",
+     "topic": "Учёба и шведский язык",
+     "sv": "Jag vill prata friare, även om jag ibland letar efter orden.",
+     "ru": "Я хочу говорить свободнее, даже если иногда ищу нужные слова."
+    },
+    {
+     "id": "SFI-C-021",
+     "topic": "Работа и рабочее место",
+     "sv": "Jag kom till jobbet tidigt eftersom jag hade ett möte.",
+     "ru": "Я пришёл на работу раньше, потому что у меня была встреча."
+    },
+    {
+     "id": "SFI-C-022",
+     "topic": "Работа и рабочее место",
+     "sv": "På arbetsplatsen är det viktigt att samarbeta med sina kollegor.",
+     "ru": "На рабочем месте важно сотрудничать с коллегами."
+    },
+    {
+     "id": "SFI-C-023",
+     "topic": "Работа и рабочее место",
+     "sv": "När jag inte förstår frågar jag någon som kan hjälpa.",
+     "ru": "Когда я не понимаю задание, я спрашиваю того, кто может помочь."
+    },
+    {
+     "id": "SFI-C-024",
+     "topic": "Работа и рабочее место",
+     "sv": "Min chef berättade att vi skulle få ett nytt arbetsschema.",
+     "ru": "Мой начальник сообщил, что мы получим новое рабочее расписание."
+    },
+    {
+     "id": "SFI-C-025",
+     "topic": "Работа и рабочее место",
+     "sv": "Om jag blir sjuk måste jag säga till chefen direkt.",
+     "ru": "Если я заболею, я должен сразу сообщить начальнику."
+    },
+    {
+     "id": "SFI-C-026",
+     "topic": "Работа и рабочее место",
+     "sv": "Under rasten pratar vi ofta om jobbet och helgplanerna.",
+     "ru": "Во время перерыва мы часто говорим о работе и планах на выходные."
+    },
+    {
+     "id": "SFI-C-027",
+     "topic": "Работа и рабочее место",
+     "sv": "Eftersom leveransen var försenad kunde vi inte börja med arbetet direkt.",
+     "ru": "Поскольку поставка задержалась, мы не могли сразу приступить к работе."
+    },
+    {
+     "id": "SFI-C-028",
+     "topic": "Работа и рабочее место",
+     "sv": "Efter mötet återvände jag till min plats och fortsatte arbetet.",
+     "ru": "После встречи я вернулся на своё место и продолжил работу."
+    },
+    {
+     "id": "SFI-C-029",
+     "topic": "Работа и рабочее место",
+     "sv": "Jag är noggrann för att slippa rätta samma fel igen.",
+     "ru": "Я внимателен, чтобы не исправлять одну и ту же ошибку снова."
+    },
+    {
+     "id": "SFI-C-030",
+     "topic": "Работа и рабочее место",
+     "sv": "När arbetsdagen är slut tänker jag igenom vad jag har gjort.",
+     "ru": "Когда рабочий день заканчивается, я обдумываю, что успел сделать."
+    },
+    {
+     "id": "SFI-C-031",
+     "topic": "Жильё и финансы",
+     "sv": "Jag vill hitta en lägenhet som ligger nära kollektivtrafiken.",
+     "ru": "Я хочу найти квартиру, которая находится рядом с общественным транспортом."
+    },
+    {
+     "id": "SFI-C-032",
+     "topic": "Жильё и финансы",
+     "sv": "Jag håller ordning hemma eftersom jag trivs i ren miljö.",
+     "ru": "Я поддерживаю порядок дома, потому что мне нравится в чистой обстановке."
+    },
+    {
+     "id": "SFI-C-033",
+     "topic": "Жильё и финансы",
+     "sv": "Innan jag skriver under ett hyresavtal läser jag alltid igenom villkoren.",
+     "ru": "Перед тем как подписать договор аренды, я всегда внимательно читаю условия."
+    },
+    {
+     "id": "SFI-C-034",
+     "topic": "Жильё и финансы",
+     "sv": "Eftersom hyran är ganska hög behöver jag planera min ekonomi noggrant.",
+     "ru": "Поскольку аренда довольно дорогая, мне нужно тщательно планировать свои финансы."
+    },
+    {
+     "id": "SFI-C-035",
+     "topic": "Жильё и финансы",
+     "sv": "Förra månaden fick jag en oväntad räkning som jag behövde betala.",
+     "ru": "В прошлом месяце я получил неожиданный счёт, который мне нужно было оплатить."
+    },
+    {
+     "id": "SFI-C-036",
+     "topic": "Жильё и финансы",
+     "sv": "Om jag sparar lite varje månad klarar jag oväntade utgifter.",
+     "ru": "Если я откладываю немного каждый месяц, мне легче справиться с непредвиденными расходами."
+    },
+    {
+     "id": "SFI-C-037",
+     "topic": "Жильё и финансы",
+     "sv": "På banken fick jag hjälp med att öppna ett nytt konto.",
+     "ru": "В банке мне помогли открыть новый счёт."
+    },
+    {
+     "id": "SFI-C-038",
+     "topic": "Жильё и финансы",
+     "sv": "Jag kollar utgifterna för att veta vad jag har kvar.",
+     "ru": "Я слежу за расходами, чтобы знать, сколько у меня осталось."
+    },
+    {
+     "id": "SFI-C-039",
+     "topic": "Жильё и финансы",
+     "sv": "När jag flyttade behövde jag ordna många praktiska saker.",
+     "ru": "Когда я переехал, мне нужно было уладить много практических дел."
+    },
+    {
+     "id": "SFI-C-040",
+     "topic": "Жильё и финансы",
+     "sv": "Jag jämför erbjudanden innan jag bestämmer mig för ett dyrt köp.",
+     "ru": "Я сравниваю предложения, прежде чем решиться на дорогую покупку."
+    },
+    {
+     "id": "SFI-C-041",
+     "topic": "Здоровье и свободное время",
+     "sv": "Jag mår bättre när jag promenerar regelbundet.",
+     "ru": "Я чувствую себя лучше, когда регулярно гуляю."
+    },
+    {
+     "id": "SFI-C-042",
+     "topic": "Здоровье и свободное время",
+     "sv": "Efter träningen brukar jag dricka vatten och vila en stund.",
+     "ru": "После тренировки я обычно пью воду и немного отдыхаю."
+    },
+    {
+     "id": "SFI-C-043",
+     "topic": "Здоровье и свободное время",
+     "sv": "Om jag sover för lite koncentrerar jag mig dåligt.",
+     "ru": "Если я мало сплю, мне плохо удаётся сосредоточиться."
+    },
+    {
+     "id": "SFI-C-044",
+     "topic": "Здоровье и свободное время",
+     "sv": "Eftersom jag suttit vid datorn behöver jag röra på mig.",
+     "ru": "Поскольку я весь день сидел за компьютером, мне нужно размяться."
+    },
+    {
+     "id": "SFI-C-045",
+     "topic": "Здоровье и свободное время",
+     "sv": "På helgerna försöker jag hinna med sådant jag gillar.",
+     "ru": "По выходным я стараюсь успевать заниматься тем, что мне нравится."
+    },
+    {
+     "id": "SFI-C-046",
+     "topic": "Здоровье и свободное время",
+     "sv": "När jag är stressad går jag ut eller lyssnar på musik.",
+     "ru": "Когда я в стрессе, я выхожу прогуляться или слушаю музыку."
+    },
+    {
+     "id": "SFI-C-047",
+     "topic": "Здоровье и свободное время",
+     "sv": "Jag har börjat träna regelbundet eftersom jag vill förbättra min kondition.",
+     "ru": "Я начал регулярно тренироваться, потому что хочу улучшить свою физическую форму."
+    },
+    {
+     "id": "SFI-C-048",
+     "topic": "Здоровье и свободное время",
+     "sv": "Även om vädret är dåligt går jag ut en stund.",
+     "ru": "Даже если погода плохая, я всё равно ненадолго выхожу на улицу."
+    },
+    {
+     "id": "SFI-C-049",
+     "topic": "Здоровье и свободное время",
+     "sv": "Innan jag bokar läkartid skriver jag ner mina besvär.",
+     "ru": "Перед тем как записаться к врачу, я записываю свои жалобы."
+    },
+    {
+     "id": "SFI-C-050",
+     "topic": "Здоровье и свободное время",
+     "sv": "Det är viktigt att vila ordentligt för kroppens skull.",
+     "ru": "Важно хорошо отдыхать ради здоровья организма."
+    },
+    {
+     "id": "SFI-C-051",
+     "topic": "Поездки и транспорт",
+     "sv": "Jag åker vanligtvis med pendeltåg eftersom det går snabbare än bussen.",
+     "ru": "Я обычно езжу на электричке, потому что это быстрее, чем на автобусе."
+    },
+    {
+     "id": "SFI-C-052",
+     "topic": "Поездки и транспорт",
+     "sv": "Igår missade jag tåget eftersom jag kom till stationen för sent.",
+     "ru": "Вчера я опоздал на поезд, потому что пришёл на станцию слишком поздно."
+    },
+    {
+     "id": "SFI-C-053",
+     "topic": "Поездки и транспорт",
+     "sv": "När jag ska resa någonstans kontrollerar jag alltid avgångstiderna.",
+     "ru": "Когда я собираюсь куда-то ехать, я всегда проверяю время отправления."
+    },
+    {
+     "id": "SFI-C-054",
+     "topic": "Поездки и транспорт",
+     "sv": "På stationen väntade många människor på tåget som var försenat.",
+     "ru": "На станции многие люди ждали поезд, который задерживался."
+    },
+    {
+     "id": "SFI-C-055",
+     "topic": "Поездки и транспорт",
+     "sv": "Om tåget är försenat får jag kanske ta en annan väg.",
+     "ru": "Если поезд опаздывает, мне, возможно, придётся поехать другим путём."
+    },
+    {
+     "id": "SFI-C-056",
+     "topic": "Поездки и транспорт",
+     "sv": "Innan vi åkte hem köpte vi lite mat och vatten.",
+     "ru": "Перед тем как отправиться домой, мы купили немного еды и воды."
+    },
+    {
+     "id": "SFI-C-057",
+     "topic": "Поездки и транспорт",
+     "sv": "Eftersom det regnade kraftigt bestämde vi oss för att ta bussen.",
+     "ru": "Поскольку шёл сильный дождь, мы решили поехать на автобусе."
+    },
+    {
+     "id": "SFI-C-058",
+     "topic": "Поездки и транспорт",
+     "sv": "Efter att vi hade kommit fram gick vi till hotellet.",
+     "ru": "После того как мы приехали, мы пошли в гостиницу."
+    },
+    {
+     "id": "SFI-C-059",
+     "topic": "Поездки и транспорт",
+     "sv": "Jag reser helst tidigt eftersom det då är mindre trafik.",
+     "ru": "Я предпочитаю ездить рано утром, потому что тогда меньше движения."
+    },
+    {
+     "id": "SFI-C-060",
+     "topic": "Поездки и транспорт",
+     "sv": "I en ny stad vill jag se både sevärdheter och vardagsområden.",
+     "ru": "В новом городе я хочу увидеть и достопримечательности, и обычные районы."
+    },
+    {
+     "id": "SFI-C-061",
+     "topic": "Общение и отношения",
+     "sv": "Jag ringde min vän eftersom jag ville fråga hur han mådde.",
+     "ru": "Я позвонил своему другу, потому что хотел спросить, как он себя чувствует."
+    },
+    {
+     "id": "SFI-C-062",
+     "topic": "Общение и отношения",
+     "sv": "När vi träffades pratade vi länge om våra planer.",
+     "ru": "Когда мы встретились, мы долго разговаривали о наших планах."
+    },
+    {
+     "id": "SFI-C-063",
+     "topic": "Общение и отношения",
+     "sv": "Jag tycker att det är viktigt att lyssna när någon pratar.",
+     "ru": "Я считаю важным слушать, когда кто-то говорит."
+    },
+    {
+     "id": "SFI-C-064",
+     "topic": "Общение и отношения",
+     "sv": "Om jag inte håller med förklarar jag lugnt min åsikt.",
+     "ru": "Если я не согласен, я спокойно объясняю своё мнение."
+    },
+    {
+     "id": "SFI-C-065",
+     "topic": "Общение и отношения",
+     "sv": "Efter samtalet förstod jag varför hon hade blivit så besviken.",
+     "ru": "После разговора я понял, почему она так расстроилась."
+    },
+    {
+     "id": "SFI-C-066",
+     "topic": "Общение и отношения",
+     "sv": "Eftersom vi hade olika åsikter behövde vi diskutera frågan lite längre.",
+     "ru": "Поскольку у нас были разные мнения, нам пришлось обсуждать вопрос немного дольше."
+    },
+    {
+     "id": "SFI-C-067",
+     "topic": "Общение и отношения",
+     "sv": "Jag uppskattar människor som håller sina löften.",
+     "ru": "Я ценю людей, которые держат свои обещания."
+    },
+    {
+     "id": "SFI-C-068",
+     "topic": "Общение и отношения",
+     "sv": "När någon behöver hjälp försöker jag göra vad jag kan.",
+     "ru": "Когда кому-то нужна помощь, я стараюсь сделать всё, что могу."
+    },
+    {
+     "id": "SFI-C-069",
+     "topic": "Общение и отношения",
+     "sv": "Ibland är det bättre att fråga igen än att missförstå.",
+     "ru": "Иногда лучше переспросить, чем неправильно понять."
+    },
+    {
+     "id": "SFI-C-070",
+     "topic": "Общение и отношения",
+     "sv": "Jag blev glad när min vän berättade om jobbet.",
+     "ru": "Я обрадовался, когда мой друг рассказал про работу."
+    },
+    {
+     "id": "SFI-C-071",
+     "topic": "Государственные учреждения и общество",
+     "sv": "Jag fick ett brev från myndigheten som jag behövde läsa noggrant.",
+     "ru": "Я получил письмо от государственного учреждения, которое мне нужно было внимательно прочитать."
+    },
+    {
+     "id": "SFI-C-072",
+     "topic": "Государственные учреждения и общество",
+     "sv": "Om jag inte förstår ett beslut kontaktar jag myndigheten.",
+     "ru": "Если я не понимаю решения, я обращаюсь в ведомство за подробностями."
+    },
+    {
+     "id": "SFI-C-073",
+     "topic": "Государственные учреждения и общество",
+     "sv": "På kommunens webbplats finns information om olika tjänster.",
+     "ru": "На сайте муниципалитета есть информация о различных услугах."
+    },
+    {
+     "id": "SFI-C-074",
+     "topic": "Государственные учреждения и общество",
+     "sv": "Eftersom jag saknade ett dokument kunde jag inte skicka in ansökan.",
+     "ru": "Поскольку у меня не было одного документа, я не мог отправить заявление."
+    },
+    {
+     "id": "SFI-C-075",
+     "topic": "Государственные учреждения и общество",
+     "sv": "När man flyttar är det viktigt att uppdatera sina kontaktuppgifter.",
+     "ru": "При переезде важно обновить свои контактные данные."
+    },
+    {
+     "id": "SFI-C-076",
+     "topic": "Государственные учреждения и общество",
+     "sv": "Jag frågade handläggaren vilka dokument jag behövde lämna in.",
+     "ru": "Я спросил сотрудника, который рассматривает моё дело, какие документы мне нужно предоставить."
+    },
+    {
+     "id": "SFI-C-077",
+     "topic": "Государственные учреждения и общество",
+     "sv": "Innan du skickar ansökan bör du kontrollera att alla uppgifter stämmer.",
+     "ru": "Перед отправкой заявления следует проверить, что все данные правильные."
+    },
+    {
+     "id": "SFI-C-078",
+     "topic": "Государственные учреждения и общество",
+     "sv": "Om reglerna ändras behöver man veta vad som gäller.",
+     "ru": "Если правила меняются, нужно знать, что теперь действует."
+    },
+    {
+     "id": "SFI-C-079",
+     "topic": "Государственные учреждения и общество",
+     "sv": "Jag tycker att alla ska ha samma möjlighet att delta.",
+     "ru": "Я считаю, что у всех должна быть одинаковая возможность участвовать."
+    },
+    {
+     "id": "SFI-C-080",
+     "topic": "Государственные учреждения и общество",
+     "sv": "Eftersom informationen var otydlig ringde jag och frågade.",
+     "ru": "Поскольку информация была неясной, я позвонил и уточнил."
+    },
+    {
+     "id": "SFI-C-081",
+     "topic": "Технологии и цифровая жизнь",
+     "sv": "Jag använder datorn varje dag för att studera och arbeta.",
+     "ru": "Я пользуюсь компьютером каждый день, чтобы учиться и работать."
+    },
+    {
+     "id": "SFI-C-082",
+     "topic": "Технологии и цифровая жизнь",
+     "sv": "När jag får ett viktigt mejl sparar jag det för senare.",
+     "ru": "Когда я получаю важное письмо, я сохраняю его на потом."
+    },
+    {
+     "id": "SFI-C-083",
+     "topic": "Технологии и цифровая жизнь",
+     "sv": "På internet finns det mycket information, men allt är inte pålitligt.",
+     "ru": "В интернете много информации, но не вся она надёжная."
+    },
+    {
+     "id": "SFI-C-084",
+     "topic": "Технологии и цифровая жизнь",
+     "sv": "Om jag får ett misstänkt meddelande öppnar jag inte länken.",
+     "ru": "Если я получаю подозрительное сообщение, я не открываю ссылку."
+    },
+    {
+     "id": "SFI-C-085",
+     "topic": "Технологии и цифровая жизнь",
+     "sv": "Eftersom datorn fungerade långsamt startade jag om den.",
+     "ru": "Поскольку компьютер работал медленно, я перезагрузил его."
+    },
+    {
+     "id": "SFI-C-086",
+     "topic": "Технологии и цифровая жизнь",
+     "sv": "Innan jag installerar ett nytt program kontrollerar jag varifrån det kommer.",
+     "ru": "Перед установкой новой программы я проверяю, откуда она взята."
+    },
+    {
+     "id": "SFI-C-087",
+     "topic": "Технологии и цифровая жизнь",
+     "sv": "Jag använder en kalenderapp för möten och viktiga datum.",
+     "ru": "Я пользуюсь приложением-календарём для встреч и важных дат."
+    },
+    {
+     "id": "SFI-C-088",
+     "topic": "Технологии и цифровая жизнь",
+     "sv": "När ett program uppdateras kan vissa funktioner förändras.",
+     "ru": "Когда программа обновляется, некоторые функции могут измениться."
+    },
+    {
+     "id": "SFI-C-089",
+     "topic": "Технологии и цифровая жизнь",
+     "sv": "Det är viktigt att använda starka lösenord.",
+     "ru": "Важно использовать надёжные пароли."
+    },
+    {
+     "id": "SFI-C-090",
+     "topic": "Технологии и цифровая жизнь",
+     "sv": "Jag lär mig nya digitala verktyg eftersom de underlättar.",
+     "ru": "Я осваиваю новые цифровые инструменты, потому что они облегчают работу."
+    },
+    {
+     "id": "SFI-C-091",
+     "topic": "Опыт и планы на будущее",
+     "sv": "Jag har lärt mig mycket sedan jag började studera svenska.",
+     "ru": "Я многому научился с тех пор, как начал изучать шведский."
+    },
+    {
+     "id": "SFI-C-092",
+     "topic": "Опыт и планы на будущее",
+     "sv": "När jag flyttade till Sverige behövde jag vänja mig.",
+     "ru": "Когда я переехал в Швецию, мне нужно было привыкнуть к новому образу жизни."
+    },
+    {
+     "id": "SFI-C-093",
+     "topic": "Опыт и планы на будущее",
+     "sv": "Jag vill fortsätta studera eftersom jag har flera mål.",
+     "ru": "Я хочу продолжать учиться, потому что у меня есть несколько целей."
+    },
+    {
+     "id": "SFI-C-094",
+     "topic": "Опыт и планы на будущее",
+     "sv": "Om jag får chansen att studera tar jag den.",
+     "ru": "Если у меня появится возможность учиться, я ею воспользуюсь."
+    },
+    {
+     "id": "SFI-C-095",
+     "topic": "Опыт и планы на будущее",
+     "sv": "För några år sedan hade jag andra planer än nu.",
+     "ru": "Несколько лет назад у меня были другие планы, чем сейчас."
+    },
+    {
+     "id": "SFI-C-096",
+     "topic": "Опыт и планы на будущее",
+     "sv": "Jag har förstått att språk tar tid att lära sig.",
+     "ru": "Я понял, что языки требуют времени, чтобы их хорошо выучить."
+    },
+    {
+     "id": "SFI-C-097",
+     "topic": "Опыт и планы на будущее",
+     "sv": "Även om något är svårt blir det lättare med övning.",
+     "ru": "Даже если что-то сложно, с практикой становится легче."
+    },
+    {
+     "id": "SFI-C-098",
+     "topic": "Опыт и планы на будущее",
+     "sv": "Innan jag bestämmer mig vill jag undersöka vilka möjligheter som finns.",
+     "ru": "Прежде чем принять решение, я хочу изучить, какие существуют возможности."
+    },
+    {
+     "id": "SFI-C-099",
+     "topic": "Опыт и планы на будущее",
+     "sv": "Jag hoppas att jag kan använda mina kunskaper i framtiden.",
+     "ru": "Я надеюсь, что смогу применять свои знания в будущем."
+    },
+    {
+     "id": "SFI-C-100",
+     "topic": "Опыт и планы на будущее",
+     "sv": "När jag ser tillbaka märker jag att jag har utvecklats.",
+     "ru": "Оглядываясь назад, я вижу, что вырос больше, чем думал."
+    },
+    {
+     "id": "SFI-C-101",
+     "topic": "Повседневная жизнь и планирование",
+     "sv": "Jag brukar skriva en lista över veckans uppgifter.",
+     "ru": "Я обычно составляю список задач на неделю."
+    },
+    {
+     "id": "SFI-C-102",
+     "topic": "Повседневная жизнь и планирование",
+     "sv": "På måndagar planerar jag ofta vilka uppgifter jag ska börja med.",
+     "ru": "По понедельникам я часто планирую, с каких задач мне начать."
+    },
+    {
+     "id": "SFI-C-103",
+     "topic": "Повседневная жизнь и планирование",
+     "sv": "Eftersom jag glömt maten gick jag till affären igen.",
+     "ru": "Поскольку я забыл купить продукты, я снова пошёл в магазин."
+    },
+    {
+     "id": "SFI-C-104",
+     "topic": "Повседневная жизнь и планирование",
+     "sv": "När jag har flera uppgifter tar jag en i taget.",
+     "ru": "Когда у меня несколько дел, я беру одно за раз."
+    },
+    {
+     "id": "SFI-C-105",
+     "topic": "Повседневная жизнь и планирование",
+     "sv": "Efter frukosten brukar jag kontrollera dagens schema innan jag går hemifrån.",
+     "ru": "После завтрака я обычно проверяю расписание на день, прежде чем выйти из дома."
+    },
+    {
+     "id": "SFI-C-106",
+     "topic": "Повседневная жизнь и планирование",
+     "sv": "Om något oväntat händer behöver jag ibland ändra mina planer.",
+     "ru": "Если происходит что-то неожиданное, мне иногда приходится менять свои планы."
+    },
+    {
+     "id": "SFI-C-107",
+     "topic": "Повседневная жизнь и планирование",
+     "sv": "Det blev lättare att planera när jag började med kalender.",
+     "ru": "Планировать день стало легче, когда я начал пользоваться календарём."
+    },
+    {
+     "id": "SFI-C-108",
+     "topic": "Повседневная жизнь и планирование",
+     "sv": "På kvällen förbereder jag saker så att jag slipper leta.",
+     "ru": "Вечером я готовлю вещи, чтобы утром не искать их."
+    },
+    {
+     "id": "SFI-C-109",
+     "topic": "Повседневная жизнь и планирование",
+     "sv": "Även om jag inte hinner allt gör jag det viktigaste.",
+     "ru": "Хотя я не всё успеваю, я делаю самое важное."
+    },
+    {
+     "id": "SFI-C-110",
+     "topic": "Повседневная жизнь и планирование",
+     "sv": "Innan jag ändrar planen kollar jag vad som är akut.",
+     "ru": "Прежде чем менять план, я проверяю, что срочно."
+    },
+    {
+     "id": "SFI-C-111",
+     "topic": "Учёба и обучение",
+     "sv": "Jag försöker förstå varför en grammatisk regel fungerar så.",
+     "ru": "Я стараюсь понять, почему грамматическое правило работает именно так."
+    },
+    {
+     "id": "SFI-C-112",
+     "topic": "Учёба и обучение",
+     "sv": "Under lektionen arbetade vi tillsammans med en svår uppgift.",
+     "ru": "Во время урока мы вместе работали над сложным заданием."
+    },
+    {
+     "id": "SFI-C-113",
+     "topic": "Учёба и обучение",
+     "sv": "När jag lär mig ett uttryck skriver jag flera exempel.",
+     "ru": "Когда я учу выражение, я записываю несколько примеров с ним."
+    },
+    {
+     "id": "SFI-C-114",
+     "topic": "Учёба и обучение",
+     "sv": "Eftersom jag inte kände till ordet slog jag upp det.",
+     "ru": "Поскольку я не знал значения слова, я посмотрел его в словаре."
+    },
+    {
+     "id": "SFI-C-115",
+     "topic": "Учёба и обучение",
+     "sv": "Genom att repetera regelbundet minns man nya ord längre.",
+     "ru": "Регулярно повторяя, можно дольше помнить новые слова."
+    },
+    {
+     "id": "SFI-C-116",
+     "topic": "Учёба и обучение",
+     "sv": "Om jag upprepar ett fel letar jag efter orsaken.",
+     "ru": "Если я повторяю одну и ту же ошибку, я ищу её причину."
+    },
+    {
+     "id": "SFI-C-117",
+     "topic": "Учёба и обучение",
+     "sv": "Efter provet pratade vi om vilka delar som hade varit svårast.",
+     "ru": "После теста мы поговорили о том, какие части были самыми сложными."
+    },
+    {
+     "id": "SFI-C-118",
+     "topic": "Учёба и обучение",
+     "sv": "Det är viktigt att få använda det man lärt sig.",
+     "ru": "Важно иметь возможность применять то, чему научился."
+    },
+    {
+     "id": "SFI-C-119",
+     "topic": "Учёба и обучение",
+     "sv": "När läraren gav mer tid kunde jag kontrollera svaren igen.",
+     "ru": "Когда преподаватель дал больше времени, я смог ещё раз проверить ответы."
+    },
+    {
+     "id": "SFI-C-120",
+     "topic": "Учёба и обучение",
+     "sv": "Jag blir mer motiverad när jag ser framsteg.",
+     "ru": "Я становлюсь мотивированнее, когда вижу свои успехи."
+    },
+    {
+     "id": "SFI-C-121",
+     "topic": "Работа и сотрудничество",
+     "sv": "På arbetsplatsen behöver alla veta vilka uppgifter de ansvarar för.",
+     "ru": "На рабочем месте каждый должен знать, за какие задачи он отвечает."
+    },
+    {
+     "id": "SFI-C-122",
+     "topic": "Работа и сотрудничество",
+     "sv": "När en ny kollega börjar visar vi hur rutinerna fungerar.",
+     "ru": "Когда приходит новый коллега, мы показываем, как устроены рабочие процессы."
+    },
+    {
+     "id": "SFI-C-123",
+     "topic": "Работа и сотрудничество",
+     "sv": "Informationen var oklar, så jag bad chefen om en förklaring.",
+     "ru": "Информация была неясной, и я попросил начальника объяснить ещё раз."
+    },
+    {
+     "id": "SFI-C-124",
+     "topic": "Работа и сотрудничество",
+     "sv": "Under mötet kom vi fram till en lösning som passade alla.",
+     "ru": "Во время встречи мы пришли к решению, которое всех устраивало."
+    },
+    {
+     "id": "SFI-C-125",
+     "topic": "Работа и сотрудничество",
+     "sv": "Om arbetsbelastningen blir för hög behöver man prata med sin chef.",
+     "ru": "Если рабочая нагрузка становится слишком высокой, нужно поговорить со своим начальником."
+    },
+    {
+     "id": "SFI-C-126",
+     "topic": "Работа и сотрудничество",
+     "sv": "Efter att vi hade fördelat uppgifterna kunde alla börja arbeta.",
+     "ru": "После того как мы распределили задачи, все смогли приступить к работе."
+    },
+    {
+     "id": "SFI-C-127",
+     "topic": "Работа и сотрудничество",
+     "sv": "Jag försöker vara flexibel när jobbet inte blir som planerat.",
+     "ru": "Я стараюсь быть гибким, когда работа идёт не по плану."
+    },
+    {
+     "id": "SFI-C-128",
+     "topic": "Работа и сотрудничество",
+     "sv": "På lagret måste man kontrollera varorna noggrant innan de skickas vidare.",
+     "ru": "На складе необходимо тщательно проверять товары, прежде чем отправлять их дальше."
+    },
+    {
+     "id": "SFI-C-129",
+     "topic": "Работа и сотрудничество",
+     "sv": "Det är lättare att undvika missförstånd när alla får samma information.",
+     "ru": "Легче избежать недоразумений, когда все получают одинаковую информацию."
+    },
+    {
+     "id": "SFI-C-130",
+     "topic": "Работа и сотрудничество",
+     "sv": "Även om vi hade ont om tid klarade vi jobbet tillsammans.",
+     "ru": "Хотя времени было мало, мы вместе справились с работой."
+    },
+    {
+     "id": "SFI-C-131",
+     "topic": "Жильё и повседневные финансы",
+     "sv": "Jag jämför bostäder innan jag väljer område.",
+     "ru": "Я сравниваю жильё, прежде чем выбрать район."
+    },
+    {
+     "id": "SFI-C-132",
+     "topic": "Жильё и повседневные финансы",
+     "sv": "I området finns flera butiker med rimliga priser.",
+     "ru": "В районе есть несколько магазинов с приемлемыми ценами."
+    },
+    {
+     "id": "SFI-C-133",
+     "topic": "Жильё и повседневные финансы",
+     "sv": "Eftersom elräkningen var hög behövde vi se över utgifterna.",
+     "ru": "Поскольку счёт за электричество был высоким, нам пришлось пересмотреть расходы."
+    },
+    {
+     "id": "SFI-C-134",
+     "topic": "Жильё и повседневные финансы",
+     "sv": "När jag får lön betalar jag först de viktigaste räkningarna.",
+     "ru": "Когда я получаю зарплату, сначала оплачиваю самые важные счета."
+    },
+    {
+     "id": "SFI-C-135",
+     "topic": "Жильё и повседневные финансы",
+     "sv": "Om man planerar inköpen undviker man ofta onödiga köp.",
+     "ru": "Если планировать покупки, часто можно избежать ненужных трат."
+    },
+    {
+     "id": "SFI-C-136",
+     "topic": "Жильё и повседневные финансы",
+     "sv": "Jag kontaktade hyresvärden eftersom det hade uppstått ett problem med värmen.",
+     "ru": "Я связался с арендодателем, потому что возникла проблема с отоплением."
+    },
+    {
+     "id": "SFI-C-137",
+     "topic": "Жильё и повседневные финансы",
+     "sv": "I köket behöver vi mer förvaringsutrymme eftersom skåpen redan är fulla.",
+     "ru": "На кухне нам нужно больше места для хранения, потому что шкафы уже заполнены."
+    },
+    {
+     "id": "SFI-C-138",
+     "topic": "Жильё и повседневные финансы",
+     "sv": "Innan jag flyttade jämförde jag hyran och kostnaderna för olika lägenheter.",
+     "ru": "Перед переездом я сравнил арендную плату и расходы на разные квартиры."
+    },
+    {
+     "id": "SFI-C-139",
+     "topic": "Жильё и повседневные финансы",
+     "sv": "Det är svårt att spara när boende och mat kostar mycket.",
+     "ru": "Трудно копить, когда жильё и еда съедают большую часть дохода."
+    },
+    {
+     "id": "SFI-C-140",
+     "topic": "Жильё и повседневные финансы",
+     "sv": "När jag känner till fasta kostnader planerar jag enklare.",
+     "ru": "Когда я знаю постоянные расходы, мне проще планировать бюджет."
+    },
+    {
+     "id": "SFI-C-141",
+     "topic": "Здоровье и образ жизни",
+     "sv": "Jag försöker äta varierad mat eftersom kroppen behöver olika näringsämnen.",
+     "ru": "Я стараюсь питаться разнообразно, потому что организму нужны разные питательные вещества."
+    },
+    {
+     "id": "SFI-C-142",
+     "topic": "Здоровье и образ жизни",
+     "sv": "Efter en lång dag behöver jag ofta vila.",
+     "ru": "После долгого дня мне часто нужно отдохнуть."
+    },
+    {
+     "id": "SFI-C-143",
+     "topic": "Здоровье и образ жизни",
+     "sv": "Om jag tränar regelbundet får jag mer energi.",
+     "ru": "Если я регулярно тренируюсь, у меня больше энергии в течение дня."
+    },
+    {
+     "id": "SFI-C-144",
+     "topic": "Здоровье и образ жизни",
+     "sv": "Läkaren förklarade vad jag kunde göra för att minska besvären.",
+     "ru": "Врач объяснил, что я могу сделать, чтобы уменьшить неприятные симптомы."
+    },
+    {
+     "id": "SFI-C-145",
+     "topic": "Здоровье и образ жизни",
+     "sv": "Eftersom jag sovit dåligt kände jag mig ovanligt trött.",
+     "ru": "Поскольку я плохо спал несколько ночей подряд, я чувствовал себя необычно уставшим."
+    },
+    {
+     "id": "SFI-C-146",
+     "topic": "Здоровье и образ жизни",
+     "sv": "Efter länge framför skärmen är det bra att vila ögonen.",
+     "ru": "После долгого сидения у экрана полезно дать глазам отдых."
+    },
+    {
+     "id": "SFI-C-147",
+     "topic": "Здоровье и образ жизни",
+     "sv": "Jag har märkt att mitt humör blir bättre utomhus.",
+     "ru": "Я заметил, что настроение улучшается, когда я больше бываю на улице."
+    },
+    {
+     "id": "SFI-C-148",
+     "topic": "Здоровье и образ жизни",
+     "sv": "Små steg kan göra stor skillnad, även om det känns svårt.",
+     "ru": "Небольшие шаги могут многое изменить, даже если поначалу это трудно."
+    },
+    {
+     "id": "SFI-C-149",
+     "topic": "Здоровье и образ жизни",
+     "sv": "Innan jag provar ny träning vill jag veta hur den fungerar.",
+     "ru": "Прежде чем пробовать новый вид тренировок, я хочу узнать, как он устроен."
+    },
+    {
+     "id": "SFI-C-150",
+     "topic": "Здоровье и образ жизни",
+     "sv": "Man behöver en livsstil som passar både vardag och helg.",
+     "ru": "Нужен образ жизни, который подходит и для будней, и для выходных."
+    },
+    {
+     "id": "SFI-C-151",
+     "topic": "Поездки и впечатления",
+     "sv": "När vi kom till stationen hade tåget redan lämnat perrongen.",
+     "ru": "Когда мы пришли на станцию, поезд уже отошёл от платформы."
+    },
+    {
+     "id": "SFI-C-152",
+     "topic": "Поездки и впечатления",
+     "sv": "På resan träffade vi människor som berättade om sina erfarenheter.",
+     "ru": "В поездке мы встретили людей, которые рассказывали о своём опыте."
+    },
+    {
+     "id": "SFI-C-153",
+     "topic": "Поездки и впечатления",
+     "sv": "Eftersom vädret hade förändrats bestämde vi oss för att stanna inomhus.",
+     "ru": "Поскольку погода изменилась, мы решили остаться в помещении."
+    },
+    {
+     "id": "SFI-C-154",
+     "topic": "Поездки и впечатления",
+     "sv": "När jag besöker en ny stad kollar jag kollektivtrafiken först.",
+     "ru": "Когда я приезжаю в новый город, сначала узнаю, как работает общественный транспорт."
+    },
+    {
+     "id": "SFI-C-155",
+     "topic": "Поездки и впечатления",
+     "sv": "Efter en promenad längs stranden satte vi oss på ett café.",
+     "ru": "После прогулки вдоль пляжа мы сели в кафе."
+    },
+    {
+     "id": "SFI-C-156",
+     "topic": "Поездки и впечатления",
+     "sv": "Det var svårt att hitta rätt eftersom flera gator var avstängda.",
+     "ru": "Было трудно найти нужную дорогу, потому что несколько улиц были перекрыты."
+    },
+    {
+     "id": "SFI-C-157",
+     "topic": "Поездки и впечатления",
+     "sv": "Under resan tog jag bilder för att komma ihåg platserna.",
+     "ru": "Во время поездки я фотографировал, чтобы запомнить места."
+    },
+    {
+     "id": "SFI-C-158",
+     "topic": "Поездки и впечатления",
+     "sv": "Även om resan tog längre tid än väntat var vi nöjda.",
+     "ru": "Хотя поездка заняла больше времени, чем ожидалось, мы остались довольны."
+    },
+    {
+     "id": "SFI-C-159",
+     "topic": "Поездки и впечатления",
+     "sv": "Innan vi åkte hem kontrollerade vi att vi hade alla saker.",
+     "ru": "Перед отъездом домой мы проверили, что взяли все вещи."
+    },
+    {
+     "id": "SFI-C-160",
+     "topic": "Поездки и впечатления",
+     "sv": "När jag reser lär jag mig ofta något nytt om människor.",
+     "ru": "Когда я путешествую, я часто узнаю что-то новое о людях."
+    },
+    {
+     "id": "SFI-C-161",
+     "topic": "Общение и разногласия",
+     "sv": "Jag försöker förstå den andra personens perspektiv innan jag svarar.",
+     "ru": "Я стараюсь понять точку зрения другого человека, прежде чем отвечать."
+    },
+    {
+     "id": "SFI-C-162",
+     "topic": "Общение и разногласия",
+     "sv": "När vi diskuterade problemet upptäckte vi att vi hade missförstått varandra.",
+     "ru": "Когда мы обсуждали проблему, мы обнаружили, что неправильно поняли друг друга."
+    },
+    {
+     "id": "SFI-C-163",
+     "topic": "Общение и разногласия",
+     "sv": "Eftersom läget blev mer komplicerat behövde vi prata igenom det.",
+     "ru": "Поскольку ситуация усложнилась, нам нужно было всё спокойно обсудить."
+    },
+    {
+     "id": "SFI-C-164",
+     "topic": "Общение и разногласия",
+     "sv": "Om någon kritiserar mitt arbete lyssnar jag och funderar.",
+     "ru": "Если кто-то критикует мою работу, я слушаю и думаю, что можно улучшить."
+    },
+    {
+     "id": "SFI-C-165",
+     "topic": "Общение и разногласия",
+     "sv": "Ibland måste man förklara samma sak på flera sätt.",
+     "ru": "Иногда одно и то же приходится объяснять несколькими способами, чтобы тебя поняли."
+    },
+    {
+     "id": "SFI-C-166",
+     "topic": "Общение и разногласия",
+     "sv": "Efter samtalet insåg jag att vi egentligen ville uppnå samma sak.",
+     "ru": "После разговора я понял, что на самом деле мы хотели добиться одного и того же."
+    },
+    {
+     "id": "SFI-C-167",
+     "topic": "Общение и разногласия",
+     "sv": "Det är viktigt att visa respekt även när man är oense.",
+     "ru": "Важно проявлять уважение, даже когда не согласен с другим человеком."
+    },
+    {
+     "id": "SFI-C-168",
+     "topic": "Общение и разногласия",
+     "sv": "När vi samarbetar blir resultatet ofta bättre än annars.",
+     "ru": "Когда мы работаем вместе, результат часто лучше, чем когда каждый работает отдельно."
+    },
+    {
+     "id": "SFI-C-169",
+     "topic": "Общение и разногласия",
+     "sv": "Jag bad om ursäkt eftersom jag uttryckte mig otydligt.",
+     "ru": "Я извинился, потому что выразился неясно."
+    },
+    {
+     "id": "SFI-C-170",
+     "topic": "Общение и разногласия",
+     "sv": "Även om vi var oense hittade vi till slut en lösning.",
+     "ru": "Хотя мы сразу не сошлись во мнениях, в конце концов нам удалось найти решение."
+    },
+    {
+     "id": "SFI-C-171",
+     "topic": "Общество и информация",
+     "sv": "På biblioteket kan man få hjälp att hitta information.",
+     "ru": "В библиотеке можно получить помощь в поиске информации."
+    },
+    {
+     "id": "SFI-C-172",
+     "topic": "Общество и информация",
+     "sv": "Eftersom reglerna hade ändrats behövde jag läsa den nya informationen noggrant.",
+     "ru": "Поскольку правила изменились, мне пришлось внимательно прочитать новую информацию."
+    },
+    {
+     "id": "SFI-C-173",
+     "topic": "Общество и информация",
+     "sv": "Den som flyttar till nytt land behöver lära sig samhället.",
+     "ru": "Когда люди переезжают в новую страну, им нужно понимать, как устроено общество."
+    },
+    {
+     "id": "SFI-C-174",
+     "topic": "Общество и информация",
+     "sv": "Vid frågor om rättigheter kan man kontakta en myndighet.",
+     "ru": "Если есть вопросы о своих правах, можно обратиться в государственное учреждение."
+    },
+    {
+     "id": "SFI-C-175",
+     "topic": "Общество и информация",
+     "sv": "I tidningen läste jag en artikel som handlade om bostadsbristen.",
+     "ru": "В газете я прочитал статью, которая была посвящена нехватке жилья."
+    },
+    {
+     "id": "SFI-C-176",
+     "topic": "Общество и информация",
+     "sv": "Det är viktigt att kontrollera källan innan man delar information.",
+     "ru": "Важно проверять источник, прежде чем делиться информацией."
+    },
+    {
+     "id": "SFI-C-177",
+     "topic": "Общество и информация",
+     "sv": "Många använder digitala tjänster eftersom det går snabbare.",
+     "ru": "Многие пользуются цифровыми сервисами, потому что это быстрее, чем идти в офис."
+    },
+    {
+     "id": "SFI-C-178",
+     "topic": "Общество и информация",
+     "sv": "När kommunen informerar om ändringar måste invånarna förstå dem.",
+     "ru": "Когда муниципалитет сообщает об изменениях, жители должны понимать, что это значит для них."
+    },
+    {
+     "id": "SFI-C-179",
+     "topic": "Общество и информация",
+     "sv": "Information bör vara tillgänglig för dem som lär sig svenska.",
+     "ru": "Я считаю, что информация должна быть доступна и тем, кто плохо говорит по-шведски."
+    },
+    {
+     "id": "SFI-C-180",
+     "topic": "Общество и информация",
+     "sv": "Eftersom jag ville vara säker jämförde jag flera källor.",
+     "ru": "Поскольку я хотел быть уверен, я сравнил несколько источников."
+    },
+    {
+     "id": "SFI-C-181",
+     "topic": "Технологии и решение проблем",
+     "sv": "När datorn inte fungerar försöker jag först hitta felet.",
+     "ru": "Когда компьютер не работает как обычно, я сначала пытаюсь найти причину."
+    },
+    {
+     "id": "SFI-C-182",
+     "topic": "Технологии и решение проблем",
+     "sv": "Jag sparar mina filer regelbundet för att inte förlora arbete.",
+     "ru": "Я регулярно сохраняю файлы, чтобы не потерять важную работу."
+    },
+    {
+     "id": "SFI-C-183",
+     "topic": "Технологии и решение проблем",
+     "sv": "Eftersom programmet saknade en funktion sökte jag ett annat.",
+     "ru": "Поскольку в программе не хватало нужной функции, я искал другую."
+    },
+    {
+     "id": "SFI-C-184",
+     "topic": "Технологии и решение проблем",
+     "sv": "Om ett meddelande verkar misstänkt kollar jag avsändaren.",
+     "ru": "Если сообщение кажется подозрительным, я проверяю отправителя, прежде чем ответить."
+    },
+    {
+     "id": "SFI-C-185",
+     "topic": "Технологии и решение проблем",
+     "sv": "Efter att jag hade installerat uppdateringen fungerade programmet bättre.",
+     "ru": "После того как я установил обновление, программа стала работать лучше."
+    },
+    {
+     "id": "SFI-C-186",
+     "topic": "Технологии и решение проблем",
+     "sv": "Det är bra att förstå grunderna innan man använder avancerade verktyg.",
+     "ru": "Полезно понимать основы, прежде чем пользоваться сложными инструментами."
+    },
+    {
+     "id": "SFI-C-187",
+     "topic": "Технологии и решение проблем",
+     "sv": "På nätet finns många guider som visar hur problem löses.",
+     "ru": "В интернете много руководств, которые показывают, как решать проблемы."
+    },
+    {
+     "id": "SFI-C-188",
+     "topic": "Технологии и решение проблем",
+     "sv": "När jag provar ett nytt program testar jag stegvis.",
+     "ru": "Когда я пробую новую программу, я проверяю функции по порядку."
+    },
+    {
+     "id": "SFI-C-189",
+     "topic": "Технологии и решение проблем",
+     "sv": "Jag använder digitala verktyg för att studera mer strukturerat.",
+     "ru": "Я использую цифровые инструменты, чтобы учиться более структурированно."
+    },
+    {
+     "id": "SFI-C-190",
+     "topic": "Технологии и решение проблем",
+     "sv": "Även om tekniken utvecklas snabbt behöver man fortfarande kunna tänka kritiskt.",
+     "ru": "Хотя технологии быстро развиваются, человеку всё равно нужно уметь мыслить критически."
+    },
+    {
+     "id": "SFI-C-191",
+     "topic": "Опыт и будущее",
+     "sv": "Jag känner mig säkrare sedan jag tar ansvar för mina val.",
+     "ru": "Я стал увереннее в себе с тех пор, как начал брать ответственность за свои решения."
+    },
+    {
+     "id": "SFI-C-192",
+     "topic": "Опыт и будущее",
+     "sv": "När jag ser tillbaka förstår jag hur mycket jag lärt mig.",
+     "ru": "Когда я оглядываюсь на свой прошлый опыт, я понимаю, как многому научился."
+    },
+    {
+     "id": "SFI-C-193",
+     "topic": "Опыт и будущее",
+     "sv": "Om jag får chansen i ett nytt område provar jag gärna.",
+     "ru": "Если мне представится шанс развиваться в новой области, я с удовольствием попробую."
+    },
+    {
+     "id": "SFI-C-194",
+     "topic": "Опыт и будущее",
+     "sv": "Eftersom jag vill nå mina mål måste jag vara tålmodig.",
+     "ru": "Поскольку я хочу достичь целей, мне нужно быть терпеливым."
+    },
+    {
+     "id": "SFI-C-195",
+     "topic": "Опыт и будущее",
+     "sv": "För några år sedan trodde jag inte att jag kunde svenska.",
+     "ru": "Несколько лет назад я не верил, что смогу так хорошо выучить шведский."
+    },
+    {
+     "id": "SFI-C-196",
+     "topic": "Опыт и будущее",
+     "sv": "Jag försöker se misstag som en möjlighet att förstå något bättre.",
+     "ru": "Я стараюсь воспринимать ошибки как возможность лучше что-то понять."
+    },
+    {
+     "id": "SFI-C-197",
+     "topic": "Опыт и будущее",
+     "sv": "Även om målet är långt vill jag fortsätta utvecklas.",
+     "ru": "Даже если путь к цели долгий, я хочу продолжать развиваться."
+    },
+    {
+     "id": "SFI-C-198",
+     "topic": "Опыт и будущее",
+     "sv": "Innan jag väljer utbildning undersöker jag vilka krav som finns.",
+     "ru": "Прежде чем выбрать обучение, я изучаю, какие требования есть."
+    },
+    {
+     "id": "SFI-C-199",
+     "topic": "Опыт и будущее",
+     "sv": "Jag hoppas att färdigheterna jag utvecklar idag hjälper mig framöver.",
+     "ru": "Я надеюсь, что навыки, которые я развиваю сегодня, помогут мне в будущем."
+    },
+    {
+     "id": "SFI-C-200",
+     "topic": "Опыт и будущее",
+     "sv": "När jag nått ett mål funderar jag på nästa steg.",
+     "ru": "Когда я достигаю цели, я думаю, чему учиться дальше."
+    }
+   ]
+  },
+  {
+   "code": "C2",
+   "name": "SFI C, предложения 201–400",
+   "sentences": [
+    {
+     "id": "SFI-C-201",
+     "topic": "Повседневная жизнь и перемены",
+     "sv": "När mina planer förändras försöker jag anpassa mig till den nya situationen.",
+     "ru": "Когда мои планы меняются, я стараюсь приспособиться к новой ситуации."
+    },
+    {
+     "id": "SFI-C-202",
+     "topic": "Повседневная жизнь и перемены",
+     "sv": "Eftersom jag hade försovit mig behövde jag skynda mig för att hinna med tåget.",
+     "ru": "Поскольку я проспал, мне пришлось спешить, чтобы успеть на поезд."
+    },
+    {
+     "id": "SFI-C-203",
+     "topic": "Повседневная жизнь и перемены",
+     "sv": "På morgonen brukar jag kontrollera vädret innan jag bestämmer vilka kläder jag ska ha på mig.",
+     "ru": "По утрам я обычно проверяю погоду, прежде чем решить, какую одежду надеть."
+    },
+    {
+     "id": "SFI-C-204",
+     "topic": "Повседневная жизнь и перемены",
+     "sv": "Om jag vet att dagen blir stressig försöker jag förbereda så mycket som möjligt kvällen innan.",
+     "ru": "Если я знаю, что день будет напряжённым, я стараюсь подготовить как можно больше накануне вечером."
+    },
+    {
+     "id": "SFI-C-205",
+     "topic": "Повседневная жизнь и перемены",
+     "sv": "Efter att jag hade avslutat mina uppgifter kunde jag äntligen ta en paus.",
+     "ru": "После того как я закончил свои задания, я наконец смог сделать перерыв."
+    },
+    {
+     "id": "SFI-C-206",
+     "topic": "Повседневная жизнь и перемены",
+     "sv": "Ibland behöver man ändra sina vanor för att vardagen ska fungera bättre.",
+     "ru": "Иногда нужно менять свои привычки, чтобы повседневная жизнь стала удобнее."
+    },
+    {
+     "id": "SFI-C-207",
+     "topic": "Повседневная жизнь и перемены",
+     "sv": "Jag märkte att jag hade glömt plånboken hemma när jag skulle betala i affären.",
+     "ru": "Я заметил, что забыл кошелёк дома, когда собирался расплатиться в магазине."
+    },
+    {
+     "id": "SFI-C-208",
+     "topic": "Повседневная жизнь и перемены",
+     "sv": "Även om det inte alltid går enligt planen försöker jag behålla lugnet.",
+     "ru": "Даже если не всегда всё идёт по плану, я стараюсь сохранять спокойствие."
+    },
+    {
+     "id": "SFI-C-209",
+     "topic": "Повседневная жизнь и перемены",
+     "sv": "På helgen brukar jag ta hand om sådant som jag inte har hunnit göra under veckan.",
+     "ru": "По выходным я обычно занимаюсь тем, на что не успел найти время в течение недели."
+    },
+    {
+     "id": "SFI-C-210",
+     "topic": "Повседневная жизнь и перемены",
+     "sv": "När jag har avslutat en viktig uppgift känner jag mig ofta mer motiverad.",
+     "ru": "Когда я заканчиваю важное задание, я часто чувствую себя более мотивированным."
+    },
+    {
+     "id": "SFI-C-211",
+     "topic": "Учёба и развитие",
+     "sv": "Ju mer jag övar, desto lättare blir det att använda nya grammatiska konstruktioner.",
+     "ru": "Чем больше я практикуюсь, тем легче мне становится использовать новые грамматические конструкции."
+    },
+    {
+     "id": "SFI-C-212",
+     "topic": "Учёба и развитие",
+     "sv": "Läraren bad oss att förklara hur vi hade kommit fram till våra svar.",
+     "ru": "Преподаватель попросил нас объяснить, как мы пришли к своим ответам."
+    },
+    {
+     "id": "SFI-C-213",
+     "topic": "Учёба и развитие",
+     "sv": "När jag läser en längre text försöker jag förstå helheten innan jag slår upp nya ord.",
+     "ru": "Когда я читаю длинный текст, я стараюсь понять его в целом, прежде чем искать новые слова."
+    },
+    {
+     "id": "SFI-C-214",
+     "topic": "Учёба и развитие",
+     "sv": "Eftersom jag hade övat på liknande uppgifter kunde jag lösa problemet snabbare.",
+     "ru": "Поскольку я тренировался на похожих заданиях, я смог решить задачу быстрее."
+    },
+    {
+     "id": "SFI-C-215",
+     "topic": "Учёба и развитие",
+     "sv": "Det är viktigt att inte bara lära sig reglerna utan också förstå när de ska användas.",
+     "ru": "Важно не только учить правила, но и понимать, когда их нужно применять."
+    },
+    {
+     "id": "SFI-C-216",
+     "topic": "Учёба и развитие",
+     "sv": "Om jag får möjlighet att arbeta i grupp kan jag också lära mig av andra deltagare.",
+     "ru": "Если у меня будет возможность работать в группе, я также смогу учиться у других участников."
+    },
+    {
+     "id": "SFI-C-217",
+     "topic": "Учёба и развитие",
+     "sv": "Under kursen har vi fått flera uppgifter som kräver att vi tänker självständigt.",
+     "ru": "Во время курса мы получили несколько заданий, которые требуют самостоятельного мышления."
+    },
+    {
+     "id": "SFI-C-218",
+     "topic": "Учёба и развитие",
+     "sv": "Jag försöker använda de ord som jag nyligen har lärt mig när jag pratar med andra.",
+     "ru": "Я стараюсь использовать слова, которые недавно выучил, когда разговариваю с другими."
+    },
+    {
+     "id": "SFI-C-219",
+     "topic": "Учёба и развитие",
+     "sv": "När jag inte förstår en text läser jag den en gång till och försöker hitta huvudtanken.",
+     "ru": "Когда я не понимаю текст, я читаю его ещё раз и стараюсь найти главную мысль."
+    },
+    {
+     "id": "SFI-C-220",
+     "topic": "Учёба и развитие",
+     "sv": "Genom att jämföra olika exempel blir det lättare att se skillnaden mellan grammatiska former.",
+     "ru": "Сравнивая разные примеры, легче увидеть разницу между грамматическими формами."
+    },
+    {
+     "id": "SFI-C-221",
+     "topic": "Работа и ответственность",
+     "sv": "Om en uppgift behöver göras snabbt försöker jag först avgöra vad som är viktigast.",
+     "ru": "Если задание нужно выполнить быстро, я сначала стараюсь определить, что важнее всего."
+    },
+    {
+     "id": "SFI-C-222",
+     "topic": "Работа и ответственность",
+     "sv": "Chefen förklarade varför arbetet behövde organiseras på ett annat sätt.",
+     "ru": "Начальник объяснил, почему работу нужно было организовать по-другому ."
+    },
+    {
+     "id": "SFI-C-223",
+     "topic": "Работа и ответственность",
+     "sv": "När en kollega är frånvarande kan de andra behöva dela på arbetsuppgifterna.",
+     "ru": "Когда коллега отсутствует, остальным может понадобиться разделить его обязанности между собой."
+    },
+    {
+     "id": "SFI-C-224",
+     "topic": "Работа и ответственность",
+     "sv": "Eftersom vi hade fått tydliga instruktioner kunde vi börja arbeta utan att vänta.",
+     "ru": "Поскольку мы получили чёткие инструкции, мы смогли начать работу, не дожидаясь."
+    },
+    {
+     "id": "SFI-C-225",
+     "topic": "Работа и ответственность",
+     "sv": "Jag tycker att det är viktigt att ta ansvar för sina misstag och försöka rätta till dem.",
+     "ru": "Я считаю важным брать ответственность за свои ошибки и стараться их исправлять."
+    },
+    {
+     "id": "SFI-C-226",
+     "topic": "Работа и ответственность",
+     "sv": "På lagret måste varorna placeras på rätt plats så att de blir lätta att hitta.",
+     "ru": "На складе товары нужно размещать в правильных местах, чтобы их было легко найти."
+    },
+    {
+     "id": "SFI-C-227",
+     "topic": "Работа и ответственность",
+     "sv": "Innan vi började med det nya arbetssättet fick alla möjlighet att ställa frågor.",
+     "ru": "Прежде чем мы начали работать по-новому , у всех была возможность задать вопросы."
+    },
+    {
+     "id": "SFI-C-228",
+     "topic": "Работа и ответственность",
+     "sv": "Om kommunikationen fungerar bra minskar risken för missförstånd mellan kollegorna.",
+     "ru": "Если общение налажено хорошо, риск недоразумений между коллегами уменьшается."
+    },
+    {
+     "id": "SFI-C-229",
+     "topic": "Работа и ответственность",
+     "sv": "Efter att jag hade fått mer erfarenhet kände jag mig säkrare på mina arbetsuppgifter.",
+     "ru": "После того как я приобрёл больше опыта, я стал увереннее выполнять свои рабочие обязанности."
+    },
+    {
+     "id": "SFI-C-230",
+     "topic": "Работа и ответственность",
+     "sv": "Även om arbetet ibland är krävande försöker jag fokusera på det jag kan påverka.",
+     "ru": "Хотя работа иногда требует больших усилий, я стараюсь сосредоточиться на том, на что могу повлиять."
+    },
+    {
+     "id": "SFI-C-231",
+     "topic": "Жильё и финансы",
+     "sv": "Innan jag väljer en bostad behöver jag kontrollera både hyran och de andra kostnaderna.",
+     "ru": "Прежде чем выбрать жильё, мне нужно проверить и арендную плату, и остальные расходы."
+    },
+    {
+     "id": "SFI-C-232",
+     "topic": "Жильё и финансы",
+     "sv": "Eftersom priserna hade stigit behövde familjen se över sin månadsbudget.",
+     "ru": "Поскольку цены выросли, семье пришлось пересмотреть свой месячный бюджет."
+    },
+    {
+     "id": "SFI-C-233",
+     "topic": "Жильё и финансы",
+     "sv": "I närheten av bostaden finns det en vårdcentral, en mataffär och flera busshållplatser.",
+     "ru": "Рядом с жильём находятся медицинский центр, продуктовый магазин и несколько автобусных остановок."
+    },
+    {
+     "id": "SFI-C-234",
+     "topic": "Жильё и финансы",
+     "sv": "Om jag upptäcker ett fel på fakturan kontaktar jag företaget innan jag betalar.",
+     "ru": "Если я обнаруживаю ошибку в счёте, я связываюсь с компанией до оплаты."
+    },
+    {
+     "id": "SFI-C-235",
+     "topic": "Жильё и финансы",
+     "sv": "När jag flyttade in upptäckte jag att flera saker i lägenheten behövde repareras.",
+     "ru": "Когда я въехал, я обнаружил, что несколько вещей в квартире нуждаются в ремонте."
+    },
+    {
+     "id": "SFI-C-236",
+     "topic": "Жильё и финансы",
+     "sv": "Det är bra att ha en reserv för oväntade utgifter som kan uppstå under året.",
+     "ru": "Полезно иметь запас денег на непредвиденные расходы, которые могут возникнуть в течение года."
+    },
+    {
+     "id": "SFI-C-237",
+     "topic": "Жильё и финансы",
+     "sv": "Eftersom avtalet innehöll flera viktiga villkor läste jag det noggrant innan jag skrev under.",
+     "ru": "Поскольку договор содержал несколько важных условий, я внимательно прочитал его перед подписанием."
+    },
+    {
+     "id": "SFI-C-238",
+     "topic": "Жильё и финансы",
+     "sv": "Om hyran ökar behöver jag kanske minska några andra utgifter.",
+     "ru": "Если арендная плата увеличится, мне, возможно, придётся сократить некоторые другие расходы."
+    },
+    {
+     "id": "SFI-C-239",
+     "topic": "Жильё и финансы",
+     "sv": "Jag försöker välja produkter som håller länge i stället för att alltid köpa det billigaste alternativet.",
+     "ru": "Я стараюсь выбирать товары, которые служат долго, вместо того чтобы всегда покупать самый дешёвый вариант."
+    },
+    {
+     "id": "SFI-C-240",
+     "topic": "Жильё и финансы",
+     "sv": "När man planerar sin ekonomi är det viktigt att skilja mellan nödvändiga och mindre viktiga inköp.",
+     "ru": "При планировании финансов важно различать необходимые и менее важные покупки."
+    },
+    {
+     "id": "SFI-C-241",
+     "topic": "Здоровье и привычки",
+     "sv": "Om jag märker att jag är ovanligt trött försöker jag fundera på vad som kan vara orsaken.",
+     "ru": "Если я замечаю, что необычно устал, я стараюсь подумать, что может быть причиной."
+    },
+    {
+     "id": "SFI-C-242",
+     "topic": "Здоровье и привычки",
+     "sv": "Läkaren rekommenderade att jag skulle vila mer under de närmaste dagarna.",
+     "ru": "Врач посоветовал мне больше отдыхать в ближайшие дни."
+    },
+    {
+     "id": "SFI-C-243",
+     "topic": "Здоровье и привычки",
+     "sv": "Eftersom jag hade haft ont i ryggen under flera veckor bestämde jag mig för att söka hjälp.",
+     "ru": "Поскольку у меня несколько недель болела спина, я решил обратиться за помощью."
+    },
+    {
+     "id": "SFI-C-244",
+     "topic": "Здоровье и привычки",
+     "sv": "När man arbetar framför en dator hela dagen är det viktigt att ta regelbundna pauser.",
+     "ru": "Когда работаешь за компьютером весь день, важно регулярно делать перерывы."
+    },
+    {
+     "id": "SFI-C-245",
+     "topic": "Здоровье и привычки",
+     "sv": "Jag försöker hitta en balans mellan fysisk aktivitet och tillräcklig vila.",
+     "ru": "Я стараюсь найти баланс между физической активностью и достаточным отдыхом."
+    },
+    {
+     "id": "SFI-C-246",
+     "topic": "Здоровье и привычки",
+     "sv": "Även om jag inte har mycket tid försöker jag röra på mig varje dag.",
+     "ru": "Даже если у меня мало времени, я стараюсь двигаться каждый день."
+    },
+    {
+     "id": "SFI-C-247",
+     "topic": "Здоровье и привычки",
+     "sv": "Om man ändrar flera vanor samtidigt kan det vara svårt att fortsätta med dem.",
+     "ru": "Если менять несколько привычек одновременно, может быть трудно их придерживаться."
+    },
+    {
+     "id": "SFI-C-248",
+     "topic": "Здоровье и привычки",
+     "sv": "Efter att jag hade börjat promenera regelbundet märkte jag att jag sov bättre.",
+     "ru": "После того как я начал регулярно гулять, я заметил, что стал лучше спать."
+    },
+    {
+     "id": "SFI-C-249",
+     "topic": "Здоровье и привычки",
+     "sv": "Det är lättare att behålla motivationen när man märker små förbättringar.",
+     "ru": "Сохранять мотивацию легче, когда замечаешь небольшие улучшения."
+    },
+    {
+     "id": "SFI-C-250",
+     "topic": "Здоровье и привычки",
+     "sv": "Jag tror att goda vanor blir en naturlig del av vardagen om man upprepar dem tillräckligt ofta.",
+     "ru": "Я думаю, что полезные привычки становятся естественной частью повседневной жизни, если повторять их достаточно часто."
+    },
+    {
+     "id": "SFI-C-251",
+     "topic": "Поездки и общество",
+     "sv": "När vi kom fram hade de flesta butiker redan stängt för dagen.",
+     "ru": "Когда мы приехали, большинство магазинов уже закрылось на сегодня."
+    },
+    {
+     "id": "SFI-C-252",
+     "topic": "Поездки и общество",
+     "sv": "Eftersom det saknades information på stationen frågade vi personalen om hjälp.",
+     "ru": "Поскольку на станции не хватало информации, мы попросили помощи у сотрудников."
+    },
+    {
+     "id": "SFI-C-253",
+     "topic": "Поездки и общество",
+     "sv": "I centrum finns det flera platser där människor kan träffas och umgås.",
+     "ru": "В центре есть несколько мест, где люди могут встречаться и проводить время вместе."
+    },
+    {
+     "id": "SFI-C-254",
+     "topic": "Поездки и общество",
+     "sv": "Om kollektivtrafiken fungerar bra blir det enklare för människor att ta sig till arbetet.",
+     "ru": "Если общественный транспорт работает хорошо, людям легче добираться до работы."
+    },
+    {
+     "id": "SFI-C-255",
+     "topic": "Поездки и общество",
+     "sv": "Efter att tåget hade lämnat stationen började vi planera resten av resan.",
+     "ru": "После того как поезд отправился со станции, мы начали планировать оставшуюся часть поездки."
+    },
+    {
+     "id": "SFI-C-256",
+     "topic": "Поездки и общество",
+     "sv": "Jag tycker att det är viktigt att det finns bra förbindelser även utanför stadskärnan.",
+     "ru": "Я считаю важным, чтобы хорошее транспортное сообщение было и за пределами центра города."
+    },
+    {
+     "id": "SFI-C-257",
+     "topic": "Поездки и общество",
+     "sv": "När en väg är avstängd behöver trafikanterna följa de alternativa skyltarna.",
+     "ru": "Когда дорога закрыта, участникам движения нужно следовать указателям объезда."
+    },
+    {
+     "id": "SFI-C-258",
+     "topic": "Поездки и общество",
+     "sv": "Även om området ligger långt från centrum finns det goda möjligheter att resa dit med buss.",
+     "ru": "Хотя этот район находится далеко от центра, туда можно удобно добраться на автобусе."
+    },
+    {
+     "id": "SFI-C-259",
+     "topic": "Поездки и общество",
+     "sv": "På resan fick vi möjlighet att upptäcka platser som vi inte hade hört talas om tidigare.",
+     "ru": "Во время поездки у нас появилась возможность открыть для себя места, о которых мы раньше не слышали."
+    },
+    {
+     "id": "SFI-C-260",
+     "topic": "Поездки и общество",
+     "sv": "När människor använder kollektivtrafiken i stället för bilen kan trafikbelastningen minska.",
+     "ru": "Когда люди пользуются общественным транспортом вместо автомобиля, транспортная нагрузка может уменьшиться."
+    },
+    {
+     "id": "SFI-C-261",
+     "topic": "Общение и мнения",
+     "sv": "Jag förstår vad du menar, men jag ser situationen från ett annat perspektiv.",
+     "ru": "Я понимаю, что ты имеешь в виду, но смотрю на ситуацию с другой точки зрения."
+    },
+    {
+     "id": "SFI-C-262",
+     "topic": "Общение и мнения",
+     "sv": "Eftersom vi inte hade samma uppfattning behövde vi diskutera frågan mer noggrant.",
+     "ru": "Поскольку у нас не было единого мнения, нам пришлось более подробно обсудить вопрос."
+    },
+    {
+     "id": "SFI-C-263",
+     "topic": "Общение и мнения",
+     "sv": "När någon ger mig ett förslag försöker jag tänka igenom det innan jag bestämmer mig.",
+     "ru": "Когда кто-то предлагает мне что-то , я стараюсь всё обдумать, прежде чем принять решение."
+    },
+    {
+     "id": "SFI-C-264",
+     "topic": "Общение и мнения",
+     "sv": "Jag tycker att man bör kunna uttrycka sin åsikt utan att förolämpa andra.",
+     "ru": "Я считаю, что человек должен иметь возможность выражать своё мнение, не оскорбляя других."
+    },
+    {
+     "id": "SFI-C-265",
+     "topic": "Общение и мнения",
+     "sv": "Om vi lyssnar på varandra kan vi ibland hitta en lösning som alla accepterar.",
+     "ru": "Если мы будем слушать друг друга, иногда мы сможем найти решение, которое устроит всех."
+    },
+    {
+     "id": "SFI-C-266",
+     "topic": "Общение и мнения",
+     "sv": "Hon förklarade sin ståndpunkt så tydligt att alla förstod vad hon ville säga.",
+     "ru": "Она объяснила свою позицию настолько ясно, что все поняли, что она хотела сказать."
+    },
+    {
+     "id": "SFI-C-267",
+     "topic": "Общение и мнения",
+     "sv": "Det är inte alltid lätt att erkänna att man har gjort ett misstag.",
+     "ru": "Не всегда легко признать, что совершил ошибку."
+    },
+    {
+     "id": "SFI-C-268",
+     "topic": "Общение и мнения",
+     "sv": "Även om jag inte håller med honom respekterar jag hans rätt att ha en annan åsikt.",
+     "ru": "Хотя я с ним не согласен, я уважаю его право иметь другое мнение."
+    },
+    {
+     "id": "SFI-C-269",
+     "topic": "Общение и мнения",
+     "sv": "Efter diskussionen kom vi överens om att undersöka frågan närmare.",
+     "ru": "После обсуждения мы договорились изучить вопрос более подробно."
+    },
+    {
+     "id": "SFI-C-270",
+     "topic": "Общение и мнения",
+     "sv": "Jag försöker skilja mellan vad jag själv tycker och vad som faktiskt har hänt.",
+     "ru": "Я стараюсь различать то, что я сам думаю, и то, что действительно произошло."
+    },
+    {
+     "id": "SFI-C-271",
+     "topic": "Государственные учреждения и права",
+     "sv": "Innan jag skickar in en ansökan kontrollerar jag att alla nödvändiga uppgifter finns med.",
+     "ru": "Перед отправкой заявления я проверяю, что в нём есть все необходимые сведения."
+    },
+    {
+     "id": "SFI-C-272",
+     "topic": "Государственные учреждения и права",
+     "sv": "Eftersom handläggningen kan ta flera veckor är det bra att skicka dokumenten i god tid.",
+     "ru": "Поскольку рассмотрение может занять несколько недель, лучше отправить документы заранее."
+    },
+    {
+     "id": "SFI-C-273",
+     "topic": "Государственные учреждения и права",
+     "sv": "Om jag får ett beslut som jag inte förstår ber jag om en tydligare förklaring.",
+     "ru": "Если я получаю решение, которое не понимаю, я прошу дать более понятное объяснение."
+    },
+    {
+     "id": "SFI-C-274",
+     "topic": "Государственные учреждения и права",
+     "sv": "På myndighetens webbplats kan man läsa vilka krav som gäller för olika ansökningar.",
+     "ru": "На сайте ведомства можно прочитать, какие требования действуют для разных заявлений."
+    },
+    {
+     "id": "SFI-C-275",
+     "topic": "Государственные учреждения и права",
+     "sv": "När mina kontaktuppgifter ändras behöver jag meddela de berörda myndigheterna.",
+     "ru": "Когда мои контактные данные меняются, мне нужно сообщить об этом соответствующим ведомствам."
+    },
+    {
+     "id": "SFI-C-276",
+     "topic": "Государственные учреждения и права",
+     "sv": "Jag sparar kopior av viktiga dokument så att jag kan visa dem vid behov.",
+     "ru": "Я сохраняю копии важных документов, чтобы при необходимости иметь возможность их показать."
+    },
+    {
+     "id": "SFI-C-277",
+     "topic": "Государственные учреждения и права",
+     "sv": "Eftersom informationen kunde tolkas på olika sätt kontaktade jag myndigheten för att få ett tydligt svar.",
+     "ru": "Поскольку информацию можно было истолковать по-разному , я связался с ведомством, чтобы получить ясный ответ."
+    },
+    {
+     "id": "SFI-C-278",
+     "topic": "Государственные учреждения и права",
+     "sv": "Det är viktigt att känna till både sina rättigheter och sina skyldigheter.",
+     "ru": "Важно знать как свои права, так и свои обязанности."
+    },
+    {
+     "id": "SFI-C-279",
+     "topic": "Государственные учреждения и права",
+     "sv": "Om man inte håller med om ett beslut kan det finnas möjlighet att begära en ny prövning.",
+     "ru": "Если человек не согласен с решением, может существовать возможность попросить о повторном рассмотрении."
+    },
+    {
+     "id": "SFI-C-280",
+     "topic": "Государственные учреждения и права",
+     "sv": "När människor får tydlig information blir det lättare för dem att fatta genomtänkta beslut.",
+     "ru": "Когда люди получают понятную информацию, им легче принимать обдуманные решения."
+    },
+    {
+     "id": "SFI-C-281",
+     "topic": "Технологии и безопасность информации",
+     "sv": "Innan jag laddar ner en fil kontrollerar jag om webbplatsen verkar vara pålitlig.",
+     "ru": "Перед тем как скачать файл, я проверяю, выглядит ли сайт надёжным."
+    },
+    {
+     "id": "SFI-C-282",
+     "topic": "Технологии и безопасность информации",
+     "sv": "Om någon ber mig lämna ut mitt lösenord delar jag inte den informationen.",
+     "ru": "Если кто-то просит меня сообщить пароль, я не передаю эту информацию."
+    },
+    {
+     "id": "SFI-C-283",
+     "topic": "Технологии и безопасность информации",
+     "sv": "Eftersom flera filer hade försvunnit behövde jag kontrollera min säkerhetskopia.",
+     "ru": "Поскольку несколько файлов пропали, мне пришлось проверить резервную копию."
+    },
+    {
+     "id": "SFI-C-284",
+     "topic": "Технологии и безопасность информации",
+     "sv": "När man använder offentliga nätverk bör man vara försiktig med vilka uppgifter man skickar.",
+     "ru": "При использовании общественных сетей следует быть осторожным с тем, какие данные отправляешь."
+    },
+    {
+     "id": "SFI-C-285",
+     "topic": "Технологии и безопасность информации",
+     "sv": "Jag försöker förstå hur ett digitalt verktyg fungerar innan jag använder det i ett viktigt projekt.",
+     "ru": "Я стараюсь понять, как работает цифровой инструмент, прежде чем использовать его в важном проекте."
+    },
+    {
+     "id": "SFI-C-286",
+     "topic": "Технологии и безопасность информации",
+     "sv": "Ett starkt lösenord minskar risken för att någon obehörig får tillgång till kontot.",
+     "ru": "Надёжный пароль снижает риск того, что посторонний получит доступ к учётной записи."
+    },
+    {
+     "id": "SFI-C-287",
+     "topic": "Технологии и безопасность информации",
+     "sv": "Om programmet inte fungerar efter uppdateringen kan det hjälpa att kontrollera inställningarna.",
+     "ru": "Если программа не работает после обновления, может помочь проверка настроек."
+    },
+    {
+     "id": "SFI-C-288",
+     "topic": "Технологии и безопасность информации",
+     "sv": "Jag blev mer försiktig efter att jag hade fått ett misstänkt mejl från en okänd avsändare.",
+     "ru": "Я стал осторожнее после того, как получил подозрительное письмо от неизвестного отправителя."
+    },
+    {
+     "id": "SFI-C-289",
+     "topic": "Технологии и безопасность информации",
+     "sv": "Även om en tjänst verkar praktisk bör man läsa igenom hur personuppgifterna används.",
+     "ru": "Даже если услуга кажется удобной, следует прочитать, как используются персональные данные."
+    },
+    {
+     "id": "SFI-C-290",
+     "topic": "Технологии и безопасность информации",
+     "sv": "Genom att organisera sina filer på ett tydligt sätt kan man spara mycket tid senare.",
+     "ru": "Благодаря тому, что файлы организованы понятным образом, впоследствии можно сэкономить много времени."
+    },
+    {
+     "id": "SFI-C-291",
+     "topic": "Опыт и решения",
+     "sv": "När jag började lära mig svenska förstod jag inte hur lång tid processen skulle ta.",
+     "ru": "Когда я начал учить шведский, я не понимал, сколько времени займёт этот процесс."
+    },
+    {
+     "id": "SFI-C-292",
+     "topic": "Опыт и решения",
+     "sv": "Jag har blivit bättre på att planera eftersom jag har lärt mig av tidigare misstag.",
+     "ru": "Я стал лучше планировать, потому что научился на прошлых ошибках."
+    },
+    {
+     "id": "SFI-C-293",
+     "topic": "Опыт и решения",
+     "sv": "Om jag hade mer tid skulle jag gärna läsa fler böcker på svenska.",
+     "ru": "Если бы у меня было больше времени, я бы с удовольствием читал больше книг на шведском."
+    },
+    {
+     "id": "SFI-C-294",
+     "topic": "Опыт и решения",
+     "sv": "Innan jag fattar ett viktigt beslut försöker jag väga fördelarna mot nackdelarna.",
+     "ru": "Прежде чем принять важное решение, я стараюсь сопоставить преимущества и недостатки."
+    },
+    {
+     "id": "SFI-C-295",
+     "topic": "Опыт и решения",
+     "sv": "Eftersom jag inte ville fatta ett förhastat beslut valde jag att vänta några dagar.",
+     "ru": "Поскольку я не хотел принимать поспешное решение, я решил подождать несколько дней."
+    },
+    {
+     "id": "SFI-C-296",
+     "topic": "Опыт и решения",
+     "sv": "Det jag har lärt mig hittills kommer förhoppningsvis att hjälpa mig i framtiden.",
+     "ru": "То, чему я научился до сих пор, надеюсь, поможет мне в будущем."
+    },
+    {
+     "id": "SFI-C-297",
+     "topic": "Опыт и решения",
+     "sv": "Även om jag ibland tvivlar på mig själv försöker jag fortsätta arbeta mot mina mål.",
+     "ru": "Хотя иногда я сомневаюсь в себе, я стараюсь продолжать двигаться к своим целям."
+    },
+    {
+     "id": "SFI-C-298",
+     "topic": "Опыт и решения",
+     "sv": "När jag jämför mina kunskaper med hur de var tidigare ser jag tydliga framsteg.",
+     "ru": "Когда я сравниваю свои знания с тем, какими они были раньше, я вижу явный прогресс."
+    },
+    {
+     "id": "SFI-C-299",
+     "topic": "Опыт и решения",
+     "sv": "Om en möjlighet passar mina långsiktiga mål är jag beredd att lägga ner extra arbete.",
+     "ru": "Если возможность соответствует моим долгосрочным целям, я готов приложить дополнительные усилия."
+    },
+    {
+     "id": "SFI-C-300",
+     "topic": "Опыт и решения",
+     "sv": "Jag har förstått att utveckling inte alltid går snabbt, men att regelbundet arbete ger resultat.",
+     "ru": "Я понял, что развитие не всегда происходит быстро, но регулярная работа приносит результаты."
+    },
+    {
+     "id": "SFI-C-301",
+     "topic": "Планирование и приоритеты",
+     "sv": "När jag har flera viktiga uppgifter försöker jag prioritera dem efter hur brådskande de är.",
+     "ru": "Когда у меня несколько важных задач, я стараюсь расставлять их по степени срочности."
+    },
+    {
+     "id": "SFI-C-302",
+     "topic": "Планирование и приоритеты",
+     "sv": "Eftersom tiden var begränsad behövde vi bestämma vilka delar av projektet som skulle göras först.",
+     "ru": "Поскольку время было ограничено, нам пришлось решить, какие части проекта нужно выполнить в первую очередь."
+    },
+    {
+     "id": "SFI-C-303",
+     "topic": "Планирование и приоритеты",
+     "sv": "Om jag planerar för mycket på en dag finns det risk att jag inte hinner med allt.",
+     "ru": "Если я планирую слишком много на один день, есть риск, что я не успею всё выполнить."
+    },
+    {
+     "id": "SFI-C-304",
+     "topic": "Планирование и приоритеты",
+     "sv": "Det är bättre att göra några uppgifter ordentligt än att försöka göra allting samtidigt.",
+     "ru": "Лучше выполнить несколько задач качественно, чем пытаться делать всё одновременно."
+    },
+    {
+     "id": "SFI-C-305",
+     "topic": "Планирование и приоритеты",
+     "sv": "När något oväntat inträffar behöver man ibland ompröva sina tidigare planer.",
+     "ru": "Когда происходит что-то неожиданное, иногда приходится пересматривать прежние планы."
+    },
+    {
+     "id": "SFI-C-306",
+     "topic": "Планирование и приоритеты",
+     "sv": "Jag försöker lämna lite extra tid mellan aktiviteterna så att jag inte behöver skynda mig.",
+     "ru": "Я стараюсь оставлять немного дополнительного времени между занятиями, чтобы не приходилось торопиться."
+    },
+    {
+     "id": "SFI-C-307",
+     "topic": "Планирование и приоритеты",
+     "sv": "Även om jag hade planerat hela dagen fick jag ändra schemat på grund av ett viktigt samtal.",
+     "ru": "Хотя я спланировал весь день, мне пришлось изменить расписание и з -з а важного звонка."
+    },
+    {
+     "id": "SFI-C-308",
+     "topic": "Планирование и приоритеты",
+     "sv": "Genom att dela upp ett stort arbete i mindre delar blir det lättare att komma igång.",
+     "ru": "Разделив большую работу на небольшие части, легче приступить к ней."
+    },
+    {
+     "id": "SFI-C-309",
+     "topic": "Планирование и приоритеты",
+     "sv": "Om jag märker att en plan inte fungerar försöker jag hitta ett mer praktiskt alternativ.",
+     "ru": "Если я замечаю, что план не работает, я стараюсь найти более практичную альтернативу."
+    },
+    {
+     "id": "SFI-C-310",
+     "topic": "Планирование и приоритеты",
+     "sv": "När jag har avslutat dagens viktigaste uppgifter kan jag ägna mer tid åt sådant som jag tycker om.",
+     "ru": "Когда я заканчиваю самые важные дела на день, я могу уделить больше времени тому, что мне нравится."
+    },
+    {
+     "id": "SFI-C-311",
+     "topic": "Образование и возможности",
+     "sv": "Innan jag söker till en utbildning behöver jag kontrollera vilka förkunskaper som krävs.",
+     "ru": "Перед поступлением на обучение мне нужно проверить, какие предварительные знания требуются."
+    },
+    {
+     "id": "SFI-C-312",
+     "topic": "Образование и возможности",
+     "sv": "Eftersom utbildningen innehåller både teori och praktik får deltagarna använda sina kunskaper i verkliga situationer.",
+     "ru": "Поскольку обучение включает и теорию, и практику, участники могут применять свои знания в реальных ситуациях."
+    },
+    {
+     "id": "SFI-C-313",
+     "topic": "Образование и возможности",
+     "sv": "Jag vill välja en utbildning som ger mig möjlighet att utvecklas inom ett område som intresserar mig.",
+     "ru": "Я хочу выбрать обучение, которое даст мне возможность развиваться в интересующей меня области."
+    },
+    {
+     "id": "SFI-C-314",
+     "topic": "Образование и возможности",
+     "sv": "Om jag inte uppfyller alla behörighetskrav behöver jag undersöka vilka kompletteringar som är möjliga.",
+     "ru": "Если я не соответствую всем требованиям для поступления, мне нужно выяснить, какие дополнительные курсы можно пройти."
+    },
+    {
+     "id": "SFI-C-315",
+     "topic": "Образование и возможности",
+     "sv": "När man studerar på egen hand är det viktigt att kunna hålla fast vid sina rutiner.",
+     "ru": "Когда учишься самостоятельно, важно уметь придерживаться своего распорядка."
+    },
+    {
+     "id": "SFI-C-316",
+     "topic": "Образование и возможности",
+     "sv": "Läraren förklarade vilka kunskaper vi behövde visa för att bli godkända på kursen.",
+     "ru": "Преподаватель объяснил, какие знания нам нужно продемонстрировать, чтобы успешно завершить курс."
+    },
+    {
+     "id": "SFI-C-317",
+     "topic": "Образование и возможности",
+     "sv": "Även om ämnet var nytt för mig lyckades jag förstå grunderna efter några veckors övning.",
+     "ru": "Хотя предмет был для меня новым, мне удалось понять основы после нескольких недель практики."
+    },
+    {
+     "id": "SFI-C-318",
+     "topic": "Образование и возможности",
+     "sv": "Jag tycker att praktiska uppgifter är värdefulla eftersom de visar hur kunskaper kan användas.",
+     "ru": "Я считаю практические задания полезными, потому что они показывают, как можно применять знания."
+    },
+    {
+     "id": "SFI-C-319",
+     "topic": "Образование и возможности",
+     "sv": "Om jag får tillräckligt med tid kan jag fördjupa mig i de delar som jag tycker är svårast.",
+     "ru": "Если у меня будет достаточно времени, я смогу углубиться в те части, которые считаю самыми сложными."
+    },
+    {
+     "id": "SFI-C-320",
+     "topic": "Образование и возможности",
+     "sv": "En utbildning kan öppna nya möjligheter, men det krävs också eget arbete för att nå sina mål.",
+     "ru": "Обучение может открыть новые возможности, но для достижения целей также требуется собственная работа."
+    },
+    {
+     "id": "SFI-C-321",
+     "topic": "Работа и развитие",
+     "sv": "Många arbetsgivare uppskattar medarbetare som kan ta initiativ och lösa problem självständigt.",
+     "ru": "Многие работодатели ценят сотрудников, которые могут проявлять инициативу и самостоятельно решать проблемы."
+    },
+    {
+     "id": "SFI-C-322",
+     "topic": "Работа и развитие",
+     "sv": "Om arbetsuppgifterna förändras behöver personalen ibland lära sig nya metoder.",
+     "ru": "Если рабочие обязанности меняются, сотрудникам иногда приходится осваивать новые методы."
+    },
+    {
+     "id": "SFI-C-323",
+     "topic": "Работа и развитие",
+     "sv": "Eftersom företaget hade fått fler kunder behövde det anställa ytterligare personal.",
+     "ru": "Поскольку компания получила больше клиентов, ей пришлось нанять дополнительных сотрудников."
+    },
+    {
+     "id": "SFI-C-324",
+     "topic": "Работа и развитие",
+     "sv": "När man söker arbete är det viktigt att kunna beskriva både sina kunskaper och sina erfarenheter.",
+     "ru": "При поиске работы важно уметь описывать как свои знания, так и свой опыт."
+    },
+    {
+     "id": "SFI-C-325",
+     "topic": "Работа и развитие",
+     "sv": "Jag tror att en bra arbetsmiljö påverkar både motivationen och resultatet.",
+     "ru": "Я думаю, что хорошая рабочая атмосфера влияет и на мотивацию, и на результат."
+    },
+    {
+     "id": "SFI-C-326",
+     "topic": "Работа и развитие",
+     "sv": "Även om arbetsuppgifterna är tydliga kan det uppstå situationer där man behöver fatta egna beslut.",
+     "ru": "Даже если рабочие обязанности понятны, могут возникать ситуации, в которых нужно принимать самостоятельные решения."
+    },
+    {
+     "id": "SFI-C-327",
+     "topic": "Работа и развитие",
+     "sv": "Innan en ny rutin införs bör man förklara varför förändringen behövs.",
+     "ru": "Перед введением нового рабочего процесса следует объяснить, почему это изменение необходимо."
+    },
+    {
+     "id": "SFI-C-328",
+     "topic": "Работа и развитие",
+     "sv": "När medarbetarna får möjlighet att påverka arbetet kan engagemanget öka.",
+     "ru": "Когда сотрудники получают возможность влиять на работу, их вовлечённость может возрасти."
+    },
+    {
+     "id": "SFI-C-329",
+     "topic": "Работа и развитие",
+     "sv": "Om någon gör ett misstag är det viktigt att undersöka orsaken innan man bestämmer hur problemet ska lösas.",
+     "ru": "Если кто-то совершает ошибку, важно выяснить причину, прежде чем решать, как устранить проблему."
+    },
+    {
+     "id": "SFI-C-330",
+     "topic": "Работа и развитие",
+     "sv": "En person som är villig att lära sig nya saker kan utvecklas även när arbetsuppgifterna förändras.",
+     "ru": "Человек, готовый учиться новому, может развиваться даже тогда, когда рабочие обязанности меняются."
+    },
+    {
+     "id": "SFI-C-331",
+     "topic": "Жильё и общественные вопросы",
+     "sv": "Många människor väljer att bo utanför centrum eftersom bostäderna ofta är billigare där.",
+     "ru": "Многие люди выбирают жильё за пределами центра, потому что там квартиры часто дешевле."
+    },
+    {
+     "id": "SFI-C-332",
+     "topic": "Жильё и общественные вопросы",
+     "sv": "Om det byggs fler bostäder kan det på sikt bli lättare att hitta en lägenhet.",
+     "ru": "Если построят больше жилья, в долгосрочной перспективе может стать легче найти квартиру."
+    },
+    {
+     "id": "SFI-C-333",
+     "topic": "Жильё и общественные вопросы",
+     "sv": "Eftersom bostadspriserna varierar mellan olika områden är det viktigt att jämföra flera alternativ.",
+     "ru": "Поскольку цены на жильё различаются в разных районах, важно сравнивать несколько вариантов."
+    },
+    {
+     "id": "SFI-C-334",
+     "topic": "Жильё и общественные вопросы",
+     "sv": "När människor har långt till arbetet kan restiden påverka deras vardag ganska mycket.",
+     "ru": "Когда люди живут далеко от работы, время в пути может довольно сильно влиять на их повседневную жизнь."
+    },
+    {
+     "id": "SFI-C-335",
+     "topic": "Жильё и общественные вопросы",
+     "sv": "Jag tycker att det är viktigt att det finns både bostäder och service i ett område.",
+     "ru": "Я считаю важным, чтобы в районе были и жильё, и необходимые услуги."
+    },
+    {
+     "id": "SFI-C-336",
+     "topic": "Жильё и общественные вопросы",
+     "sv": "Om hyrorna fortsätter att stiga kan vissa hushåll få svårt att klara sina kostnader.",
+     "ru": "Если арендная плата продолжит расти, некоторым домохозяйствам может стать трудно справляться с расходами."
+    },
+    {
+     "id": "SFI-C-337",
+     "topic": "Жильё и общественные вопросы",
+     "sv": "En välplanerad stad behöver både grönområden och bra möjligheter till kollektivtrafik.",
+     "ru": "Хорошо спланированному городу нужны и зелёные зоны, и хорошие возможности пользоваться общественным транспортом."
+    },
+    {
+     "id": "SFI-C-338",
+     "topic": "Жильё и общественные вопросы",
+     "sv": "Eftersom många människor arbetar på olika platser behöver transporterna fungera under hela dagen.",
+     "ru": "Поскольку многие люди работают в разных местах, транспорт должен работать в течение всего дня."
+    },
+    {
+     "id": "SFI-C-339",
+     "topic": "Жильё и общественные вопросы",
+     "sv": "Det kan vara svårt att hitta en bostad som både passar ens ekonomi och ligger på rätt plats.",
+     "ru": "Может быть трудно найти жильё, которое одновременно подходит по бюджету и находится в подходящем месте."
+    },
+    {
+     "id": "SFI-C-340",
+     "topic": "Жильё и общественные вопросы",
+     "sv": "När ett område förändras behöver man också tänka på hur förändringen påverkar dem som redan bor där.",
+     "ru": "Когда район меняется, нужно также думать о том, как эти изменения влияют на тех, кто уже там живёт."
+    },
+    {
+     "id": "SFI-C-341",
+     "topic": "Здоровье и качество жизни",
+     "sv": "Jag tror att regelbunden motion kan bidra till att man känner sig piggare i vardagen.",
+     "ru": "Я думаю, что регулярная физическая активность может помочь чувствовать себя бодрее в повседневной жизни."
+    },
+    {
+     "id": "SFI-C-342",
+     "topic": "Здоровье и качество жизни",
+     "sv": "Om man ignorerar långvariga besvär kan det ibland bli svårare att hitta orsaken.",
+     "ru": "Если игнорировать длительные недомогания, иногда может стать труднее найти их причину."
+    },
+    {
+     "id": "SFI-C-343",
+     "topic": "Здоровье и качество жизни",
+     "sv": "Eftersom sömn påverkar koncentrationen är det viktigt att försöka få tillräckligt med vila.",
+     "ru": "Поскольку сон влияет на концентрацию, важно стараться достаточно отдыхать."
+    },
+    {
+     "id": "SFI-C-344",
+     "topic": "Здоровье и качество жизни",
+     "sv": "När människor har mycket att göra glömmer de ibland bort att ta hand om sin hälsa.",
+     "ru": "Когда у людей много дел, они иногда забывают заботиться о своём здоровье."
+    },
+    {
+     "id": "SFI-C-345",
+     "topic": "Здоровье и качество жизни",
+     "sv": "En hälsosam livsstil handlar inte bara om träning utan också om sömn och återhämtning.",
+     "ru": "Здоровый образ жизни связан не только с тренировками, но и со сном и восстановлением."
+    },
+    {
+     "id": "SFI-C-346",
+     "topic": "Здоровье и качество жизни",
+     "sv": "Även om man inte kan undvika all stress kan man lära sig att hantera den bättre.",
+     "ru": "Хотя невозможно избежать всего стресса, можно научиться лучше с ним справляться."
+    },
+    {
+     "id": "SFI-C-347",
+     "topic": "Здоровье и качество жизни",
+     "sv": "Om jag känner mig trött under en längre period försöker jag förstå vad som behöver förändras.",
+     "ru": "Если я чувствую усталость в течение длительного времени, я стараюсь понять, что нужно изменить."
+    },
+    {
+     "id": "SFI-C-348",
+     "topic": "Здоровье и качество жизни",
+     "sv": "Det är lättare att må bra när man har tid för både arbete och vila.",
+     "ru": "Легче чувствовать себя хорошо, когда есть время и для работы, и для отдыха."
+    },
+    {
+     "id": "SFI-C-349",
+     "topic": "Здоровье и качество жизни",
+     "sv": "När man tar små steg i rätt riktning kan det bli lättare att behålla motivationen.",
+     "ru": "Когда делаешь небольшие шаги в правильном направлении, может стать легче сохранять мотивацию."
+    },
+    {
+     "id": "SFI-C-350",
+     "topic": "Здоровье и качество жизни",
+     "sv": "Jag har förstått att välbefinnande påverkas av flera olika faktorer som tillsammans formar vår vardag.",
+     "ru": "Я понял, что на самочувствие влияет несколько разных факторов, которые вместе формируют нашу повседневную жизнь."
+    },
+    {
+     "id": "SFI-C-351",
+     "topic": "Окружающая среда и устойчивое развитие",
+     "sv": "Om fler människor väljer att cykla eller åka kollektivt kan utsläppen från trafiken minska.",
+     "ru": "Если больше людей будут выбирать велосипед или общественный транспорт, выбросы от транспорта могут сократиться."
+    },
+    {
+     "id": "SFI-C-352",
+     "topic": "Окружающая среда и устойчивое развитие",
+     "sv": "Eftersom många produkter innehåller onödiga förpackningar försöker jag välja alternativ med mindre avfall.",
+     "ru": "Поскольку многие товары имеют ненужную упаковку, я стараюсь выбирать варианты с меньшим количеством отходов."
+    },
+    {
+     "id": "SFI-C-353",
+     "topic": "Окружающая среда и устойчивое развитие",
+     "sv": "När vi sorterar avfall kan material som glas, papper och metall användas igen.",
+     "ru": "Когда мы сортируем отходы, такие материалы, как стекло, бумага и металл, можно использовать повторно."
+    },
+    {
+     "id": "SFI-C-354",
+     "topic": "Окружающая среда и устойчивое развитие",
+     "sv": "Det är viktigt att spara energi även om den enskilda förändringen verkar liten.",
+     "ru": "Важно экономить энергию, даже если отдельное изменение кажется незначительным."
+    },
+    {
+     "id": "SFI-C-355",
+     "topic": "Окружающая среда и устойчивое развитие",
+     "sv": "Om människor blir mer medvetna om sin konsumtion kan de göra mer hållbara val.",
+     "ru": "Если люди станут более осознанно относиться к своему потреблению, они смогут делать более экологичные выборы."
+    },
+    {
+     "id": "SFI-C-356",
+     "topic": "Окружающая среда и устойчивое развитие",
+     "sv": "Många kommuner arbetar för att förbättra återvinningen och minska mängden avfall.",
+     "ru": "Многие муниципалитеты работают над улучшением переработки и сокращением количества отходов."
+    },
+    {
+     "id": "SFI-C-357",
+     "topic": "Окружающая среда и устойчивое развитие",
+     "sv": "Eftersom naturresurserna inte är obegränsade behöver vi använda dem på ett ansvarsfullt sätt.",
+     "ru": "Поскольку природные ресурсы не безграничны, нам нужно использовать их ответственно."
+    },
+    {
+     "id": "SFI-C-358",
+     "topic": "Окружающая среда и устойчивое развитие",
+     "sv": "Även om det kan vara bekvämare att köpa nytt går det ibland att reparera det man redan har.",
+     "ru": "Хотя купить новое может быть удобнее, иногда можно отремонтировать то, что уже есть."
+    },
+    {
+     "id": "SFI-C-359",
+     "topic": "Окружающая среда и устойчивое развитие",
+     "sv": "När människor samarbetar kan även små insatser bidra till en större förändring.",
+     "ru": "Когда люди сотрудничают, даже небольшие усилия могут способствовать большим переменам."
+    },
+    {
+     "id": "SFI-C-360",
+     "topic": "Окружающая среда и устойчивое развитие",
+     "sv": "Jag tycker att miljöfrågor behöver diskuteras eftersom de påverkar både dagens samhälle och framtida generationer.",
+     "ru": "Я считаю, что экологические вопросы нужно обсуждать, потому что они влияют и на современное общество, и на будущие поколения."
+    },
+    {
+     "id": "SFI-C-361",
+     "topic": "Мнения и аргументация",
+     "sv": "Jag anser att distansarbete kan vara en bra lösning för personer som behöver mer flexibilitet.",
+     "ru": "Я считаю, что удалённая работа может быть хорошим решением для людей, которым нужна большая гибкость."
+    },
+    {
+     "id": "SFI-C-362",
+     "topic": "Мнения и аргументация",
+     "sv": "Man sparar tid när man arbetar hemifrån, men samarbetet kan bli svårare.",
+     "ru": "Когда работаешь из дома, экономишь время, но сотрудничать может быть труднее."
+    },
+    {
+     "id": "SFI-C-363",
+     "topic": "Мнения и аргументация",
+     "sv": "Eftersom olika människor har olika behov finns det sällan en lösning som passar alla.",
+     "ru": "Поскольку у разных людей разные потребности, редко существует решение, подходящее всем."
+    },
+    {
+     "id": "SFI-C-364",
+     "topic": "Мнения и аргументация",
+     "sv": "Jag håller med om att tekniken gör vardagen enklare, men den kan också skapa nya problem.",
+     "ru": "Я согласен с тем, что технологии облегчают повседневную жизнь, но они также могут создавать новые проблемы."
+    },
+    {
+     "id": "SFI-C-365",
+     "topic": "Мнения и аргументация",
+     "sv": "Om man bara ser fördelarna med ett förslag riskerar man att missa viktiga nackdelar.",
+     "ru": "Если видеть только преимущества предложения, есть риск упустить важные недостатки."
+    },
+    {
+     "id": "SFI-C-366",
+     "topic": "Мнения и аргументация",
+     "sv": "Enligt min uppfattning bör man undersöka flera alternativ innan man fattar ett slutgiltigt beslut.",
+     "ru": "По моему мнению, следует изучить несколько вариантов, прежде чем принимать окончательное решение."
+    },
+    {
+     "id": "SFI-C-367",
+     "topic": "Мнения и аргументация",
+     "sv": "Det finns flera skäl till att människor väljer olika vägar, även när de har samma mål.",
+     "ru": "Есть несколько причин, по которым люди выбирают разные пути, даже когда у них одна и та же цель."
+    },
+    {
+     "id": "SFI-C-368",
+     "topic": "Мнения и аргументация",
+     "sv": "Även om argumentet låter övertygande behöver man kontrollera om det bygger på fakta.",
+     "ru": "Даже если аргумент звучит убедительно, нужно проверить, основан ли он на фактах."
+    },
+    {
+     "id": "SFI-C-369",
+     "topic": "Мнения и аргументация",
+     "sv": "Jag tycker att fördelarna väger tyngre än nackdelarna eftersom lösningen kan hjälpa många människor.",
+     "ru": "Я считаю, что преимущества перевешивают недостатки, поскольку это решение может помочь многим людям."
+    },
+    {
+     "id": "SFI-C-370",
+     "topic": "Мнения и аргументация",
+     "sv": "För att kunna bilda sig en egen uppfattning behöver man ta del av information från flera håll.",
+     "ru": "Чтобы сформировать собственное мнение, нужно ознакомиться с информацией из нескольких источников."
+    },
+    {
+     "id": "SFI-C-371",
+     "topic": "Технологии и будущее",
+     "sv": "Den tekniska utvecklingen har förändrat hur människor kommunicerar, arbetar och lär sig nya saker.",
+     "ru": "Технологическое развитие изменило то, как люди общаются, работают и учатся новому."
+    },
+    {
+     "id": "SFI-C-372",
+     "topic": "Технологии и будущее",
+     "sv": "Om företag använder ny teknik på rätt sätt kan arbetet bli både snabbare och mer effektivt.",
+     "ru": "Если компании правильно используют новые технологии, работа может стать и быстрее, и эффективнее."
+    },
+    {
+     "id": "SFI-C-373",
+     "topic": "Технологии и будущее",
+     "sv": "Eftersom automatisering kan förändra vissa yrken behöver människor ibland utveckla nya färdigheter.",
+     "ru": "Поскольку автоматизация может изменить некоторые профессии, людям иногда приходится развивать новые навыки."
+    },
+    {
+     "id": "SFI-C-374",
+     "topic": "Технологии и будущее",
+     "sv": "När man använder artificiell intelligens är det viktigt att kontrollera resultatet och inte lita blint på det.",
+     "ru": "При использовании искусственного интеллекта важно проверять результат и не доверять ему слепо."
+    },
+    {
+     "id": "SFI-C-375",
+     "topic": "Технологии и будущее",
+     "sv": "Tekniken kan hjälpa oss att lösa problem, men den kan inte alltid ersätta mänskligt omdöme.",
+     "ru": "Технологии могут помочь нам решать проблемы, но они не всегда могут заменить человеческое суждение."
+    },
+    {
+     "id": "SFI-C-376",
+     "topic": "Технологии и будущее",
+     "sv": "Om digitala tjänster blir enklare att använda kan fler människor få tillgång till dem.",
+     "ru": "Если цифровыми услугами станет проще пользоваться, больше людей смогут получить к ним доступ."
+    },
+    {
+     "id": "SFI-C-377",
+     "topic": "Технологии и будущее",
+     "sv": "Jag tror att framtidens arbetsmarknad kommer att kräva att människor fortsätter lära sig under hela livet.",
+     "ru": "Я думаю, что рынок труда будущего потребует от людей продолжать учиться на протяжении всей жизни."
+    },
+    {
+     "id": "SFI-C-378",
+     "topic": "Технологии и будущее",
+     "sv": "Även om nya verktyg kan spara tid behöver man förstå deras begränsningar.",
+     "ru": "Хотя новые инструменты могут экономить время, нужно понимать их ограничения."
+    },
+    {
+     "id": "SFI-C-379",
+     "topic": "Технологии и будущее",
+     "sv": "Det är viktigt att barn och vuxna lär sig att skilja mellan tillförlitlig information och falska påståenden.",
+     "ru": "Важно, чтобы и дети, и взрослые учились отличать надёжную информацию от ложных утверждений."
+    },
+    {
+     "id": "SFI-C-380",
+     "topic": "Технологии и будущее",
+     "sv": "När tekniken utvecklas snabbt behöver samhället också diskutera vilka regler som bör gälla.",
+     "ru": "Когда технологии быстро развиваются, обществу также необходимо обсуждать, какие правила должны действовать."
+    },
+    {
+     "id": "SFI-C-381",
+     "topic": "Опыт и изменения",
+     "sv": "När jag tänker på hur mitt liv har förändrats inser jag att jag har blivit mer självständig.",
+     "ru": "Когда я думаю о том, как изменилась моя жизнь, я понимаю, что стал более самостоятельным."
+    },
+    {
+     "id": "SFI-C-382",
+     "topic": "Опыт и изменения",
+     "sv": "Eftersom jag hade mött flera svårigheter hade jag lärt mig att vara mer tålmodig.",
+     "ru": "Поскольку я столкнулся с несколькими трудностями, я научился быть более терпеливым."
+    },
+    {
+     "id": "SFI-C-383",
+     "topic": "Опыт и изменения",
+     "sv": "Om jag hade haft mer erfarenhet då skulle jag kanske ha valt en annan lösning.",
+     "ru": "Если бы тогда у меня было больше опыта, возможно, я бы выбрал другое решение."
+    },
+    {
+     "id": "SFI-C-384",
+     "topic": "Опыт и изменения",
+     "sv": "Det som först verkade omöjligt blev lättare när jag delade upp arbetet i mindre steg.",
+     "ru": "То, что сначала казалось невозможным, стало легче, когда я разделил работу на небольшие этапы."
+    },
+    {
+     "id": "SFI-C-385",
+     "topic": "Опыт и изменения",
+     "sv": "Jag har förstått att framgång inte alltid betyder att man når sitt mål direkt.",
+     "ru": "Я понял, что успех не всегда означает, что ты достигаешь цели сразу."
+    },
+    {
+     "id": "SFI-C-386",
+     "topic": "Опыт и изменения",
+     "sv": "Även om jag inte alltid vet vad som väntar försöker jag vara öppen för nya möjligheter.",
+     "ru": "Хотя я не всегда знаю, что меня ждёт, я стараюсь быть открытым к новым возможностям."
+    },
+    {
+     "id": "SFI-C-387",
+     "topic": "Опыт и изменения",
+     "sv": "När något inte går som jag tänkt försöker jag se vad jag kan lära mig.",
+     "ru": "Когда что-то идёт не так, как я думал, я стараюсь понять, чему могу научиться."
+    },
+    {
+     "id": "SFI-C-388",
+     "topic": "Опыт и изменения",
+     "sv": "Om jag får möjlighet att börja om skulle jag använda mina tidigare erfarenheter på ett annat sätt.",
+     "ru": "Если бы у меня появилась возможность начать заново, я бы по-другому использовал свой предыдущий опыт."
+    },
+    {
+     "id": "SFI-C-389",
+     "topic": "Опыт и изменения",
+     "sv": "Det är ofta först efter en förändring som man förstår hur viktig den har varit.",
+     "ru": "Часто только после перемен понимаешь, насколько важными они были."
+    },
+    {
+     "id": "SFI-C-390",
+     "topic": "Опыт и изменения",
+     "sv": "Jag försöker se framtiden som en möjlighet att fortsätta utvecklas snarare än något att vara rädd för.",
+     "ru": "Я стараюсь воспринимать будущее как возможность продолжать развиваться, а не как то, чего нужно бояться."
+    },
+    {
+     "id": "SFI-C-391",
+     "topic": "Будущее, цели и ответственность",
+     "sv": "För att nå långsiktiga mål behöver man ibland acceptera att resultaten kommer stegvis.",
+     "ru": "Чтобы достичь долгосрочных целей, иногда нужно принять, что результаты будут появляться постепенно."
+    },
+    {
+     "id": "SFI-C-392",
+     "topic": "Будущее, цели и ответственность",
+     "sv": "Om jag hade möjlighet att välja fritt skulle jag gärna arbeta med något som kombinerar teknik och kreativitet.",
+     "ru": "Если бы у меня была возможность свободно выбирать, я бы с удовольствием работал в области, которая сочетает технологии и творчество."
+    },
+    {
+     "id": "SFI-C-393",
+     "topic": "Будущее, цели и ответственность",
+     "sv": "Eftersom samhället förändras behöver människor vara beredda att anpassa sina kunskaper.",
+     "ru": "Поскольку общество меняется, люди должны быть готовы адаптировать свои знания."
+    },
+    {
+     "id": "SFI-C-394",
+     "topic": "Будущее, цели и ответственность",
+     "sv": "Jag tror att man måste ta ansvar för sina val även när resultatet blir sämre.",
+     "ru": "Я думаю, что нужно отвечать за свои решения, даже когда результат хуже."
+    },
+    {
+     "id": "SFI-C-395",
+     "topic": "Будущее, цели и ответственность",
+     "sv": "När jag har nått ett mål vill jag sätta upp ett nytt.",
+     "ru": "Когда я достигаю цели, я хочу поставить новую."
+    },
+    {
+     "id": "SFI-C-396",
+     "topic": "Будущее, цели и ответственность",
+     "sv": "Även om framtiden är osäker kan man förbereda sig genom att utveckla sina kunskaper och färdigheter.",
+     "ru": "Хотя будущее неопределённо, можно подготовиться к нему, развивая свои знания и навыки."
+    },
+    {
+     "id": "SFI-C-397",
+     "topic": "Будущее, цели и ответственность",
+     "sv": "Om fler människor får möjlighet att utbilda sig kan det bidra till ett mer öppet och välfungerande samhälle.",
+     "ru": "Если больше людей получат возможность учиться, это может способствовать созданию более открытого и хорошо функционирующего общества."
+    },
+    {
+     "id": "SFI-C-398",
+     "topic": "Будущее, цели и ответственность",
+     "sv": "Det är bättre att gå framåt jämnt än att försöka ändra allt på en gång.",
+     "ru": "Лучше двигаться вперёд ровным темпом, чем пытаться всё поменять сразу."
+    },
+    {
+     "id": "SFI-C-399",
+     "topic": "Будущее, цели и ответственность",
+     "sv": "Det viktigaste är att kunna använda sina erfarenheter för att fatta bättre beslut i framtiden.",
+     "ru": "Самое важное —уметь использовать свой опыт, чтобы принимать более правильные решения в будущем."
+    },
+    {
+     "id": "SFI-C-400",
+     "topic": "Будущее, цели и ответственность",
+     "sv": "När jag ser tillbaka förstår jag att varje steg har bidragit till min utveckling.",
+     "ru": "Когда я оглядываюсь назад, понимаю, что каждый шаг внёс вклад в моё развитие."
+    }
+   ]
+  }
+ ]
+}

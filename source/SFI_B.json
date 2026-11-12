@@ -1,0 +1,2421 @@
+{
+ "title": "SFI B — 400 meningar",
+ "language": {
+  "sv": "Swedish",
+  "ru": "Russian"
+ },
+ "levels": [
+  {
+   "code": "B1",
+   "name": "SFI B, предложения 1–200",
+   "sentences": [
+    {
+     "id": "SFI-B-001",
+     "topic": "Повседневная жизнь",
+     "sv": "Anna bor i en liten lägenhet.",
+     "ru": "Анна живёт в небольшой квартире."
+    },
+    {
+     "id": "SFI-B-002",
+     "topic": "Повседневная жизнь",
+     "sv": "Hon vaknar klockan sju varje morgon.",
+     "ru": "Она просыпается каждое утро в семь часов."
+    },
+    {
+     "id": "SFI-B-003",
+     "topic": "Повседневная жизнь",
+     "sv": "Hon går upp och öppnar fönstret.",
+     "ru": "Она встаёт и открывает окно."
+    },
+    {
+     "id": "SFI-B-004",
+     "topic": "Повседневная жизнь",
+     "sv": "Sedan tvättar hon ansiktet.",
+     "ru": "Затем она умывает лицо."
+    },
+    {
+     "id": "SFI-B-005",
+     "topic": "Повседневная жизнь",
+     "sv": "Hon äter frukost i köket.",
+     "ru": "Она завтракает на кухне."
+    },
+    {
+     "id": "SFI-B-006",
+     "topic": "Повседневная жизнь",
+     "sv": "Kaffet står på bordet.",
+     "ru": "Кофе стоит на столе."
+    },
+    {
+     "id": "SFI-B-007",
+     "topic": "Повседневная жизнь",
+     "sv": "Anna läser dagens nyheter.",
+     "ru": "Анна читает сегодняшние новости."
+    },
+    {
+     "id": "SFI-B-008",
+     "topic": "Повседневная жизнь",
+     "sv": "Klockan åtta går hon hemifrån.",
+     "ru": "В восемь часов она выходит из дома."
+    },
+    {
+     "id": "SFI-B-009",
+     "topic": "Повседневная жизнь",
+     "sv": "Hon tar bussen till arbetet.",
+     "ru": "Она едет на работу на автобусе."
+    },
+    {
+     "id": "SFI-B-010",
+     "topic": "Повседневная жизнь",
+     "sv": "Arbetsdagen börjar klockan nio.",
+     "ru": "Рабочий день начинается в девять часов."
+    },
+    {
+     "id": "SFI-B-011",
+     "topic": "Дома",
+     "sv": "David bor tillsammans med sin familj.",
+     "ru": "Давид живёт вместе со своей семьёй."
+    },
+    {
+     "id": "SFI-B-012",
+     "topic": "Дома",
+     "sv": "Familjen har ett stort kök.",
+     "ru": "У семьи большая кухня."
+    },
+    {
+     "id": "SFI-B-013",
+     "topic": "Дома",
+     "sv": "Soffan står framför tv:n.",
+     "ru": "Диван стоит перед телевизором."
+    },
+    {
+     "id": "SFI-B-014",
+     "topic": "Дома",
+     "sv": "Barnens rum ligger på övervåningen.",
+     "ru": "Детские комнаты находятся на верхнем этаже."
+    },
+    {
+     "id": "SFI-B-015",
+     "topic": "Дома",
+     "sv": "Mamman lagar middag varje kväll.",
+     "ru": "Мама готовит ужин каждый вечер."
+    },
+    {
+     "id": "SFI-B-016",
+     "topic": "Дома",
+     "sv": "Pappan diskar efter maten.",
+     "ru": "Папа моет посуду после еды."
+    },
+    {
+     "id": "SFI-B-017",
+     "topic": "Дома",
+     "sv": "Barnen leker i vardagsrummet.",
+     "ru": "Дети играют в гостиной."
+    },
+    {
+     "id": "SFI-B-018",
+     "topic": "Дома",
+     "sv": "Hunden sover under bordet.",
+     "ru": "Собака спит под столом."
+    },
+    {
+     "id": "SFI-B-019",
+     "topic": "Дома",
+     "sv": "Familjen äter middag tillsammans.",
+     "ru": "Семья ужинает вместе."
+    },
+    {
+     "id": "SFI-B-020",
+     "topic": "Дома",
+     "sv": "På kvällen tittar de på tv.",
+     "ru": "Вечером они смотрят телевизор."
+    },
+    {
+     "id": "SFI-B-021",
+     "topic": "В городе",
+     "sv": "Erik arbetar i centrum.",
+     "ru": "Эрик работает в центре города."
+    },
+    {
+     "id": "SFI-B-022",
+     "topic": "В городе",
+     "sv": "Hans kontor ligger nära stationen.",
+     "ru": "Его офис находится недалеко от вокзала."
+    },
+    {
+     "id": "SFI-B-023",
+     "topic": "В городе",
+     "sv": "På torget finns en stor fontän.",
+     "ru": "На площади есть большой фонтан."
+    },
+    {
+     "id": "SFI-B-024",
+     "topic": "В городе",
+     "sv": "Många människor går genom centrum.",
+     "ru": "Многие люди проходят через центр."
+    },
+    {
+     "id": "SFI-B-025",
+     "topic": "В городе",
+     "sv": "En kvinna väntar vid busshållplatsen.",
+     "ru": "Женщина ждёт на автобусной остановке."
+    },
+    {
+     "id": "SFI-B-026",
+     "topic": "В городе",
+     "sv": "En man läser en tidning på bänken.",
+     "ru": "Мужчина читает газету на скамейке."
+    },
+    {
+     "id": "SFI-B-027",
+     "topic": "В городе",
+     "sv": "Bussen kommer klockan halv tio.",
+     "ru": "Автобус приходит в половине десятого."
+    },
+    {
+     "id": "SFI-B-028",
+     "topic": "В городе",
+     "sv": "Erik går av vid nästa hållplats.",
+     "ru": "Эрик выходит на следующей остановке."
+    },
+    {
+     "id": "SFI-B-029",
+     "topic": "В городе",
+     "sv": "Han går till ett café.",
+     "ru": "Он идёт в кафе."
+    },
+    {
+     "id": "SFI-B-030",
+     "topic": "В городе",
+     "sv": "Caféet ligger bredvid banken.",
+     "ru": "Кафе находится рядом с банком."
+    },
+    {
+     "id": "SFI-B-031",
+     "topic": "Еда и покупки",
+     "sv": "Sara går till mataffären efter jobbet.",
+     "ru": "Сара идёт в продуктовый магазин после работы."
+    },
+    {
+     "id": "SFI-B-032",
+     "topic": "Еда и покупки",
+     "sv": "Hon behöver mjölk och bröd.",
+     "ru": "Ей нужны молоко и хлеб."
+    },
+    {
+     "id": "SFI-B-033",
+     "topic": "Еда и покупки",
+     "sv": "Frukten ligger nära ingången.",
+     "ru": "Фрукты находятся возле входа."
+    },
+    {
+     "id": "SFI-B-034",
+     "topic": "Еда и покупки",
+     "sv": "Äpplena kostar tjugo kronor kilot.",
+     "ru": "Яблоки стоят двадцать крон за килограмм."
+    },
+    {
+     "id": "SFI-B-035",
+     "topic": "Еда и покупки",
+     "sv": "Sara väljer fyra röda äpplen.",
+     "ru": "Сара выбирает четыре красных яблока."
+    },
+    {
+     "id": "SFI-B-036",
+     "topic": "Еда и покупки",
+     "sv": "Hon tar också en liter mjölk.",
+     "ru": "Она также берёт литр молока."
+    },
+    {
+     "id": "SFI-B-037",
+     "topic": "Еда и покупки",
+     "sv": "Kassören hälsar på kunderna.",
+     "ru": "Кассир приветствует покупателей."
+    },
+    {
+     "id": "SFI-B-038",
+     "topic": "Еда и покупки",
+     "sv": "Sara betalar med kort.",
+     "ru": "Сара расплачивается картой."
+    },
+    {
+     "id": "SFI-B-039",
+     "topic": "Еда и покупки",
+     "sv": "Hon lägger varorna i en tygpåse.",
+     "ru": "Она кладёт товары в тканевую сумку."
+    },
+    {
+     "id": "SFI-B-040",
+     "topic": "Еда и покупки",
+     "sv": "Sedan går hon hem.",
+     "ru": "Затем она идёт домой."
+    },
+    {
+     "id": "SFI-B-041",
+     "topic": "Семья и друзья",
+     "sv": "Markus har två systrar.",
+     "ru": "У Маркуса две сестры."
+    },
+    {
+     "id": "SFI-B-042",
+     "topic": "Семья и друзья",
+     "sv": "Den äldre systern studerar på universitetet.",
+     "ru": "Старшая сестра учится в университете."
+    },
+    {
+     "id": "SFI-B-043",
+     "topic": "Семья и друзья",
+     "sv": "Den yngre systern går i skolan.",
+     "ru": "Младшая сестра ходит в школу."
+    },
+    {
+     "id": "SFI-B-044",
+     "topic": "Семья и друзья",
+     "sv": "Deras föräldrar bor i ett hus på landet.",
+     "ru": "Их родители живут в доме за городом."
+    },
+    {
+     "id": "SFI-B-045",
+     "topic": "Семья и друзья",
+     "sv": "Familjen träffas ofta på helgerna.",
+     "ru": "Семья часто встречается по выходным."
+    },
+    {
+     "id": "SFI-B-046",
+     "topic": "Семья и друзья",
+     "sv": "På lördag besöker Markus sina föräldrar.",
+     "ru": "В субботу Маркус навещает родителей."
+    },
+    {
+     "id": "SFI-B-047",
+     "topic": "Семья и друзья",
+     "sv": "Hans mamma bakar en äppelkaka.",
+     "ru": "Его мама печёт яблочный пирог."
+    },
+    {
+     "id": "SFI-B-048",
+     "topic": "Семья и друзья",
+     "sv": "Hans pappa arbetar i trädgården.",
+     "ru": "Его папа работает в саду."
+    },
+    {
+     "id": "SFI-B-049",
+     "topic": "Семья и друзья",
+     "sv": "De dricker kaffe tillsammans.",
+     "ru": "Они вместе пьют кофе."
+    },
+    {
+     "id": "SFI-B-050",
+     "topic": "Семья и друзья",
+     "sv": "Markus åker hem på kvällen.",
+     "ru": "Маркус едет домой вечером."
+    },
+    {
+     "id": "SFI-B-051",
+     "topic": "Вопросы и ответы",
+     "sv": "Var bor Maria?",
+     "ru": "Где живёт Мария?"
+    },
+    {
+     "id": "SFI-B-052",
+     "topic": "Вопросы и ответы",
+     "sv": "Hon bor nära en stor park.",
+     "ru": "Она живёт рядом с большим парком."
+    },
+    {
+     "id": "SFI-B-053",
+     "topic": "Вопросы и ответы",
+     "sv": "Vad arbetar hon med?",
+     "ru": "Кем она работает?"
+    },
+    {
+     "id": "SFI-B-054",
+     "topic": "Вопросы и ответы",
+     "sv": "Hon arbetar på ett sjukhus.",
+     "ru": "Она работает в больнице."
+    },
+    {
+     "id": "SFI-B-055",
+     "topic": "Вопросы и ответы",
+     "sv": "När börjar hennes arbetspass?",
+     "ru": "Когда начинается её рабочая смена?"
+    },
+    {
+     "id": "SFI-B-056",
+     "topic": "Вопросы и ответы",
+     "sv": "Det börjar klockan sju.",
+     "ru": "Она начинается в семь часов."
+    },
+    {
+     "id": "SFI-B-057",
+     "topic": "Вопросы и ответы",
+     "sv": "Hur kommer hon till jobbet?",
+     "ru": "Как она добирается на работу?"
+    },
+    {
+     "id": "SFI-B-058",
+     "topic": "Вопросы и ответы",
+     "sv": "Hon cyklar till sjukhuset.",
+     "ru": "Она ездит в больницу на велосипеде."
+    },
+    {
+     "id": "SFI-B-059",
+     "topic": "Вопросы и ответы",
+     "sv": "Var parkerar hon cykeln?",
+     "ru": "Где она паркует велосипед?"
+    },
+    {
+     "id": "SFI-B-060",
+     "topic": "Вопросы и ответы",
+     "sv": "Hon parkerar den utanför entrén.",
+     "ru": "Она паркует его возле входа."
+    },
+    {
+     "id": "SFI-B-061",
+     "topic": "Свободное время и интересы",
+     "sv": "Peter tycker om musik.",
+     "ru": "Петер любит музыку."
+    },
+    {
+     "id": "SFI-B-062",
+     "topic": "Свободное время и интересы",
+     "sv": "Han spelar gitarr på fritiden.",
+     "ru": "В свободное время он играет на гитаре."
+    },
+    {
+     "id": "SFI-B-063",
+     "topic": "Свободное время и интересы",
+     "sv": "Hans kompis spelar piano.",
+     "ru": "Его друг играет на пианино."
+    },
+    {
+     "id": "SFI-B-064",
+     "topic": "Свободное время и интересы",
+     "sv": "De övar tillsammans varje onsdag.",
+     "ru": "Они репетируют вместе каждую среду."
+    },
+    {
+     "id": "SFI-B-065",
+     "topic": "Свободное время и интересы",
+     "sv": "Ibland spelar de på små konserter.",
+     "ru": "Иногда они выступают на небольших концертах."
+    },
+    {
+     "id": "SFI-B-066",
+     "topic": "Свободное время и интересы",
+     "sv": "Publiken sitter nära scenen.",
+     "ru": "Зрители сидят близко к сцене."
+    },
+    {
+     "id": "SFI-B-067",
+     "topic": "Свободное время и интересы",
+     "sv": "Peter sjunger en egen låt.",
+     "ru": "Петер исполняет собственную песню."
+    },
+    {
+     "id": "SFI-B-068",
+     "topic": "Свободное время и интересы",
+     "sv": "Efter konserten pratar de med publiken.",
+     "ru": "После концерта они разговаривают со зрителями."
+    },
+    {
+     "id": "SFI-B-069",
+     "topic": "Свободное время и интересы",
+     "sv": "Alla är glada.",
+     "ru": "Все рады."
+    },
+    {
+     "id": "SFI-B-070",
+     "topic": "Свободное время и интересы",
+     "sv": "Peter går hem sent.",
+     "ru": "Петер поздно идёт домой."
+    },
+    {
+     "id": "SFI-B-071",
+     "topic": "Природа и погода",
+     "sv": "Solen skiner över sjön.",
+     "ru": "Солнце светит над озером."
+    },
+    {
+     "id": "SFI-B-072",
+     "topic": "Природа и погода",
+     "sv": "Vattnet är ganska kallt.",
+     "ru": "Вода довольно холодная."
+    },
+    {
+     "id": "SFI-B-073",
+     "topic": "Природа и погода",
+     "sv": "Två barn leker på stranden.",
+     "ru": "Двое детей играют на пляже."
+    },
+    {
+     "id": "SFI-B-074",
+     "topic": "Природа и погода",
+     "sv": "En hund springer längs vattnet.",
+     "ru": "Собака бежит вдоль воды."
+    },
+    {
+     "id": "SFI-B-075",
+     "topic": "Природа и погода",
+     "sv": "Fåglarna sitter i träden.",
+     "ru": "Птицы сидят на деревьях."
+    },
+    {
+     "id": "SFI-B-076",
+     "topic": "Природа и погода",
+     "sv": "Vinden blåser från väster.",
+     "ru": "Ветер дует с запада."
+    },
+    {
+     "id": "SFI-B-077",
+     "topic": "Природа и погода",
+     "sv": "Molnen täcker himlen.",
+     "ru": "Облака закрывают небо."
+    },
+    {
+     "id": "SFI-B-078",
+     "topic": "Природа и погода",
+     "sv": "Snart börjar det regna.",
+     "ru": "Скоро начинается дождь."
+    },
+    {
+     "id": "SFI-B-079",
+     "topic": "Природа и погода",
+     "sv": "Människorna går mot sina bilar.",
+     "ru": "Люди идут к своим машинам."
+    },
+    {
+     "id": "SFI-B-080",
+     "topic": "Природа и погода",
+     "sv": "Stranden blir nästan tom.",
+     "ru": "Пляж становится почти пустым."
+    },
+    {
+     "id": "SFI-B-081",
+     "topic": "Работа и учёба",
+     "sv": "Lena studerar svenska på förmiddagen.",
+     "ru": "Лена изучает шведский язык до обеда."
+    },
+    {
+     "id": "SFI-B-082",
+     "topic": "Работа и учёба",
+     "sv": "Hon går till skolan fem dagar i veckan.",
+     "ru": "Она ходит в школу пять дней в неделю."
+    },
+    {
+     "id": "SFI-B-083",
+     "topic": "Работа и учёба",
+     "sv": "Läraren skriver nya ord på tavlan.",
+     "ru": "Учитель пишет новые слова на доске."
+    },
+    {
+     "id": "SFI-B-084",
+     "topic": "Работа и учёба",
+     "sv": "Eleverna öppnar sina böcker.",
+     "ru": "Ученики открывают свои книги."
+    },
+    {
+     "id": "SFI-B-085",
+     "topic": "Работа и учёба",
+     "sv": "Lena läser en kort text.",
+     "ru": "Лена читает короткий текст."
+    },
+    {
+     "id": "SFI-B-086",
+     "topic": "Работа и учёба",
+     "sv": "Hon skriver svar i sitt häfte.",
+     "ru": "Она записывает ответы в свою тетрадь."
+    },
+    {
+     "id": "SFI-B-087",
+     "topic": "Работа и учёба",
+     "sv": "Läraren hjälper en elev.",
+     "ru": "Учитель помогает одному ученику."
+    },
+    {
+     "id": "SFI-B-088",
+     "topic": "Работа и учёба",
+     "sv": "Lektionen slutar klockan tolv.",
+     "ru": "Урок заканчивается в двенадцать часов."
+    },
+    {
+     "id": "SFI-B-089",
+     "topic": "Работа и учёба",
+     "sv": "Lena går till biblioteket efter skolan.",
+     "ru": "Лена идёт в библиотеку после школы."
+    },
+    {
+     "id": "SFI-B-090",
+     "topic": "Работа и учёба",
+     "sv": "Där studerar hon i en timme.",
+     "ru": "Там она занимается один час."
+    },
+    {
+     "id": "SFI-B-091",
+     "topic": "Обычная суббота",
+     "sv": "Oskar vaknar sent på lördagen.",
+     "ru": "Оскар просыпается поздно в субботу."
+    },
+    {
+     "id": "SFI-B-092",
+     "topic": "Обычная суббота",
+     "sv": "Han äter frukost klockan tio.",
+     "ru": "Он завтракает в десять часов."
+    },
+    {
+     "id": "SFI-B-093",
+     "topic": "Обычная суббота",
+     "sv": "Sedan städar han sin lägenhet.",
+     "ru": "Затем он убирает свою квартиру."
+    },
+    {
+     "id": "SFI-B-094",
+     "topic": "Обычная суббота",
+     "sv": "Han dammsuger vardagsrummet.",
+     "ru": "Он пылесосит гостиную."
+    },
+    {
+     "id": "SFI-B-095",
+     "topic": "Обычная суббота",
+     "sv": "Han tvättar kläder i tvättstugan.",
+     "ru": "Он стирает одежду в прачечной."
+    },
+    {
+     "id": "SFI-B-096",
+     "topic": "Обычная суббота",
+     "sv": "På eftermiddagen träffar han en vän.",
+     "ru": "Днём он встречает друга."
+    },
+    {
+     "id": "SFI-B-097",
+     "topic": "Обычная суббота",
+     "sv": "De promenerar genom parken.",
+     "ru": "Они гуляют по парку."
+    },
+    {
+     "id": "SFI-B-098",
+     "topic": "Обычная суббота",
+     "sv": "Sedan äter de lunch på en restaurang.",
+     "ru": "Затем они обедают в ресторане."
+    },
+    {
+     "id": "SFI-B-099",
+     "topic": "Обычная суббота",
+     "sv": "Oskar köper en tidning på vägen hem.",
+     "ru": "По дороге домой Оскар покупает газету."
+    },
+    {
+     "id": "SFI-B-100",
+     "topic": "Обычная суббота",
+     "sv": "På kvällen läser han en bok.",
+     "ru": "Вечером он читает книгу."
+    },
+    {
+     "id": "SFI-B-101",
+     "topic": "В ресторане",
+     "sv": "Daniel arbetar på en restaurang i centrum.",
+     "ru": "Даниэль работает в ресторане в центре."
+    },
+    {
+     "id": "SFI-B-102",
+     "topic": "В ресторане",
+     "sv": "Restaurangen öppnar klockan elva.",
+     "ru": "Ресторан открывается в одиннадцать часов."
+    },
+    {
+     "id": "SFI-B-103",
+     "topic": "В ресторане",
+     "sv": "Han börjar dagen med att kontrollera borden.",
+     "ru": "Он начинает день с проверки столиков."
+    },
+    {
+     "id": "SFI-B-104",
+     "topic": "В ресторане",
+     "sv": "Servitörerna dukar borden och ställer fram glas.",
+     "ru": "Официанты накрывают столы и расставляют стаканы."
+    },
+    {
+     "id": "SFI-B-105",
+     "topic": "В ресторане",
+     "sv": "Kocken förbereder köttet och skär grönsaker.",
+     "ru": "Повар готовит мясо и нарезает овощи."
+    },
+    {
+     "id": "SFI-B-106",
+     "topic": "В ресторане",
+     "sv": "De första gästerna kommer strax före tolv.",
+     "ru": "Первые гости приходят незадолго до двенадцати."
+    },
+    {
+     "id": "SFI-B-107",
+     "topic": "В ресторане",
+     "sv": "En familj beställer soppa och nybakat bröd.",
+     "ru": "Одна семья заказывает суп и свежевыпеченный хлеб."
+    },
+    {
+     "id": "SFI-B-108",
+     "topic": "В ресторане",
+     "sv": "Daniel skriver ner beställningen och går till köket.",
+     "ru": "Даниэль записывает заказ и идёт на кухню."
+    },
+    {
+     "id": "SFI-B-109",
+     "topic": "В ресторане",
+     "sv": "Gästerna väntar en stund, men maten kommer snart.",
+     "ru": "Гости немного ждут, но еда скоро появляется."
+    },
+    {
+     "id": "SFI-B-110",
+     "topic": "В ресторане",
+     "sv": "Efter arbetet tar Daniel bussen hem.",
+     "ru": "После работы Даниэль едет домой на автобусе."
+    },
+    {
+     "id": "SFI-B-111",
+     "topic": "День в школе",
+     "sv": "Elin går till skolan tidigt på morgonen.",
+     "ru": "Элин рано утром идёт в школу."
+    },
+    {
+     "id": "SFI-B-112",
+     "topic": "День в школе",
+     "sv": "Hon har matematik och svenska på schemat.",
+     "ru": "У неё по расписанию математика и шведский."
+    },
+    {
+     "id": "SFI-B-113",
+     "topic": "День в школе",
+     "sv": "Första lektionen börjar klockan åtta.",
+     "ru": "Первый урок начинается в восемь часов."
+    },
+    {
+     "id": "SFI-B-114",
+     "topic": "День в школе",
+     "sv": "Läraren delar ut ett arbetsblad.",
+     "ru": "Учитель раздаёт рабочий лист."
+    },
+    {
+     "id": "SFI-B-115",
+     "topic": "День в школе",
+     "sv": "Eleverna läser uppgifterna och skriver sina svar.",
+     "ru": "Ученики читают задания и записывают ответы."
+    },
+    {
+     "id": "SFI-B-116",
+     "topic": "День в школе",
+     "sv": "Elin arbetar noggrant, men några frågor är svåra.",
+     "ru": "Элин работает внимательно, но некоторые вопросы сложные."
+    },
+    {
+     "id": "SFI-B-117",
+     "topic": "День в школе",
+     "sv": "Hon frågar läraren om hjälp.",
+     "ru": "Она просит учителя о помощи."
+    },
+    {
+     "id": "SFI-B-118",
+     "topic": "День в школе",
+     "sv": "På rasten köper hon en smörgås och en juice.",
+     "ru": "На перемене она покупает бутерброд и сок."
+    },
+    {
+     "id": "SFI-B-119",
+     "topic": "День в школе",
+     "sv": "Efter lunch har klassen en lektion i svenska.",
+     "ru": "После обеда у класса урок шведского."
+    },
+    {
+     "id": "SFI-B-120",
+     "topic": "День в школе",
+     "sv": "Elin går hem med sina klasskamrater.",
+     "ru": "Элин идёт домой вместе с одноклассниками."
+    },
+    {
+     "id": "SFI-B-121",
+     "topic": "На работе",
+     "sv": "Robert arbetar på ett lager utanför staden.",
+     "ru": "Роберт работает на складе за городом."
+    },
+    {
+     "id": "SFI-B-122",
+     "topic": "На работе",
+     "sv": "Han börjar sitt arbetspass klockan sex.",
+     "ru": "Он начинает рабочую смену в шесть часов."
+    },
+    {
+     "id": "SFI-B-123",
+     "topic": "На работе",
+     "sv": "Först kontrollerar han dagens leveranser.",
+     "ru": "Сначала он проверяет сегодняшние поставки."
+    },
+    {
+     "id": "SFI-B-124",
+     "topic": "На работе",
+     "sv": "En lastbil kommer med flera stora paket.",
+     "ru": "Грузовик приезжает с несколькими большими посылками."
+    },
+    {
+     "id": "SFI-B-125",
+     "topic": "На работе",
+     "sv": "Robert läser etiketterna och sorterar varorna.",
+     "ru": "Роберт читает этикетки и сортирует товары."
+    },
+    {
+     "id": "SFI-B-126",
+     "topic": "На работе",
+     "sv": "Hans kollega använder en truck.",
+     "ru": "Его коллега пользуется погрузчиком."
+    },
+    {
+     "id": "SFI-B-127",
+     "topic": "На работе",
+     "sv": "De arbetar snabbt, men de följer säkerhetsreglerna.",
+     "ru": "Они работают быстро, но соблюдают правила безопасности."
+    },
+    {
+     "id": "SFI-B-128",
+     "topic": "На работе",
+     "sv": "Vid lunch äter Robert tillsammans med sina kollegor.",
+     "ru": "В обед Роберт ест вместе с коллегами."
+    },
+    {
+     "id": "SFI-B-129",
+     "topic": "На работе",
+     "sv": "Efter pausen fortsätter arbetet.",
+     "ru": "После перерыва работа продолжается."
+    },
+    {
+     "id": "SFI-B-130",
+     "topic": "На работе",
+     "sv": "Robert slutar klockan tre och går till busshållplatsen.",
+     "ru": "Роберт заканчивает работу в три часа и идёт на автобусную остановку."
+    },
+    {
+     "id": "SFI-B-131",
+     "topic": "Поездка на природу",
+     "sv": "Familjen åker till en nationalpark på lördagen.",
+     "ru": "В субботу семья едет в национальный парк."
+    },
+    {
+     "id": "SFI-B-132",
+     "topic": "Поездка на природу",
+     "sv": "De packar ryggsäckarna kvällen före.",
+     "ru": "Они собирают рюкзаки накануне вечером."
+    },
+    {
+     "id": "SFI-B-133",
+     "topic": "Поездка на природу",
+     "sv": "Mamma tar med smörgåsar och frukt.",
+     "ru": "Мама берёт с собой бутерброды и фрукты."
+    },
+    {
+     "id": "SFI-B-134",
+     "topic": "Поездка на природу",
+     "sv": "Pappa packar vattenflaskor och extra kläder.",
+     "ru": "Папа упаковывает бутылки с водой и запасную одежду."
+    },
+    {
+     "id": "SFI-B-135",
+     "topic": "Поездка на природу",
+     "sv": "Vägen till parken går genom en liten by.",
+     "ru": "Дорога в парк проходит через небольшую деревню."
+    },
+    {
+     "id": "SFI-B-136",
+     "topic": "Поездка на природу",
+     "sv": "Familjen parkerar bilen nära entrén.",
+     "ru": "Семья паркует машину возле входа."
+    },
+    {
+     "id": "SFI-B-137",
+     "topic": "Поездка на природу",
+     "sv": "Barnen springer före och visar vägen.",
+     "ru": "Дети бегут впереди и показывают дорогу."
+    },
+    {
+     "id": "SFI-B-138",
+     "topic": "Поездка на природу",
+     "sv": "Stigen går genom skogen och längs en bäck.",
+     "ru": "Тропа проходит через лес и вдоль ручья."
+    },
+    {
+     "id": "SFI-B-139",
+     "topic": "Поездка на природу",
+     "sv": "De stannar vid en utsiktsplats och tar bilder.",
+     "ru": "Они останавливаются на смотровой площадке и фотографируют."
+    },
+    {
+     "id": "SFI-B-140",
+     "topic": "Поездка на природу",
+     "sv": "På eftermiddagen åker alla hem.",
+     "ru": "Во второй половине дня все едут домой."
+    },
+    {
+     "id": "SFI-B-141",
+     "topic": "Визит к стоматологу",
+     "sv": "Karin bokar en tid hos tandläkaren.",
+     "ru": "Карин записывается на приём к стоматологу."
+    },
+    {
+     "id": "SFI-B-142",
+     "topic": "Визит к стоматологу",
+     "sv": "Hon får en tid på onsdag klockan tio.",
+     "ru": "Ей назначают приём на среду в десять часов."
+    },
+    {
+     "id": "SFI-B-143",
+     "topic": "Визит к стоматологу",
+     "sv": "Mottagningen ligger nära tunnelbanestationen.",
+     "ru": "Клиника находится недалеко от станции метро."
+    },
+    {
+     "id": "SFI-B-144",
+     "topic": "Визит к стоматологу",
+     "sv": "Karin kommer fem minuter före besöket.",
+     "ru": "Карин приходит за пять минут до приёма."
+    },
+    {
+     "id": "SFI-B-145",
+     "topic": "Визит к стоматологу",
+     "sv": "Hon anmäler sig i receptionen.",
+     "ru": "Она регистрируется на стойке регистрации."
+    },
+    {
+     "id": "SFI-B-146",
+     "topic": "Визит к стоматологу",
+     "sv": "Tandläkaren undersöker hennes tänder.",
+     "ru": "Стоматолог осматривает её зубы."
+    },
+    {
+     "id": "SFI-B-147",
+     "topic": "Визит к стоматологу",
+     "sv": "En tand behöver extra behandling.",
+     "ru": "Один зуб нуждается в дополнительном лечении."
+    },
+    {
+     "id": "SFI-B-148",
+     "topic": "Визит к стоматологу",
+     "sv": "Karin får information om kostnaden.",
+     "ru": "Карин получает информацию о стоимости."
+    },
+    {
+     "id": "SFI-B-149",
+     "topic": "Визит к стоматологу",
+     "sv": "Hon bokar en ny tid och går hem.",
+     "ru": "Она записывается на новый приём и идёт домой."
+    },
+    {
+     "id": "SFI-B-150",
+     "topic": "Визит к стоматологу",
+     "sv": "På vägen hem köper hon tandkräm på apoteket.",
+     "ru": "По дороге домой она покупает зубную пасту в аптеке."
+    },
+    {
+     "id": "SFI-B-151",
+     "topic": "В продуктовом магазине",
+     "sv": "Johan går till affären med en inköpslista.",
+     "ru": "Йохан идёт в магазин со списком покупок."
+    },
+    {
+     "id": "SFI-B-152",
+     "topic": "В продуктовом магазине",
+     "sv": "Han behöver ingredienser till en middag.",
+     "ru": "Ему нужны ингредиенты для ужина."
+    },
+    {
+     "id": "SFI-B-153",
+     "topic": "В продуктовом магазине",
+     "sv": "Först väljer han färska grönsaker.",
+     "ru": "Сначала он выбирает свежие овощи."
+    },
+    {
+     "id": "SFI-B-154",
+     "topic": "В продуктовом магазине",
+     "sv": "Tomaterna kostar mindre än gurkorna.",
+     "ru": "Помидоры стоят дешевле огурцов."
+    },
+    {
+     "id": "SFI-B-155",
+     "topic": "В продуктовом магазине",
+     "sv": "Han tar två paket pasta från hyllan.",
+     "ru": "Он берёт с полки две упаковки макарон."
+    },
+    {
+     "id": "SFI-B-156",
+     "topic": "В продуктовом магазине",
+     "sv": "Pastan ligger bredvid riset.",
+     "ru": "Макароны лежат рядом с рисом."
+    },
+    {
+     "id": "SFI-B-157",
+     "topic": "В продуктовом магазине",
+     "sv": "Johan letar efter olivolja, men hyllan är tom.",
+     "ru": "Йохан ищет оливковое масло, но полка пустая."
+    },
+    {
+     "id": "SFI-B-158",
+     "topic": "В продуктовом магазине",
+     "sv": "Han frågar en anställd om hjälp.",
+     "ru": "Он просит сотрудника о помощи."
+    },
+    {
+     "id": "SFI-B-159",
+     "topic": "В продуктовом магазине",
+     "sv": "Den anställda visar honom en annan hylla.",
+     "ru": "Сотрудник показывает ему другую полку."
+    },
+    {
+     "id": "SFI-B-160",
+     "topic": "В продуктовом магазине",
+     "sv": "Johan hittar oljan och går till kassan.",
+     "ru": "Йохан находит масло и идёт к кассе."
+    },
+    {
+     "id": "SFI-B-161",
+     "topic": "Новая квартира",
+     "sv": "Sofia flyttar till en ny lägenhet i april.",
+     "ru": "София переезжает в новую квартиру в апреле."
+    },
+    {
+     "id": "SFI-B-162",
+     "topic": "Новая квартира",
+     "sv": "Lägenheten ligger på tredje våningen.",
+     "ru": "Квартира находится на третьем этаже."
+    },
+    {
+     "id": "SFI-B-163",
+     "topic": "Новая квартира",
+     "sv": "Den har två rum och ett separat kök.",
+     "ru": "В ней две комнаты и отдельная кухня."
+    },
+    {
+     "id": "SFI-B-164",
+     "topic": "Новая квартира",
+     "sv": "Vardagsrummet är ljust och rymligt.",
+     "ru": "Гостиная светлая и просторная."
+    },
+    {
+     "id": "SFI-B-165",
+     "topic": "Новая квартира",
+     "sv": "Sofia köper en ny soffa och ett matbord.",
+     "ru": "София покупает новый диван и обеденный стол."
+    },
+    {
+     "id": "SFI-B-166",
+     "topic": "Новая квартира",
+     "sv": "Hennes bror hjälper till med flytten.",
+     "ru": "Её брат помогает с переездом."
+    },
+    {
+     "id": "SFI-B-167",
+     "topic": "Новая квартира",
+     "sv": "De bär kartonger uppför trapporna.",
+     "ru": "Они несут коробки вверх по лестнице."
+    },
+    {
+     "id": "SFI-B-168",
+     "topic": "Новая квартира",
+     "sv": "Soffan är tung, så de tar en kort paus.",
+     "ru": "Диван тяжёлый, поэтому они делают небольшой перерыв."
+    },
+    {
+     "id": "SFI-B-169",
+     "topic": "Новая квартира",
+     "sv": "På kvällen står alla möbler på rätt plats.",
+     "ru": "Вечером вся мебель стоит на своих местах."
+    },
+    {
+     "id": "SFI-B-170",
+     "topic": "Новая квартира",
+     "sv": "Sofia känner sig hemma i den nya lägenheten.",
+     "ru": "София чувствует себя как дома в новой квартире."
+    },
+    {
+     "id": "SFI-B-171",
+     "topic": "В свободное время",
+     "sv": "Niklas spelar fotboll i en lokal klubb.",
+     "ru": "Никлас играет в футбол в местном клубе."
+    },
+    {
+     "id": "SFI-B-172",
+     "topic": "В свободное время",
+     "sv": "Laget tränar två gånger i veckan.",
+     "ru": "Команда тренируется два раза в неделю."
+    },
+    {
+     "id": "SFI-B-173",
+     "topic": "В свободное время",
+     "sv": "Träningen börjar med uppvärmning.",
+     "ru": "Тренировка начинается с разминки."
+    },
+    {
+     "id": "SFI-B-174",
+     "topic": "В свободное время",
+     "sv": "Tränaren delar in spelarna i två grupper.",
+     "ru": "Тренер делит игроков на две группы."
+    },
+    {
+     "id": "SFI-B-175",
+     "topic": "В свободное время",
+     "sv": "Niklas spelar på mittfältet.",
+     "ru": "Никлас играет в полузащите."
+    },
+    {
+     "id": "SFI-B-176",
+     "topic": "В свободное время",
+     "sv": "Han springer mycket och passar bollen till sina lagkamrater.",
+     "ru": "Он много бегает и передаёт мяч товарищам по команде."
+    },
+    {
+     "id": "SFI-B-177",
+     "topic": "В свободное время",
+     "sv": "En spelare gör mål, men domaren blåser av för offside.",
+     "ru": "Один игрок забивает гол, но судья фиксирует офсайд."
+    },
+    {
+     "id": "SFI-B-178",
+     "topic": "В свободное время",
+     "sv": "Efter träningen duschar alla i omklädningsrummet.",
+     "ru": "После тренировки все принимают душ в раздевалке."
+    },
+    {
+     "id": "SFI-B-179",
+     "topic": "В свободное время",
+     "sv": "Niklas pratar med tränaren och planerar nästa träning.",
+     "ru": "Никлас разговаривает с тренером и планирует следующую тренировку."
+    },
+    {
+     "id": "SFI-B-180",
+     "topic": "В свободное время",
+     "sv": "På söndagen spelar laget en match.",
+     "ru": "В воскресенье команда играет матч."
+    },
+    {
+     "id": "SFI-B-181",
+     "topic": "Поездка на поезде",
+     "sv": "Maja reser till Göteborg på fredag.",
+     "ru": "Майя едет в Гётеборг в пятницу."
+    },
+    {
+     "id": "SFI-B-182",
+     "topic": "Поездка на поезде",
+     "sv": "Hon köper en tågbiljett på nätet.",
+     "ru": "Она покупает билет на поезд в интернете."
+    },
+    {
+     "id": "SFI-B-183",
+     "topic": "Поездка на поезде",
+     "sv": "Tåget avgår från centralstationen klockan nio.",
+     "ru": "Поезд отправляется с центрального вокзала в девять часов."
+    },
+    {
+     "id": "SFI-B-184",
+     "topic": "Поездка на поезде",
+     "sv": "Maja kommer till stationen i god tid.",
+     "ru": "Майя приходит на вокзал заранее."
+    },
+    {
+     "id": "SFI-B-185",
+     "topic": "Поездка на поезде",
+     "sv": "Hon tittar på informationstavlan.",
+     "ru": "Она смотрит на информационное табло."
+    },
+    {
+     "id": "SFI-B-186",
+     "topic": "Поездка на поезде",
+     "sv": "Tåget står på spår fyra.",
+     "ru": "Поезд стоит на четвёртом пути."
+    },
+    {
+     "id": "SFI-B-187",
+     "topic": "Поездка на поезде",
+     "sv": "Maja hittar sin plats vid fönstret.",
+     "ru": "Майя находит своё место у окна."
+    },
+    {
+     "id": "SFI-B-188",
+     "topic": "Поездка на поезде",
+     "sv": "En äldre man sitter bredvid henne.",
+     "ru": "Рядом с ней сидит пожилой мужчина."
+    },
+    {
+     "id": "SFI-B-189",
+     "topic": "Поездка на поезде",
+     "sv": "De pratar en stund om resan.",
+     "ru": "Они некоторое время разговаривают о поездке."
+    },
+    {
+     "id": "SFI-B-190",
+     "topic": "Поездка на поезде",
+     "sv": "Tåget kommer fram enligt tidtabellen.",
+     "ru": "Поезд прибывает согласно расписанию."
+    },
+    {
+     "id": "SFI-B-191",
+     "topic": "День рождения",
+     "sv": "Emma fyller tjugofem år på lördag.",
+     "ru": "Эмме исполняется двадцать пять лет в субботу."
+    },
+    {
+     "id": "SFI-B-192",
+     "topic": "День рождения",
+     "sv": "Hon bjuder sina vänner på en fest.",
+     "ru": "Она приглашает друзей на вечеринку."
+    },
+    {
+     "id": "SFI-B-193",
+     "topic": "День рождения",
+     "sv": "Förberedelserna börjar redan på morgonen.",
+     "ru": "Подготовка начинается уже утром."
+    },
+    {
+     "id": "SFI-B-194",
+     "topic": "День рождения",
+     "sv": "Emma dekorerar vardagsrummet med ballonger.",
+     "ru": "Эмма украшает гостиную воздушными шарами."
+    },
+    {
+     "id": "SFI-B-195",
+     "topic": "День рождения",
+     "sv": "Hennes syster bakar en chokladtårta.",
+     "ru": "Её сестра печёт шоколадный торт."
+    },
+    {
+     "id": "SFI-B-196",
+     "topic": "День рождения",
+     "sv": "En vän köper blommor och en annan köper presenter.",
+     "ru": "Один друг покупает цветы, а другой покупает подарки."
+    },
+    {
+     "id": "SFI-B-197",
+     "topic": "День рождения",
+     "sv": "Gästerna kommer vid sextiden.",
+     "ru": "Гости приходят около шести часов."
+    },
+    {
+     "id": "SFI-B-198",
+     "topic": "День рождения",
+     "sv": "Alla sjunger och Emma blåser ut ljusen.",
+     "ru": "Все поют, а Эмма задувает свечи."
+    },
+    {
+     "id": "SFI-B-199",
+     "topic": "День рождения",
+     "sv": "Senare spelar gästerna musik och dansar.",
+     "ru": "Позже гости включают музыку и танцуют."
+    },
+    {
+     "id": "SFI-B-200",
+     "topic": "День рождения",
+     "sv": "Festen slutar sent på kvällen.",
+     "ru": "Вечеринка заканчивается поздно вечером."
+    }
+   ]
+  },
+  {
+   "code": "B2",
+   "name": "SFI B, предложения 201–400",
+   "sentences": [
+    {
+     "id": "SFI-B-201",
+     "topic": "Напряжённое утро",
+     "sv": "Solen går upp tidigt över staden.",
+     "ru": "Солнце рано поднимается над городом."
+    },
+    {
+     "id": "SFI-B-202",
+     "topic": "Напряжённое утро",
+     "sv": "Julia vaknar av ljudet från väckarklockan.",
+     "ru": "Юлия просыпается от звука будильника."
+    },
+    {
+     "id": "SFI-B-203",
+     "topic": "Напряжённое утро",
+     "sv": "Hon stänger av alarmet och tittar på klockan.",
+     "ru": "Она выключает будильник и смотрит на часы."
+    },
+    {
+     "id": "SFI-B-204",
+     "topic": "Напряжённое утро",
+     "sv": "Klockan är redan halv åtta.",
+     "ru": "На часах уже половина восьмого."
+    },
+    {
+     "id": "SFI-B-205",
+     "topic": "Напряжённое утро",
+     "sv": "Julia klär på sig snabbt och går till köket.",
+     "ru": "Юлия быстро одевается и идёт на кухню."
+    },
+    {
+     "id": "SFI-B-206",
+     "topic": "Напряжённое утро",
+     "sv": "Frukosten står fortfarande på bordet.",
+     "ru": "Завтрак всё ещё стоит на столе."
+    },
+    {
+     "id": "SFI-B-207",
+     "topic": "Напряжённое утро",
+     "sv": "Hon dricker ett glas juice och äter en smörgås.",
+     "ru": "Она выпивает стакан сока и съедает бутерброд."
+    },
+    {
+     "id": "SFI-B-208",
+     "topic": "Напряжённое утро",
+     "sv": "Sedan letar hon efter sina nycklar.",
+     "ru": "Затем она ищет свои ключи."
+    },
+    {
+     "id": "SFI-B-209",
+     "topic": "Напряжённое утро",
+     "sv": "Till slut hittar hon dem i jackfickan.",
+     "ru": "Наконец она находит их в кармане куртки."
+    },
+    {
+     "id": "SFI-B-210",
+     "topic": "Напряжённое утро",
+     "sv": "Utanför huset väntar redan hennes taxi.",
+     "ru": "Возле дома её уже ждёт такси."
+    },
+    {
+     "id": "SFI-B-211",
+     "topic": "Проблема на работе",
+     "sv": "Michael arbetar som tekniker på ett företag.",
+     "ru": "Михаэль работает техником в одной компании."
+    },
+    {
+     "id": "SFI-B-212",
+     "topic": "Проблема на работе",
+     "sv": "På måndagsmorgonen fungerar inte en viktig maskin.",
+     "ru": "В понедельник утром важная машина не работает."
+    },
+    {
+     "id": "SFI-B-213",
+     "topic": "Проблема на работе",
+     "sv": "Chefen kontaktar Michael direkt.",
+     "ru": "Начальник сразу связывается с Михаэлем."
+    },
+    {
+     "id": "SFI-B-214",
+     "topic": "Проблема на работе",
+     "sv": "Michael undersöker maskinen noggrant.",
+     "ru": "Михаэль внимательно осматривает машину."
+    },
+    {
+     "id": "SFI-B-215",
+     "topic": "Проблема на работе",
+     "sv": "Först kontrollerar han strömkabeln.",
+     "ru": "Сначала он проверяет кабель питания."
+    },
+    {
+     "id": "SFI-B-216",
+     "topic": "Проблема на работе",
+     "sv": "Sedan öppnar han maskinens kontrollpanel.",
+     "ru": "Затем он открывает панель управления машины."
+    },
+    {
+     "id": "SFI-B-217",
+     "topic": "Проблема на работе",
+     "sv": "En liten del sitter löst.",
+     "ru": "Одна небольшая деталь закреплена неплотно."
+    },
+    {
+     "id": "SFI-B-218",
+     "topic": "Проблема на работе",
+     "sv": "Michael byter delen och startar maskinen igen.",
+     "ru": "Михаэль заменяет деталь и снова запускает машину."
+    },
+    {
+     "id": "SFI-B-219",
+     "topic": "Проблема на работе",
+     "sv": "Efter några minuter fungerar allt normalt.",
+     "ru": "Через несколько минут всё работает нормально."
+    },
+    {
+     "id": "SFI-B-220",
+     "topic": "Проблема на работе",
+     "sv": "Chefen tackar Michael för hjälpen.",
+     "ru": "Начальник благодарит Михаэля за помощь."
+    },
+    {
+     "id": "SFI-B-221",
+     "topic": "Выходные в другом городе",
+     "sv": "Linda och hennes vän reser till Malmö på fredag.",
+     "ru": "Линда и её подруга едут в Мальмё в пятницу."
+    },
+    {
+     "id": "SFI-B-222",
+     "topic": "Выходные в другом городе",
+     "sv": "De tar ett tidigt tåg från Stockholm.",
+     "ru": "Они садятся на ранний поезд из Стокгольма."
+    },
+    {
+     "id": "SFI-B-223",
+     "topic": "Выходные в другом городе",
+     "sv": "Under resan läser Linda en bok.",
+     "ru": "Во время поездки Линда читает книгу."
+    },
+    {
+     "id": "SFI-B-224",
+     "topic": "Выходные в другом городе",
+     "sv": "Hennes vän lyssnar på musik i hörlurarna.",
+     "ru": "Её подруга слушает музыку в наушниках."
+    },
+    {
+     "id": "SFI-B-225",
+     "topic": "Выходные в другом городе",
+     "sv": "Vid lunchtid kommer de fram till Malmö.",
+     "ru": "В обед они прибывают в Мальмё."
+    },
+    {
+     "id": "SFI-B-226",
+     "topic": "Выходные в другом городе",
+     "sv": "Först lämnar de väskorna på hotellet.",
+     "ru": "Сначала они оставляют сумки в отеле."
+    },
+    {
+     "id": "SFI-B-227",
+     "topic": "Выходные в другом городе",
+     "sv": "Sedan promenerar de genom stadens centrum.",
+     "ru": "Затем они гуляют по центру города."
+    },
+    {
+     "id": "SFI-B-228",
+     "topic": "Выходные в другом городе",
+     "sv": "På torget köper de glass och sätter sig på en bänk.",
+     "ru": "На площади они покупают мороженое и садятся на скамейку."
+    },
+    {
+     "id": "SFI-B-229",
+     "topic": "Выходные в другом городе",
+     "sv": "På kvällen äter de middag på en italiensk restaurang.",
+     "ru": "Вечером они ужинают в итальянском ресторане."
+    },
+    {
+     "id": "SFI-B-230",
+     "topic": "Выходные в другом городе",
+     "sv": "På söndagen återvänder de hem med tåget.",
+     "ru": "В воскресенье они возвращаются домой на поезде."
+    },
+    {
+     "id": "SFI-B-231",
+     "topic": "Изучение нового",
+     "sv": "Oliver går en kurs i fotografering.",
+     "ru": "Оливер посещает курс фотографии."
+    },
+    {
+     "id": "SFI-B-232",
+     "topic": "Изучение нового",
+     "sv": "Kursen börjar i september och slutar i december.",
+     "ru": "Курс начинается в сентябре и заканчивается в декабре."
+    },
+    {
+     "id": "SFI-B-233",
+     "topic": "Изучение нового",
+     "sv": "Läraren visar olika kameror och objektiv.",
+     "ru": "Преподаватель показывает разные камеры и объективы."
+    },
+    {
+     "id": "SFI-B-234",
+     "topic": "Изучение нового",
+     "sv": "Deltagarna lär sig grunderna i fotografering.",
+     "ru": "Участники изучают основы фотографии."
+    },
+    {
+     "id": "SFI-B-235",
+     "topic": "Изучение нового",
+     "sv": "Oliver använder en digital kamera.",
+     "ru": "Оливер использует цифровую камеру."
+    },
+    {
+     "id": "SFI-B-236",
+     "topic": "Изучение нового",
+     "sv": "Han tränar på att fotografera människor och byggnader.",
+     "ru": "Он тренируется фотографировать людей и здания."
+    },
+    {
+     "id": "SFI-B-237",
+     "topic": "Изучение нового",
+     "sv": "I början blir flera bilder suddiga.",
+     "ru": "В начале многие фотографии получаются размытыми."
+    },
+    {
+     "id": "SFI-B-238",
+     "topic": "Изучение нового",
+     "sv": "Efter mycket övning blir resultaten bättre.",
+     "ru": "После большой практики результаты становятся лучше."
+    },
+    {
+     "id": "SFI-B-239",
+     "topic": "Изучение нового",
+     "sv": "Nästa vecka ska gruppen fotografera utomhus.",
+     "ru": "На следующей неделе группа будет фотографировать на улице."
+    },
+    {
+     "id": "SFI-B-240",
+     "topic": "Изучение нового",
+     "sv": "Oliver ser fram emot nästa lektion.",
+     "ru": "Оливер с нетерпением ждёт следующего занятия."
+    },
+    {
+     "id": "SFI-B-241",
+     "topic": "День в больнице",
+     "sv": "Sjuksköterskan Eva börjar sitt arbetspass klockan sju.",
+     "ru": "Медсестра Ева начинает свою смену в семь часов."
+    },
+    {
+     "id": "SFI-B-242",
+     "topic": "День в больнице",
+     "sv": "På avdelningen finns många patienter.",
+     "ru": "В отделении много пациентов."
+    },
+    {
+     "id": "SFI-B-243",
+     "topic": "День в больнице",
+     "sv": "Eva läser dagens arbetslista.",
+     "ru": "Ева читает список задач на день."
+    },
+    {
+     "id": "SFI-B-244",
+     "topic": "День в больнице",
+     "sv": "Först delar hon ut mediciner.",
+     "ru": "Сначала она раздаёт лекарства."
+    },
+    {
+     "id": "SFI-B-245",
+     "topic": "День в больнице",
+     "sv": "Sedan hjälper hon en patient med frukosten.",
+     "ru": "Затем она помогает пациенту с завтраком."
+    },
+    {
+     "id": "SFI-B-246",
+     "topic": "День в больнице",
+     "sv": "En läkare kommer in och ställer några frågor.",
+     "ru": "Входит врач и задаёт несколько вопросов."
+    },
+    {
+     "id": "SFI-B-247",
+     "topic": "День в больнице",
+     "sv": "Eva antecknar viktig information i journalen.",
+     "ru": "Ева записывает важную информацию в медицинскую карту."
+    },
+    {
+     "id": "SFI-B-248",
+     "topic": "День в больнице",
+     "sv": "På eftermiddagen tar hon en kort paus.",
+     "ru": "Во второй половине дня она делает небольшой перерыв."
+    },
+    {
+     "id": "SFI-B-249",
+     "topic": "День в больнице",
+     "sv": "Arbetet är krävande, men Eva trivs på avdelningen.",
+     "ru": "Работа непростая, но Еве нравится работать в отделении."
+    },
+    {
+     "id": "SFI-B-250",
+     "topic": "День в больнице",
+     "sv": "Efter arbetet går hon hem och vilar.",
+     "ru": "После работы она идёт домой и отдыхает."
+    },
+    {
+     "id": "SFI-B-251",
+     "topic": "Переезд в новый район",
+     "sv": "Familjen Andersson flyttar till ett nytt område.",
+     "ru": "Семья Андерссон переезжает в новый район."
+    },
+    {
+     "id": "SFI-B-252",
+     "topic": "Переезд в новый район",
+     "sv": "Deras gamla bostad ligger långt från centrum.",
+     "ru": "Их старое жильё находится далеко от центра."
+    },
+    {
+     "id": "SFI-B-253",
+     "topic": "Переезд в новый район",
+     "sv": "Den nya lägenheten ligger nära skolor och affärer.",
+     "ru": "Новая квартира находится рядом со школами и магазинами."
+    },
+    {
+     "id": "SFI-B-254",
+     "topic": "Переезд в новый район",
+     "sv": "På lördagen kommer flyttbilen tidigt.",
+     "ru": "В субботу машина для переезда приезжает рано."
+    },
+    {
+     "id": "SFI-B-255",
+     "topic": "Переезд в новый район",
+     "sv": "Familjen bär möbler och kartonger in i huset.",
+     "ru": "Семья заносит мебель и коробки в дом."
+    },
+    {
+     "id": "SFI-B-256",
+     "topic": "Переезд в новый район",
+     "sv": "Grannarna hälsar vänligt på den nya familjen.",
+     "ru": "Соседи дружелюбно приветствуют новую семью."
+    },
+    {
+     "id": "SFI-B-257",
+     "topic": "Переезд в новый район",
+     "sv": "En granne visar vägen till närmaste mataffär.",
+     "ru": "Один сосед показывает дорогу к ближайшему продуктовому магазину."
+    },
+    {
+     "id": "SFI-B-258",
+     "topic": "Переезд в новый район",
+     "sv": "Barnen hittar en lekplats bakom huset.",
+     "ru": "Дети находят игровую площадку за домом."
+    },
+    {
+     "id": "SFI-B-259",
+     "topic": "Переезд в новый район",
+     "sv": "På kvällen beställer familjen pizza.",
+     "ru": "Вечером семья заказывает пиццу."
+    },
+    {
+     "id": "SFI-B-260",
+     "topic": "Переезд в новый район",
+     "sv": "Alla är trötta, men nöjda med flytten.",
+     "ru": "Все устали, но довольны переездом."
+    },
+    {
+     "id": "SFI-B-261",
+     "topic": "Прогулка у моря",
+     "sv": "Sommaren närmar sig och dagarna blir längre.",
+     "ru": "Приближается лето, и дни становятся длиннее."
+    },
+    {
+     "id": "SFI-B-262",
+     "topic": "Прогулка у моря",
+     "sv": "På lördagen åker några vänner till kusten.",
+     "ru": "В субботу несколько друзей едут на побережье."
+    },
+    {
+     "id": "SFI-B-263",
+     "topic": "Прогулка у моря",
+     "sv": "De parkerar bilen nära en liten hamn.",
+     "ru": "Они паркуют машину возле небольшой гавани."
+    },
+    {
+     "id": "SFI-B-264",
+     "topic": "Прогулка у моря",
+     "sv": "Flera båtar ligger vid bryggan.",
+     "ru": "Несколько лодок стоят у причала."
+    },
+    {
+     "id": "SFI-B-265",
+     "topic": "Прогулка у моря",
+     "sv": "Vännerna går längs stranden.",
+     "ru": "Друзья идут вдоль пляжа."
+    },
+    {
+     "id": "SFI-B-266",
+     "topic": "Прогулка у моря",
+     "sv": "En av dem hittar en fin sten.",
+     "ru": "Один из них находит красивый камень."
+    },
+    {
+     "id": "SFI-B-267",
+     "topic": "Прогулка у моря",
+     "sv": "De sätter sig på klipporna och äter lunch.",
+     "ru": "Они садятся на скалы и обедают."
+    },
+    {
+     "id": "SFI-B-268",
+     "topic": "Прогулка у моря",
+     "sv": "Efter lunchen hyr de en liten båt.",
+     "ru": "После обеда они арендуют небольшую лодку."
+    },
+    {
+     "id": "SFI-B-269",
+     "topic": "Прогулка у моря",
+     "sv": "Vinden blir starkare, så de återvänder till hamnen.",
+     "ru": "Ветер усиливается, поэтому они возвращаются в гавань."
+    },
+    {
+     "id": "SFI-B-270",
+     "topic": "Прогулка у моря",
+     "sv": "På vägen hem stannar de vid ett café.",
+     "ru": "По дороге домой они останавливаются в кафе."
+    },
+    {
+     "id": "SFI-B-271",
+     "topic": "Деньги и экономика",
+     "sv": "Sofia arbetar deltid i en klädbutik.",
+     "ru": "София работает неполный день в магазине одежды."
+    },
+    {
+     "id": "SFI-B-272",
+     "topic": "Деньги и экономика",
+     "sv": "Varje månad planerar hon sin ekonomi.",
+     "ru": "Каждый месяц она планирует свои финансы."
+    },
+    {
+     "id": "SFI-B-273",
+     "topic": "Деньги и экономика",
+     "sv": "Först betalar hon hyran och räkningarna.",
+     "ru": "Сначала она оплачивает аренду и счета."
+    },
+    {
+     "id": "SFI-B-274",
+     "topic": "Деньги и экономика",
+     "sv": "Sedan köper hon mat och andra nödvändiga saker.",
+     "ru": "Затем она покупает продукты и другие необходимые вещи."
+    },
+    {
+     "id": "SFI-B-275",
+     "topic": "Деньги и экономика",
+     "sv": "Hon skriver ner sina utgifter i en anteckningsbok.",
+     "ru": "Она записывает свои расходы в блокнот."
+    },
+    {
+     "id": "SFI-B-276",
+     "topic": "Деньги и экономика",
+     "sv": "Ibland köper hon kläder på rea.",
+     "ru": "Иногда она покупает одежду на распродаже."
+    },
+    {
+     "id": "SFI-B-277",
+     "topic": "Деньги и экономика",
+     "sv": "Den här månaden sparar hon femhundra kronor.",
+     "ru": "В этом месяце она откладывает пятьсот крон."
+    },
+    {
+     "id": "SFI-B-278",
+     "topic": "Деньги и экономика",
+     "sv": "Nästa månad ska hon spara lite mer.",
+     "ru": "В следующем месяце она собирается откладывать немного больше."
+    },
+    {
+     "id": "SFI-B-279",
+     "topic": "Деньги и экономика",
+     "sv": "Hon jämför priser och väljer billigare alternativ.",
+     "ru": "Она сравнивает цены и выбирает более дешёвые варианты."
+    },
+    {
+     "id": "SFI-B-280",
+     "topic": "Деньги и экономика",
+     "sv": "Sofia känner sig tryggare med sin ekonomi.",
+     "ru": "София чувствует себя увереннее в вопросах финансов."
+    },
+    {
+     "id": "SFI-B-281",
+     "topic": "Изменение в повседневной жизни",
+     "sv": "Daniel bestämmer sig för att börja cykla till jobbet.",
+     "ru": "Даниэль решает начать ездить на работу на велосипеде."
+    },
+    {
+     "id": "SFI-B-282",
+     "topic": "Изменение в повседневной жизни",
+     "sv": "Tidigare åker han buss varje dag.",
+     "ru": "Раньше он каждый день ездит на автобусе."
+    },
+    {
+     "id": "SFI-B-283",
+     "topic": "Изменение в повседневной жизни",
+     "sv": "Den nya rutten tar ungefär tjugo minuter.",
+     "ru": "Новый маршрут занимает примерно двадцать минут."
+    },
+    {
+     "id": "SFI-B-284",
+     "topic": "Изменение в повседневной жизни",
+     "sv": "Första morgonen regnar det ganska mycket.",
+     "ru": "В первое утро идёт довольно сильный дождь."
+    },
+    {
+     "id": "SFI-B-285",
+     "topic": "Изменение в повседневной жизни",
+     "sv": "Daniel tar på sig regnjackan och hjälmen.",
+     "ru": "Даниэль надевает дождевую куртку и шлем."
+    },
+    {
+     "id": "SFI-B-286",
+     "topic": "Изменение в повседневной жизни",
+     "sv": "Han cyklar försiktigt genom trafiken.",
+     "ru": "Он осторожно едет на велосипеде в потоке транспорта."
+    },
+    {
+     "id": "SFI-B-287",
+     "topic": "Изменение в повседневной жизни",
+     "sv": "Efter några dagar känns vägen enklare.",
+     "ru": "Через несколько дней дорога кажется проще."
+    },
+    {
+     "id": "SFI-B-288",
+     "topic": "Изменение в повседневной жизни",
+     "sv": "Daniel sparar pengar på bussbiljetter.",
+     "ru": "Даниэль экономит деньги на автобусных билетах."
+    },
+    {
+     "id": "SFI-B-289",
+     "topic": "Изменение в повседневной жизни",
+     "sv": "Dessutom får han mer motion varje dag.",
+     "ru": "Кроме того, он каждый день получает больше физической нагрузки."
+    },
+    {
+     "id": "SFI-B-290",
+     "topic": "Изменение в повседневной жизни",
+     "sv": "Nästa månad ska han köpa en bättre cykel.",
+     "ru": "В следующем месяце он собирается купить велосипед получше."
+    },
+    {
+     "id": "SFI-B-291",
+     "topic": "Важное соревнование",
+     "sv": "Emma tränar inför en simtävling.",
+     "ru": "Эмма тренируется перед соревнованием по плаванию."
+    },
+    {
+     "id": "SFI-B-292",
+     "topic": "Важное соревнование",
+     "sv": "Tävlingen äger rum på söndag.",
+     "ru": "Соревнование состоится в воскресенье."
+    },
+    {
+     "id": "SFI-B-293",
+     "topic": "Важное соревнование",
+     "sv": "Hon tränar i simhallen tre gånger i veckan.",
+     "ru": "Она тренируется в бассейне три раза в неделю."
+    },
+    {
+     "id": "SFI-B-294",
+     "topic": "Важное соревнование",
+     "sv": "Tränaren mäter hennes tid efter varje längd.",
+     "ru": "Тренер измеряет её время после каждого отрезка."
+    },
+    {
+     "id": "SFI-B-295",
+     "topic": "Важное соревнование",
+     "sv": "Förra veckan simmade Emma snabbare än tidigare.",
+     "ru": "На прошлой неделе Эмма плавала быстрее, чем раньше."
+    },
+    {
+     "id": "SFI-B-296",
+     "topic": "Важное соревнование",
+     "sv": "Hon känner sig starkare och mer säker i vattnet.",
+     "ru": "Она чувствует себя сильнее и увереннее в воде."
+    },
+    {
+     "id": "SFI-B-297",
+     "topic": "Важное соревнование",
+     "sv": "På tävlingsdagen kommer hon till simhallen tidigt.",
+     "ru": "В день соревнования она приходит в бассейн рано."
+    },
+    {
+     "id": "SFI-B-298",
+     "topic": "Важное соревнование",
+     "sv": "Hon värmer upp och förbereder sig vid bassängen.",
+     "ru": "Она разминается и готовится у бассейна."
+    },
+    {
+     "id": "SFI-B-299",
+     "topic": "Важное соревнование",
+     "sv": "Emma simmar ett bra lopp och får en medalj.",
+     "ru": "Эмма хорошо проплывает дистанцию и получает медаль."
+    },
+    {
+     "id": "SFI-B-300",
+     "topic": "Важное соревнование",
+     "sv": "Efter tävlingen firar hon resultatet med sin familj.",
+     "ru": "После соревнования она отмечает результат вместе с семьёй."
+    },
+    {
+     "id": "SFI-B-301",
+     "topic": "Новая работа",
+     "sv": "Sofia söker ett nytt arbete inom handel.",
+     "ru": "София ищет новую работу в сфере торговли."
+    },
+    {
+     "id": "SFI-B-302",
+     "topic": "Новая работа",
+     "sv": "Hon läser flera annonser på internet.",
+     "ru": "Она читает несколько объявлений в интернете."
+    },
+    {
+     "id": "SFI-B-303",
+     "topic": "Новая работа",
+     "sv": "En butik söker en person med erfarenhet av kundservice.",
+     "ru": "Магазин ищет человека с опытом обслуживания клиентов."
+    },
+    {
+     "id": "SFI-B-304",
+     "topic": "Новая работа",
+     "sv": "Sofia skriver ett personligt brev och uppdaterar sitt CV.",
+     "ru": "София пишет сопроводительное письмо и обновляет своё резюме."
+    },
+    {
+     "id": "SFI-B-305",
+     "topic": "Новая работа",
+     "sv": "På måndagen skickar hon sin ansökan till butiken.",
+     "ru": "В понедельник она отправляет свою заявку в магазин."
+    },
+    {
+     "id": "SFI-B-306",
+     "topic": "Новая работа",
+     "sv": "Två dagar senare ringer en chef från företaget.",
+     "ru": "Через два дня звонит руководитель компании."
+    },
+    {
+     "id": "SFI-B-307",
+     "topic": "Новая работа",
+     "sv": "Chefen bjuder in Sofia till en intervju.",
+     "ru": "Руководитель приглашает Софию на собеседование."
+    },
+    {
+     "id": "SFI-B-308",
+     "topic": "Новая работа",
+     "sv": "Under intervjun berättar hon om sina tidigare arbetsuppgifter.",
+     "ru": "Во время собеседования она рассказывает о своих прежних рабочих обязанностях."
+    },
+    {
+     "id": "SFI-B-309",
+     "topic": "Новая работа",
+     "sv": "Sofia svarar lugnt på frågorna och ställer några egna frågor.",
+     "ru": "София спокойно отвечает на вопросы и задаёт несколько собственных вопросов."
+    },
+    {
+     "id": "SFI-B-310",
+     "topic": "Новая работа",
+     "sv": "Nästa vecka börjar hon på sin nya arbetsplats.",
+     "ru": "На следующей неделе она начинает работать на новом месте."
+    },
+    {
+     "id": "SFI-B-311",
+     "topic": "Путешествие с семьёй",
+     "sv": "Familjen planerar en veckas semester i norra Sverige.",
+     "ru": "Семья планирует недельный отпуск на севере Швеции."
+    },
+    {
+     "id": "SFI-B-312",
+     "topic": "Путешествие с семьёй",
+     "sv": "De väljer en liten stuga nära fjällen.",
+     "ru": "Они выбирают небольшой домик возле гор."
+    },
+    {
+     "id": "SFI-B-313",
+     "topic": "Путешествие с семьёй",
+     "sv": "Resan tar nästan åtta timmar med bil.",
+     "ru": "Поездка на машине занимает почти восемь часов."
+    },
+    {
+     "id": "SFI-B-314",
+     "topic": "Путешествие с семьёй",
+     "sv": "Pappa kör och mamma läser kartan.",
+     "ru": "Папа ведёт машину, а мама читает карту."
+    },
+    {
+     "id": "SFI-B-315",
+     "topic": "Путешествие с семьёй",
+     "sv": "Barnen sitter i baksätet och lyssnar på musik.",
+     "ru": "Дети сидят на заднем сиденье и слушают музыку."
+    },
+    {
+     "id": "SFI-B-316",
+     "topic": "Путешествие с семьёй",
+     "sv": "Efter tre timmar stannar familjen vid en rastplats.",
+     "ru": "Через три часа семья останавливается на площадке для отдыха."
+    },
+    {
+     "id": "SFI-B-317",
+     "topic": "Путешествие с семьёй",
+     "sv": "Alla går ut ur bilen och sträcker på benen.",
+     "ru": "Все выходят из машины и разминают ноги."
+    },
+    {
+     "id": "SFI-B-318",
+     "topic": "Путешествие с семьёй",
+     "sv": "De äter smörgåsar vid ett bord utomhus.",
+     "ru": "Они едят бутерброды за столом на улице."
+    },
+    {
+     "id": "SFI-B-319",
+     "topic": "Путешествие с семьёй",
+     "sv": "Framåt kvällen kommer familjen fram till stugan.",
+     "ru": "Ближе к вечеру семья добирается до домика."
+    },
+    {
+     "id": "SFI-B-320",
+     "topic": "Путешествие с семьёй",
+     "sv": "Nästa morgon börjar semestern med en lång promenad.",
+     "ru": "На следующее утро отпуск начинается с долгой прогулки."
+    },
+    {
+     "id": "SFI-B-321",
+     "topic": "Проблема в доме",
+     "sv": "En söndagsmorgon upptäcker familjen vatten på köksgolvet.",
+     "ru": "В воскресенье утром семья обнаруживает воду на кухонном полу."
+    },
+    {
+     "id": "SFI-B-322",
+     "topic": "Проблема в доме",
+     "sv": "Vattnet kommer från ett rör under diskbänken.",
+     "ru": "Вода поступает из трубы под раковиной."
+    },
+    {
+     "id": "SFI-B-323",
+     "topic": "Проблема в доме",
+     "sv": "Pappa stänger av vattnet i hela köket.",
+     "ru": "Папа перекрывает воду во всей кухне."
+    },
+    {
+     "id": "SFI-B-324",
+     "topic": "Проблема в доме",
+     "sv": "Mamma hämtar handdukar och en stor hink.",
+     "ru": "Мама приносит полотенца и большое ведро."
+    },
+    {
+     "id": "SFI-B-325",
+     "topic": "Проблема в доме",
+     "sv": "Familjen ringer en rörmokare direkt.",
+     "ru": "Семья сразу звонит сантехнику."
+    },
+    {
+     "id": "SFI-B-326",
+     "topic": "Проблема в доме",
+     "sv": "Rörmokaren kommer efter ungefär en timme.",
+     "ru": "Сантехник приезжает примерно через час."
+    },
+    {
+     "id": "SFI-B-327",
+     "topic": "Проблема в доме",
+     "sv": "Han undersöker röret och hittar en spricka.",
+     "ru": "Он осматривает трубу и находит трещину."
+    },
+    {
+     "id": "SFI-B-328",
+     "topic": "Проблема в доме",
+     "sv": "Reparationen tar inte särskilt lång tid.",
+     "ru": "Ремонт занимает не очень много времени."
+    },
+    {
+     "id": "SFI-B-329",
+     "topic": "Проблема в доме",
+     "sv": "Familjen kan använda köket igen på eftermiddagen.",
+     "ru": "Семья снова может пользоваться кухней во второй половине дня."
+    },
+    {
+     "id": "SFI-B-330",
+     "topic": "Проблема в доме",
+     "sv": "På kvällen kontrollerar pappa röret en extra gång.",
+     "ru": "Вечером папа ещё раз проверяет трубу."
+    },
+    {
+     "id": "SFI-B-331",
+     "topic": "Выбор образования",
+     "sv": "Amir funderar på sin framtida utbildning.",
+     "ru": "Амир размышляет о своём будущем образовании."
+    },
+    {
+     "id": "SFI-B-332",
+     "topic": "Выбор образования",
+     "sv": "Han är intresserad av teknik och datorer.",
+     "ru": "Он интересуется технологиями и компьютерами."
+    },
+    {
+     "id": "SFI-B-333",
+     "topic": "Выбор образования",
+     "sv": "På biblioteket läser han information om olika utbildningar.",
+     "ru": "В библиотеке он читает информацию о разных образовательных программах."
+    },
+    {
+     "id": "SFI-B-334",
+     "topic": "Выбор образования",
+     "sv": "En utbildning tar två år, men en annan tar tre år.",
+     "ru": "Одна программа длится два года, а другая — три года."
+    },
+    {
+     "id": "SFI-B-335",
+     "topic": "Выбор образования",
+     "sv": "Amir jämför kursinnehåll, praktik och framtida arbetsmöjligheter.",
+     "ru": "Амир сравнивает содержание курсов, практику и будущие возможности трудоустройства."
+    },
+    {
+     "id": "SFI-B-336",
+     "topic": "Выбор образования",
+     "sv": "Han besöker en skola under öppet hus.",
+     "ru": "Он посещает учебное заведение во время дня открытых дверей."
+    },
+    {
+     "id": "SFI-B-337",
+     "topic": "Выбор образования",
+     "sv": "En lärare presenterar utbildningen och svarar på frågor.",
+     "ru": "Преподаватель представляет программу и отвечает на вопросы."
+    },
+    {
+     "id": "SFI-B-338",
+     "topic": "Выбор образования",
+     "sv": "Amir tycker om skolans lokaler och studiemiljö.",
+     "ru": "Амиру нравятся помещения учебного заведения и учебная атмосфера."
+    },
+    {
+     "id": "SFI-B-339",
+     "topic": "Выбор образования",
+     "sv": "På kvällen diskuterar han sina planer med familjen.",
+     "ru": "Вечером он обсуждает свои планы с семьёй."
+    },
+    {
+     "id": "SFI-B-340",
+     "topic": "Выбор образования",
+     "sv": "Snart ska han skicka in sin ansökan.",
+     "ru": "Скоро он отправит свою заявку."
+    },
+    {
+     "id": "SFI-B-341",
+     "topic": "Необычный рабочий день",
+     "sv": "På fredagen börjar arbetet som vanligt.",
+     "ru": "В пятницу работа начинается как обычно."
+    },
+    {
+     "id": "SFI-B-342",
+     "topic": "Необычный рабочий день",
+     "sv": "Vid niotiden försvinner strömmen i byggnaden.",
+     "ru": "Около девяти часов в здании пропадает электричество."
+    },
+    {
+     "id": "SFI-B-343",
+     "topic": "Необычный рабочий день",
+     "sv": "Datorerna stängs av och lamporna slocknar.",
+     "ru": "Компьютеры выключаются, а лампы гаснут."
+    },
+    {
+     "id": "SFI-B-344",
+     "topic": "Необычный рабочий день",
+     "sv": "Personalen samlas i ett konferensrum.",
+     "ru": "Персонал собирается в конференц-зале."
+    },
+    {
+     "id": "SFI-B-345",
+     "topic": "Необычный рабочий день",
+     "sv": "Chefen informerar alla om situationen.",
+     "ru": "Руководитель информирует всех о ситуации."
+    },
+    {
+     "id": "SFI-B-346",
+     "topic": "Необычный рабочий день",
+     "sv": "Teknikerna arbetar med elproblemet.",
+     "ru": "Техники работают над проблемой с электричеством."
+    },
+    {
+     "id": "SFI-B-347",
+     "topic": "Необычный рабочий день",
+     "sv": "Några anställda fortsätter arbetet med papper och anteckningar.",
+     "ru": "Некоторые сотрудники продолжают работу с бумагами и заметками."
+    },
+    {
+     "id": "SFI-B-348",
+     "topic": "Необычный рабочий день",
+     "sv": "Andra tar en längre fikapaus.",
+     "ru": "Другие делают более продолжительный перерыв на кофе."
+    },
+    {
+     "id": "SFI-B-349",
+     "topic": "Необычный рабочий день",
+     "sv": "Strömmen kommer tillbaka strax efter lunch.",
+     "ru": "Электричество возвращается вскоре после обеда."
+    },
+    {
+     "id": "SFI-B-350",
+     "topic": "Необычный рабочий день",
+     "sv": "Arbetet fortsätter och dagen slutar lite senare än vanligt.",
+     "ru": "Работа продолжается, и день заканчивается немного позже обычного."
+    },
+    {
+     "id": "SFI-B-351",
+     "topic": "Вечер с друзьями",
+     "sv": "På lördagen bjuder Markus hem några vänner.",
+     "ru": "В субботу Маркус приглашает нескольких друзей к себе домой."
+    },
+    {
+     "id": "SFI-B-352",
+     "topic": "Вечер с друзьями",
+     "sv": "Han planerar en enkel middag för sex personer.",
+     "ru": "Он планирует простой ужин на шестерых."
+    },
+    {
+     "id": "SFI-B-353",
+     "topic": "Вечер с друзьями",
+     "sv": "På eftermiddagen går han till mataffären.",
+     "ru": "Во второй половине дня он идёт в продуктовый магазин."
+    },
+    {
+     "id": "SFI-B-354",
+     "topic": "Вечер с друзьями",
+     "sv": "Han köper kyckling, potatis, sallad och några drycker.",
+     "ru": "Он покупает курицу, картофель, салат и несколько напитков."
+    },
+    {
+     "id": "SFI-B-355",
+     "topic": "Вечер с друзьями",
+     "sv": "Hemma börjar han förbereda maten direkt.",
+     "ru": "Дома он сразу начинает готовить еду."
+    },
+    {
+     "id": "SFI-B-356",
+     "topic": "Вечер с друзьями",
+     "sv": "Musiken spelar i bakgrunden och köket luktar gott.",
+     "ru": "На фоне играет музыка, а на кухне приятно пахнет."
+    },
+    {
+     "id": "SFI-B-357",
+     "topic": "Вечер с друзьями",
+     "sv": "Gästerna kommer vid sjutiden.",
+     "ru": "Гости приходят около семи часов."
+    },
+    {
+     "id": "SFI-B-358",
+     "topic": "Вечер с друзьями",
+     "sv": "Alla hjälper till med maten och dukningen.",
+     "ru": "Все помогают с едой и сервировкой стола."
+    },
+    {
+     "id": "SFI-B-359",
+     "topic": "Вечер с друзьями",
+     "sv": "Efter middagen spelar gruppen ett sällskapsspel.",
+     "ru": "После ужина компания играет в настольную игру."
+    },
+    {
+     "id": "SFI-B-360",
+     "topic": "Вечер с друзьями",
+     "sv": "Kvällen blir trevlig och gästerna stannar länge.",
+     "ru": "Вечер проходит приятно, и гости задерживаются надолго."
+    },
+    {
+     "id": "SFI-B-361",
+     "topic": "Здоровый образ жизни",
+     "sv": "Många människor vill förbättra sina dagliga vanor.",
+     "ru": "Многие люди хотят улучшить свои повседневные привычки."
+    },
+    {
+     "id": "SFI-B-362",
+     "topic": "Здоровый образ жизни",
+     "sv": "Regelbunden motion stärker kroppen och förbättrar konditionen.",
+     "ru": "Регулярная физическая активность укрепляет тело и улучшает выносливость."
+    },
+    {
+     "id": "SFI-B-363",
+     "topic": "Здоровый образ жизни",
+     "sv": "En del människor tränar på gymmet före arbetet.",
+     "ru": "Некоторые люди тренируются в спортзале перед работой."
+    },
+    {
+     "id": "SFI-B-364",
+     "topic": "Здоровый образ жизни",
+     "sv": "Andra föredrar promenader eller cykling.",
+     "ru": "Другие предпочитают прогулки или езду на велосипеде."
+    },
+    {
+     "id": "SFI-B-365",
+     "topic": "Здоровый образ жизни",
+     "sv": "En varierad kost ger kroppen viktig näring.",
+     "ru": "Разнообразное питание обеспечивает организм важными питательными веществами."
+    },
+    {
+     "id": "SFI-B-366",
+     "topic": "Здоровый образ жизни",
+     "sv": "Grönsaker, frukt och fullkornsprodukter passar bra i vardagen.",
+     "ru": "Овощи, фрукты и цельнозерновые продукты хорошо подходят для повседневного питания."
+    },
+    {
+     "id": "SFI-B-367",
+     "topic": "Здоровый образ жизни",
+     "sv": "Sömn spelar också en viktig roll för hälsan.",
+     "ru": "Сон также играет важную роль для здоровья."
+    },
+    {
+     "id": "SFI-B-368",
+     "topic": "Здоровый образ жизни",
+     "sv": "Många vuxna behöver ungefär sju till nio timmars sömn.",
+     "ru": "Многим взрослым необходимо примерно от семи до девяти часов сна."
+    },
+    {
+     "id": "SFI-B-369",
+     "topic": "Здоровый образ жизни",
+     "sv": "Små förändringar kan ge positiva resultat över tid.",
+     "ru": "Небольшие изменения могут со временем дать положительные результаты."
+    },
+    {
+     "id": "SFI-B-370",
+     "topic": "Здоровый образ жизни",
+     "sv": "En hälsosam vardag kräver både balans och regelbundenhet.",
+     "ru": "Здоровый образ жизни требует как баланса, так и регулярности."
+    },
+    {
+     "id": "SFI-B-371",
+     "topic": "Изменившийся город",
+     "sv": "Staden bygger en ny gång- och cykelväg.",
+     "ru": "Город строит новую пешеходную и велосипедную дорожку."
+    },
+    {
+     "id": "SFI-B-372",
+     "topic": "Изменившийся город",
+     "sv": "Arbetet börjar i början av april.",
+     "ru": "Работы начинаются в начале апреля."
+    },
+    {
+     "id": "SFI-B-373",
+     "topic": "Изменившийся город",
+     "sv": "Under byggtiden använder många människor en annan väg.",
+     "ru": "Во время строительства многие люди пользуются другим маршрутом."
+    },
+    {
+     "id": "SFI-B-374",
+     "topic": "Изменившийся город",
+     "sv": "Kommunen placerar tydliga skyltar längs gatan.",
+     "ru": "Муниципалитет устанавливает понятные указатели вдоль улицы."
+    },
+    {
+     "id": "SFI-B-375",
+     "topic": "Изменившийся город",
+     "sv": "En del butiker får färre besökare under arbetet.",
+     "ru": "Некоторые магазины получают меньше посетителей во время работ."
+    },
+    {
+     "id": "SFI-B-376",
+     "topic": "Изменившийся город",
+     "sv": "Flera invånare diskuterar förändringen på nätet.",
+     "ru": "Несколько жителей обсуждают изменения в интернете."
+    },
+    {
+     "id": "SFI-B-377",
+     "topic": "Изменившийся город",
+     "sv": "Vissa klagar på byggarbetet. Det tar för lång tid.",
+     "ru": "Некоторые жалуются на стройку. Она идёт слишком долго."
+    },
+    {
+     "id": "SFI-B-378",
+     "topic": "Изменившийся город",
+     "sv": "Andra ser många fördelar med den nya vägen.",
+     "ru": "Другие видят много преимуществ в новой дороге."
+    },
+    {
+     "id": "SFI-B-379",
+     "topic": "Изменившийся город",
+     "sv": "I slutet av sommaren öppnar vägen för allmänheten.",
+     "ru": "В конце лета дорога открывается для всех."
+    },
+    {
+     "id": "SFI-B-380",
+     "topic": "Изменившийся город",
+     "sv": "Stadens centrum blir mer tillgängligt för cyklister.",
+     "ru": "Центр города становится более доступным для велосипедистов."
+    },
+    {
+     "id": "SFI-B-381",
+     "topic": "Важная презентация",
+     "sv": "Nora förbereder en presentation inför ett viktigt möte.",
+     "ru": "Нора готовит презентацию к важной встрече."
+    },
+    {
+     "id": "SFI-B-382",
+     "topic": "Важная презентация",
+     "sv": "Hon samlar information och väljer ut de viktigaste punkterna.",
+     "ru": "Она собирает информацию и выбирает самые важные пункты."
+    },
+    {
+     "id": "SFI-B-383",
+     "topic": "Важная презентация",
+     "sv": "Presentationens första del handlar om företagets resultat.",
+     "ru": "Первая часть презентации посвящена результатам компании."
+    },
+    {
+     "id": "SFI-B-384",
+     "topic": "Важная презентация",
+     "sv": "Den andra delen visar framtida planer och mål.",
+     "ru": "Вторая часть показывает будущие планы и цели."
+    },
+    {
+     "id": "SFI-B-385",
+     "topic": "Важная презентация",
+     "sv": "Nora skapar tydliga bilder och enkla diagram.",
+     "ru": "Нора создаёт наглядные изображения и простые диаграммы."
+    },
+    {
+     "id": "SFI-B-386",
+     "topic": "Важная презентация",
+     "sv": "Hon tränar på att tala framför en spegel.",
+     "ru": "Она тренируется выступать перед зеркалом."
+    },
+    {
+     "id": "SFI-B-387",
+     "topic": "Важная презентация",
+     "sv": "På mötesdagen kommer hon till kontoret tidigare än vanligt.",
+     "ru": "В день встречи она приходит в офис раньше обычного."
+    },
+    {
+     "id": "SFI-B-388",
+     "topic": "Важная презентация",
+     "sv": "Flera kollegor sitter redan i konferensrummet.",
+     "ru": "Несколько коллег уже сидят в конференц-зале."
+    },
+    {
+     "id": "SFI-B-389",
+     "topic": "Важная презентация",
+     "sv": "Nora presenterar sitt arbete med lugn och tydlig röst.",
+     "ru": "Нора представляет свою работу спокойным и чётким голосом."
+    },
+    {
+     "id": "SFI-B-390",
+     "topic": "Важная презентация",
+     "sv": "Efter presentationen får hon flera positiva kommentarer.",
+     "ru": "После презентации она получает несколько положительных комментариев."
+    },
+    {
+     "id": "SFI-B-391",
+     "topic": "Планы на будущее",
+     "sv": "Alex tänker mycket på sina framtida möjligheter.",
+     "ru": "Алекс много думает о своих будущих возможностях."
+    },
+    {
+     "id": "SFI-B-392",
+     "topic": "Планы на будущее",
+     "sv": "Han vill utveckla sina kunskaper och hitta ett intressant arbete.",
+     "ru": "Он хочет развивать свои знания и найти интересную работу."
+    },
+    {
+     "id": "SFI-B-393",
+     "topic": "Планы на будущее",
+     "sv": "På kvällarna studerar han nya ämnen.",
+     "ru": "По вечерам он изучает новые предметы."
+    },
+    {
+     "id": "SFI-B-394",
+     "topic": "Планы на будущее",
+     "sv": "Ibland läser han böcker, ibland tittar han på utbildningsfilmer.",
+     "ru": "Иногда он читает книги, иногда смотрит обучающие видео."
+    },
+    {
+     "id": "SFI-B-395",
+     "topic": "Планы на будущее",
+     "sv": "På helgerna tränar han praktiska färdigheter.",
+     "ru": "По выходным он развивает практические навыки."
+    },
+    {
+     "id": "SFI-B-396",
+     "topic": "Планы на будущее",
+     "sv": "Han gör misstag, men varje försök ger honom erfarenhet.",
+     "ru": "Он совершает ошибки, но каждая попытка даёт ему опыт."
+    },
+    {
+     "id": "SFI-B-397",
+     "topic": "Планы на будущее",
+     "sv": "Nästa år ska han söka en utbildning.",
+     "ru": "В следующем году он собирается поступить на образовательную программу."
+    },
+    {
+     "id": "SFI-B-398",
+     "topic": "Планы на будущее",
+     "sv": "Han kommer att behöva planera sin tid noggrant.",
+     "ru": "Ему придётся тщательно планировать своё время."
+    },
+    {
+     "id": "SFI-B-399",
+     "topic": "Планы на будущее",
+     "sv": "Ett tydligt mål ger honom motivation att fortsätta.",
+     "ru": "Чёткая цель даёт ему мотивацию продолжать."
+    },
+    {
+     "id": "SFI-B-400",
+     "topic": "Планы на будущее",
+     "sv": "Framtiden erbjuder många möjligheter för lärande.",
+     "ru": "Будущее предлагает много возможностей для обучения."
+    }
+   ]
+  }
+ ]
+}
