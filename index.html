@@ -263,6 +263,34 @@ h3 { margin: 0 0 8px; font-size: 1.05rem; }
   letter-spacing: -0.01em;
 }
 
+.instruction-row {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+}
+.instruction-row .instruction { flex: 1; min-width: 0; }
+.speak {
+  flex: none;
+  box-sizing: border-box;
+  width: 124px;
+  min-height: 40px;
+  padding: 0 8px;
+  text-align: center;
+  white-space: nowrap;
+  border: 0;
+  border-radius: 999px;
+  background: var(--blue-soft);
+  color: var(--blue);
+  font: inherit;
+  font-weight: 700;
+  cursor: pointer;
+  box-shadow: inset 0 0 0 1.5px var(--blue);
+}
+.speak:hover:not(:disabled) { background: var(--blue); color: #fff; }
+.speak:disabled { opacity: 0.4; cursor: default; }
+.speak.playing { background: var(--blue); color: #fff; }
+
 .translation { margin-bottom: 18px; }
 .translation p {
   margin: 10px 0 0;
@@ -569,7 +597,10 @@ button, .tile, .slot, .level-card { touch-action: manipulation; -webkit-tap-high
 
       <div class="card">
         <div class="variant-switch" id="variantSwitch"></div>
-        <p class="instruction" id="instruction"></p>
+        <div class="instruction-row">
+          <p class="instruction" id="instruction"></p>
+          <button class="speak" id="speakBtn" type="button">▶ Слушать</button>
+        </div>
 
         <div class="translation" id="translationBox">
           <p id="translationText" hidden></p>
@@ -811,6 +842,41 @@ button, .tile, .slot, .level-card { touch-action: manipulation; -webkit-tap-high
     }));
   }
 
+  // ---------- Озвучка: встроенный синтез речи браузера, шведский голос ----------
+  const canSpeak = "speechSynthesis" in window && "SpeechSynthesisUtterance" in window;
+  function pickSvVoice() {
+    const voices = window.speechSynthesis.getVoices() || [];
+    return voices.find(v => /^sv[-_]SE/i.test(v.lang)) || voices.find(v => /^sv/i.test(v.lang)) || null;
+  }
+  let currentUtterance = null;
+  function setSpeaking(on) {
+    const btn = document.getElementById("speakBtn");
+    btn.textContent = on ? "❚❚ Стоп" : "▶ Слушать";
+    btn.classList.toggle("playing", on);
+  }
+  function stopSpeaking() {
+    currentUtterance = null;
+    try { window.speechSynthesis.cancel(); } catch { /* не важно */ }
+    setSpeaking(false);
+  }
+  function speakSentence(text) {
+    if (!canSpeak || !text) return;
+    try {
+      const u = new SpeechSynthesisUtterance(text);
+      u.lang = "sv-SE";
+      u.rate = 0.9;
+      const v = pickSvVoice();
+      if (v) u.voice = v;
+      u.onstart = () => { if (currentUtterance === u) setSpeaking(true); };
+      u.onend = u.onerror = () => { if (currentUtterance === u) setSpeaking(false); };
+      currentUtterance = u;
+      window.speechSynthesis.cancel();
+      window.speechSynthesis.speak(u);
+    } catch {
+      /* синтез недоступен — кнопка просто ничего не делает */
+    }
+  }
+
   // ---------- Тренажёр ----------
   function renderExercise() {
     const list = visibleExercises();
@@ -821,6 +887,7 @@ button, .tile, .slot, .level-card { touch-action: manipulation; -webkit-tap-high
       document.getElementById("exTopic").textContent = "";
       document.getElementById("exCounter").textContent = "";
       document.getElementById("instruction").textContent = "Упражнений для этого уровня пока нет.";
+      document.getElementById("speakBtn").disabled = true;
       ["variantSwitch", "answer", "tiles", "progress"].forEach(id =>
         document.getElementById(id).replaceChildren());
       document.getElementById("checkBtn").hidden = true;
@@ -840,6 +907,9 @@ button, .tile, .slot, .level-card { touch-action: manipulation; -webkit-tap-high
     document.getElementById("exTopic").textContent = ex.topic;
     document.getElementById("exCounter").textContent = `${state.index + 1} / ${list.length}`;
     document.getElementById("instruction").textContent = currentVariant(ex).instruction;
+    const speakBtn = document.getElementById("speakBtn");
+    speakBtn.disabled = !canSpeak;
+    speakBtn.title = canSpeak ? "Прослушать предложение" : "Озвучка недоступна в этом браузере";
 
     renderVariantSwitch(ex);
     renderTranslation(ex);
@@ -982,6 +1052,7 @@ button, .tile, .slot, .level-card { touch-action: manipulation; -webkit-tap-high
       if (!progress.completed.includes(ex.id)) progress.completed.push(ex.id);
       saveProgress();
       setFeedback("Верно.", "ok");
+      speakSentence(ex.sentence_sv);
       renderExercise();
       return;
     }
@@ -1202,6 +1273,11 @@ button, .tile, .slot, .level-card { touch-action: manipulation; -webkit-tap-high
       renderExercise();
     });
     document.getElementById("continueBtn").addEventListener("click", continueLearning);
+    document.getElementById("speakBtn").addEventListener("click", () => {
+      if (currentUtterance) { stopSpeaking(); return; }
+      const ex = currentExercise();
+      if (ex) speakSentence(ex.sentence_sv);
+    });
     window.addEventListener("hashchange", route);
   }
 
